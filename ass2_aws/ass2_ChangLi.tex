@@ -1,0 +1,392 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage{amssymb,amsmath}
+
+\begin{document}
+\title{Ass2 Solutions}
+\author{Chang Li}
+\maketitle
+
+\section{Solutions}
+
+\subsection{Prob 2.12}
+
+Prove convexity of halfspaces
+
+\subsubsection{Prob a}
+This set is convex. Let $B = \{x\in R^n | a^Tx\geq\alpha\}$, $C = \{x\in R^n | a^Tx\leq\beta\}$. \\
+Then the slab $S=B\cap C=\{x\in R^n | \alpha\leq a^Tx\leq\beta\}$.
+Because $B \text{\,and\,} C$ are both halfspaces hence convex and the intersection operation preserves convexity. Therefore slab $S$ is convex.
+
+\subsubsection{Prob b}
+This set is convex. Let $S = \{x\in R^n | \alpha_i\leq x\leq\beta_i, i = 1,\dots,n\}$ can be written as the intersection of a finite number of slabs
+$$
+S = \cap_{i=1,\dots,n} \{x\in R^n | \alpha_i\leq x\leq\beta_i\}
+$$
+From Prob a we know that slab is convex. Since the intersection operation preserves convexity, the set $S$ is also convex.
+
+\subsubsection{Prob c}
+This set is convex. Let $S = \{x\in R^n | a_1^Tx\leq b_1, a_2^Tx\leq b_2\}$, $A = \{x\in R^n | a_1^Tx\leq b_1\}$ and $A = \{x\in R^n | a_2^Tx\leq b_2\}$. Therefore, $S = A \cap B$. Since $A$ and $B$ are halfspaces hence convex, and the intersection operation preserves convexity, the set $S$ is also convex.
+
+\subsubsection{Prob d}
+This set is convex. Let $A = \{\|x-x_0\|_2 \leq \|x-y\|_2 \text{\,for all\,} y \in S\}$, then $A$ can be written as the intersection of a finite number of sets:
+$$
+A = \cap_{y\in S}\{\|x-x_0\|_2 \leq \|x-y\|_2\}
+$$
+When $y$ is fixed, let $B=\{\|x-x_0\|_2 \leq \|x-y\|_2\}$. We have,
+\begin{align*}
+	\|x-x_0\|_2 \leq \|x-y\|_2&\Longleftrightarrow(x-x_0)^T(x-x_0)\leq(x-y)^T(x-y)\\
+	&\Longleftrightarrow\; x^Tx-2x_0^Tx+x_0^Tx_0\leq x^Tx-2y^Tx+y^Ty\\
+	&\Longleftrightarrow\; 2(y-x_0)^Tx\leq y^Ty-x_0^Tx_0\\
+	&\Longleftrightarrow\; Ax\preceq b
+\end{align*}
+where,
+\begin{align*}
+	A=2
+	\begin{bmatrix}
+	y_1-x_0\\
+	y_2-x_0\\
+	\dots\\
+	y_n-x_0
+	\end{bmatrix}
+\end{align*}
+\begin{align*}
+b=
+\begin{bmatrix}
+y_1^Ty_1-x_0^Tx_0\\
+y_2^Ty_2-x_0^Tx_0\\
+\dots\\
+y_n^Ty_n-x_0^Tx_0
+\end{bmatrix}
+\end{align*}
+Therefore, for every $y \in S$, $B$ is a halfspace which is convex. Since the intersection operation preserves convexity and $A$ can be written as the intersection of a finite number of halfspaces, $A$ is also convex.
+
+\subsubsection{Prob e}
+In general this set is not convex. As an example, suppose $ x\in R$ , $S=\{-a,a\}$, $T=\{0\}$ and $a\in R^+$. Then we have,
+$$
+A=\{x|\text{dist}(x,S)\leq \text{dist}(x,T)\} = \{x\in R|x\leq -\frac{a}{2} \text{\;or\;} x \geq \frac{a}{2}\}
+$$
+where $c= -\frac{a}{2} \in A$ and $b= \frac{a}{2} \in a$. However, $0=\frac{1}{2}c+(1-\frac{1}{2})b\notin A$. Therefore, $A$ is not convex. So in general the set $\{x|\text{dist}(x,S)\leq \text{dist}(x,T)\} $ is not convex.
+
+\subsubsection{Prob f}
+This set is convex.  Let $S=\{x|x+S_2\subseteq S_1\}$. We have,
+$$
+S=\{x|x+S_2\subseteq S_1\}=\cap_{\text{for all\,}y\in S_2}\{x|x+y\subseteq S_1\}=\cap_{\text{for all\,}y\in S_2}(S_1-y)
+$$
+Since $S_1$ is convex, $S_1 - y$ is also convex. This is because for all $z\in S_1-y$, let $ m\in S_1$. Because $y$ is fixed, if $z_1=x_1-y\in S_1-y$ and $z_2=x_2-y\in S_1-y$, then $\theta z_1 + (1-\theta)z_2 = (\theta x_1 + (1-\theta)x_2) - y$. Because $S_1$ is convex, let $x_3=(\theta x_1 + (1-\theta)x_2)\in S_1$. Then $\theta z_1 + (1-\theta)z_2 = x_3-y \in S_1-y$.
+
+Therefore, $S$ is convex because it can be written as the intersection of convex sets.
+
+\subsubsection{Prob g}
+This set is convex. Let $S=\{x|\|x-a\|_2\leq \theta\|x-b\|_2\}$, where $0\leq \theta \leq 1$.
+\begin{align*}
+	\|x-a\|_2\leq \theta\|x-b\|_2 &\Longleftrightarrow\|(x-a)^T(x-a)\leq \theta^2(x-b)^T(x-b)\\
+	&\Longleftrightarrow x^Tx-2a^Tx+a^Ta\leq \theta^2(x^Tx-2b^Tx+b^Tb)\\
+	&\Longleftrightarrow (1-\theta^2)x^Tx - 2(a-\theta^2b)^Tx+(a^Ta-\theta^2b^Tb)\leq0
+\end{align*}
+Because $0\leq \theta \leq 1$, when $\theta=1$, $S=\{x|- 2(a-b)^Tx\leq-(a^Ta-b^Tb)\}$. Therefore, $S$ is a halfspace hence convex.
+
+When $\theta<1$
+\begin{align*}
+	S=\{x|(x-\frac{a-\theta^2b}{1-\theta^2})^T(x-\frac{a-\theta^2b}{1-\theta^2})\leq(\frac{\theta^2b^Tb-a^Ta}{1-\theta^2}-(\frac{a-\theta^2b}{1-\theta^2})^T(\frac{a-\theta^2b}{1-\theta^2}))\}
+\end{align*}
+Therefore, $S$ is a ball hence convex.
+
+
+\subsection{Prob 2.15}
+Let $P=\{p|\mathbf{1}^Tp=1, p\succeq0\}$. Because $\mathbf{1}^Tp=1$ defines a hyperplane and $p\succeq0$ define halfspaces, $P$ is an intersection of a hyperplane and halfspaces. Therefore, $P$ is a polyhedron hence convex.
+\subsubsection{a}
+This is convex constraint. The constraint can be written as:
+\begin{align}
+	\label{constraint:2.15.a.1}
+	Ef(x)\leq \beta \Longleftrightarrow \sum_{i=1}^{n}p_if(a_i)\leq \beta\\
+	\label{constraint:2.15.a.2}
+	Ef(x)\geq \alpha \Longleftrightarrow \sum_{i=1}^{n}p_if(a_i)\geq \alpha
+\end{align}
+
+Therefore, both constraints ~\ref{constraint:2.15.a.1} and ~\ref{constraint:2.15.a.2} are halfspaces hence are convex. Since $P$ is convex and the intersection operation preserves convexity, the intersection of $P$ and two halfspaces: $P^*=\{p|\mathbf{1}^Tp=1, p\succeq0, \alpha \leq \mathbf{E}f(x)\leq \beta\}$ is also convex.
+
+\subsubsection{b}
+This is convex constraint. Because $a$ is in ascent order, let $i^*$ equals the minimum index satisfies $a_i\geq \alpha$. The constraint can be written as:
+$$
+\text{prob}(x\geq \alpha)=\sum_{i^*}^np_i=\begin{bmatrix}
+0\\
+0\\
+\dots\\
+1\\
+1\\
+\dots\\
+1
+\end{bmatrix}^T
+\begin{bmatrix}
+p_1\\
+p_2\\
+\dots\\
+p_i^*\\
+p_{i^*+1}\\
+\dots\\
+p_n
+\end{bmatrix}=v^Tp\leq \beta
+$$
+Where the first $i^*-1$ elements of $v$ are zeros and all ones after $i^*$. Therefore the constraint defines a halfspace hence convex. Since $P$ is convex and the intersection operation preserves convexity, the intersection of $P$ and halfspace: $P^*=\{p|\mathbf{1}^Tp=1, p\succeq0, \text{prob}(x\geq \alpha)\}$ is also convex.
+
+\subsubsection{e}
+This is convex constraint. The constraint can be written as:
+$$
+\mathbf{E}x^2=\sum_{i=1}^{n}p_ia_i^2\geq \alpha
+$$
+which defines a halfspace hence convex. Since $P$ is convex and the intersection operation preserves convexity, the intersection of $P$ and halfspace: $P^*=\{p|\mathbf{1}^Tp=1, p\succeq0, \mathbf{E}x^2\}$ is also convex.
+
+\subsubsection{f}
+In general this is not a convex constraint. The constraint can be written as:
+$$
+\text{var}(x)=\mathbf{E}x^2-(\mathbf{E}x)^2=\sum_{i=1}^{n}p_ia_i^2 - (\sum_{i=1}^{n}p_ia_i)^2\leq\alpha
+$$
+Let $n=2$, $\alpha=0.1$, $a_1=1$ and $a_2=2$. Let $p_1=(1,0)$ and $p_2=(0,1)$. We have $var(p_1)=0\leq\alpha$ and $var(p_2)=0\leq\alpha$. However, the convex combination $p_3 = \frac{1}{2}p_1+\frac{1}{2}p_2=(\frac{1}{2},\frac{1}{2})$ doesn't satisfy the constraint $var(p_3)=0.25>\alpha$. Therefore, in general it is not a convex constraint.
+
+\subsection{Prob 3.14}
+
+\subsubsection{a}
+Since f(x,z) is second-order differentiable. Because for each fixed $x$, $f(x,z)$ is a concave function of $z$, we have $\nabla^2_{zz}f(x,z)\preceq0$. Because for each fixed $x$, $f(x,z)$ is a convex function of $x$, we have $\nabla^2_{xx}f(x,z)\succeq0$. 
+Therefore, in the Hessian matrix
+\begin{align*}
+\nabla^2f(x,z)=\begin{bmatrix}
+\nabla^2_{xx}f(x,z) & \nabla^2_{xz}f(x,z) \\
+\nabla^2_{xz}f(x,z) & \nabla^2_{zz}f(x,z) \\
+\end{bmatrix}
+\end{align*}
+The element $\nabla^2_{xx}f(x,z)\succeq0$ and the element $\nabla^2_{zz}f(x,z) \preceq0$.
+
+\subsubsection{b}
+Because for each fixed $\tilde{x}$, $f(\tilde{x},z)$ is a concave function of $z$, we also know that $\nabla f(\tilde{x},\tilde{z})=0$, therefore $\tilde{z}$ maxmizes $f(\tilde{x},z)$ over $z$ Therefore, we have $f(\tilde{x},z)\leq f(\tilde{x},\tilde{z})$, namely $inf_x sup_z f(x,z)\leq sup_zf(\tilde{x},z)\leq f(\tilde{x},\tilde{z})$.
+
+For similar reason, because for each fixed $\tilde{z}$, $f(x,\tilde{z})$ is a convex function of $x$, we also know that $\nabla f(\tilde{x},\tilde{z})=0$, therefore $\tilde{x}$ minimizes $f(x,\tilde{z})$ over $x$. Therefore, we have $f(\tilde{x},\tilde{z})\leq f(x,\tilde{z})$, namely $f(\tilde{x},\tilde{z})\leq inf_x f(x,\tilde{z}) \leq sup_z inf_x f(x,z)$.
+
+So we have $f(\tilde{x},z)\leq f(\tilde{x},\tilde{z})\leq f(x,\tilde{z})$.\\\\
+We also have:
+$$inf_x sup_z f(x,z)\leq sup_zf(\tilde{x},z)\leq f(\tilde{x},\tilde{z})\leq inf_x f(x,\tilde{z}) \leq sup_z inf_x f(x,z)$$
+
+However, according to equation 5.46 in Boyd's book\cite{boyd2004convex}. The following condition always hold:
+$$
+sup_z inf_x f(x,z) \leq inf_x sup_z f(x,z)
+$$
+Therefore, we have $sup_z inf_x f(x,z) = inf_x sup_z f(x,z) = f(\tilde{x},\tilde{z})$.
+
+\subsubsection{c}
+For all $x$, because the following holds $f(\tilde{x},\tilde{z})\leq f(x,\tilde{z})$. Therefore $\tilde{x}$ minimizes $f(x,\tilde{z})$ over all x. Therefore $\nabla f_x(\tilde{x},\tilde{z})=0$.
+
+For all $z$, because the following holds $f(\tilde{x},z)\leq f(\tilde{x},\tilde{z})$. Therefore $\tilde{z}$ maximizes $f(\tilde{x},z)$ over all z. Therefore $\nabla f_z(\tilde{x},\tilde{z})=0$.
+
+Therefore, $\nabla f(\tilde{x},\tilde{z})=0$.
+
+\subsection{Prob 3.16}
+
+\subsubsection{a}
+This is both convex and quasiconvex and quasiconcave but not concave. This is because:
+$$
+\nabla^2f(x)=e^x>0, \text{\;for all\;} x\in R
+$$
+Therefore $f(x)$ is both convex and quasiconvex. 
+
+For its superlevel sets:
+$$
+S_\alpha=\{x|e^x-1\geq \alpha\}
+$$
+is also convex. Let $x_1\leq x_2$, $e^{x_1}-1\geq \alpha$ and $e^{x_2}-1\geq \alpha$, then $x_1\leq \theta x_1+(1-\theta)x_2$ for $\theta\geq0$. Therefore, $e^{\theta x_1+(1-\theta)x_2}-1\geq  e^{x_1}-1\geq \alpha$ because $\nabla(e^x)=e^x>0$ which is increasing.
+
+\subsubsection{b}
+This is quasiconcave, but not convex, concave or quasiconvex. This is because
+\begin{align*}
+	\nabla^2f(x)=\begin{bmatrix}
+	0 & 1\\
+	1 & 0
+	\end{bmatrix}
+\end{align*}
+Therefore, the Hessian matrix of $f$ is neither positive semidefinite nor negative semidefinite. Therefore, it is neither convex nor concave. 
+
+However, it is quasiconcave, since the superlevel sets
+$$
+\{x\in R^2_{++}|x_1x_2\geq \alpha\}
+$$
+are convex sets for all $\alpha$.
+
+\subsubsection{c}
+This is convex and quasiconvex, but not concave or quasiconcave. This is because,
+\begin{align*}
+\nabla^2f(x)=\frac{1}{x_1x_2}\begin{bmatrix}
+\frac{2}{x_1^2} & \frac{1}{x_1x_2}\\
+\frac{1}{x_1x_2} & \frac{2}{x_2^2}
+\end{bmatrix}\succeq 0
+\end{align*}
+Therefore, $f(x)$ is convex and hence quasiconvex.
+
+\subsubsection{d}
+This is both quasiconvex and quasiconcave, but not convex or concave. This is because,
+\begin{align*}
+\nabla^2f(x)=\begin{bmatrix}
+0 & -\frac{1}{x_2^2}\\
+-\frac{1}{x_2^2} & 2\frac{x_1}{x_2^3}
+\end{bmatrix}
+\end{align*}
+Therefore, the Hessian matrix of $f$ is neither positive semidefinite nor negative semidefinite. Therefore, it is neither convex nor concave. 
+
+However, the superlevel is:
+$$
+\{x\in R^2_{++}|\frac{x_1}{x_2}\geq \alpha\}=\{x\in R^2_{++}|x_1 - \alpha x_2\geq 0\}
+$$
+the sublevel is:
+$$
+\{x\in R^2_{++}|\frac{x_1}{x_2}\leq \alpha\}=\{x\in R^2_{++}|x_1 - \alpha x_2\leq 0\}
+$$
+Since they are all halfspaces therefore convex. Therefore,  $f(x)$ is both quasiconvex and quasiconcave.
+
+\subsubsection{e}
+This is convex and quasiconvex, but not concave or quasiconcave. This is because:
+\begin{align*}
+\nabla^2f(x)=\frac{2}{x_2}\begin{bmatrix}
+1 & -\frac{x_1}{x_1x_2}\\
+-\frac{x_1}{x_1x_2} & \frac{x_1^2}{x_2^2}
+\end{bmatrix}=\frac{2}{x_2}\begin{bmatrix}
+1\\
+-\frac{x_1}{x_2}
+\end{bmatrix}
+\begin{bmatrix}
+1\\
+-\frac{x_1}{x_2}
+\end{bmatrix}^T
+\succeq 0
+\end{align*}
+Therefore, $f(x)$ is convex and hence quasiconvex.
+
+\subsubsection{f}
+This is concave and quasiconcave, but not convex or quasiconvex. This is because:
+\begin{align*}
+\nabla^2f(x)&=\alpha(\alpha-1)x_1^\alpha x_2^{1-\alpha}\begin{bmatrix}
+\frac{1}{x_1^2} & -\frac{1}{x_1x_2}\\
+-\frac{1}{x_1x_2} & \frac{1}{x_2^2}
+\end{bmatrix}\\
+&=\alpha(\alpha-1)x_1^\alpha x_2^{1-\alpha}\begin{bmatrix}
+\frac{1}{x_1}\\
+-\frac{1}{x_2}
+\end{bmatrix}
+\begin{bmatrix}
+\frac{1}{x_1}\\
+-\frac{1}{x_2}
+\end{bmatrix}^T
+\preceq 0
+\end{align*}
+Therefore, $f(x)$ is concave and hence quasiconcave.
+
+\subsection{Prob 3.16}
+
+\subsubsection{a}
+We first determine the domain for y of the conjugate function.
+\begin{align}
+	f^*(y) = sup_{x\in \text{dom}f}(y^Tx-max_{i=1,\dots,n}x_i)
+\end{align}
+
+First, let $y\prec0$. Suppose $x_j=-t$, $x_i=0 \text{\;for\;} i \neq k$ and let $t$ go to infinity, so that:
+$$
+y^Tx-max_{i=1,\dots,n}x_i=-ty_j \rightarrow \infty
+$$
+Therefore, $y\prec0$ is not in the domain $\text{dom}f^*$.
+
+Let $y\succeq0$. Let $x=t\mathbf{1}$ and $t$ go to infinity, we have,
+$$
+y^Tx-max_{i=1,\dots,n}x_i=t\mathbf{1}^Ty-t= (\mathbf{1}^Ty-1)t
+$$
+Therefore, when $\mathbf{1}^Ty \neq 1$, we always have $y^Tx-max_{i=1,\dots,n}x_i\rightarrow \infty$ (Let $x=-t\mathbf{1}$ when $\mathbf{1}^Ty<1$). When $\mathbf{1}^Ty=1$, so that:
+$$
+y^Tx-max_{i=1,\dots,n}x_i\leq 0 \text{\; for all \;}x
+$$
+When $x=0$, $y^Tx-max_{i=1,\dots,n}x_i=0$. Therefore, we have
+\begin{align*}
+	f^*(y)=
+	\begin{cases}
+	0 & if\; y\succeq0, \mathbf{1}^Ty=1\\
+	\infty & otherwise
+	\end{cases}
+\end{align*}
+
+\subsubsection{b}
+We first determine the domain for y of the conjugate function.
+\begin{align}
+f^*(y) = sup_{x\in \text{dom}f}(y^Tx-\sum_{i=1}^{r}x_{[i]})
+\end{align}
+
+First, let $y\prec0$. Suppose $x_j=-t$, $x_i=0 \text{\;for\;} i \neq k$ and let $t$ go to infinity, so that:
+$$
+y^Tx-\sum_{i=1}^{r}x_{[i]}=-ty_j \rightarrow \infty
+$$
+Therefore, $y\prec0$ is not in the domain $\text{dom}f^*$.
+
+Let $y\succeq0$. Let $x=t\mathbf{1}$ and $t$ go to infinity, we have,
+$$
+y^Tx-\sum_{i=1}^{r}x_{[i]}=t\mathbf{1}^Ty-tr= (\mathbf{1}^Ty-r)t
+$$
+Therefore, when $\mathbf{1}^Ty \neq r$, we always have $y^Tx-\sum_{i=1}^{r}x_{[i]}\rightarrow \infty$ (Let $x=-t\mathbf{1}$ when $\mathbf{1}^Ty<r$). When $\mathbf{1}^Ty=r$, so that:
+$$
+y^Tx-\sum_{i=1}^{r}x_{[i]}\leq 0 \text{\; for all \;}x
+$$
+When $x=0$, $y^Tx-\sum_{i=1}^{r}x_{[i]}=0$. Therefore, we have
+\begin{align*}
+f^*(y)=
+\begin{cases}
+0 & if\; y\succeq0, \mathbf{1}^Ty=r\\
+\infty & otherwise
+\end{cases}
+\end{align*}
+
+
+\subsubsection{e}
+We first determine the domain for y of the conjugate function.
+\begin{align}
+f^*(y) = sup_{x\in \text{dom}f}(y^Tx-(-(\prod x_i)^{1/n}))
+\end{align}
+
+First, let $y\succ0$. Suppose $x_j=t$, $x_i=1 \text{\;for\;} i \neq k$ and let $t$ go to infinity, so that:
+$$
+y^Tx-(-(\prod x_i)^{1/n})=ty_j +\sum_{i\neq j}y_i+t^{1/n}\rightarrow \infty
+$$
+Therefore, $y\succ0$ is not in the domain $\text{dom}f^*$.
+
+Let $y\preceq0$. Let $x_i=-\frac{t}{y_i}$ and $t$ go to infinity, we have,
+$$
+y^Tx-(-(\prod x_i)^{1/n})=-tn-t(-(\prod (-\frac{1}{y_i}))^{1/n})= ((\prod (-\frac{1}{y_i}))^{1/n}-n)t
+$$
+Therefore, when $\prod (-y_i)^{1/n} \leq \frac{1}{n}$, we always have $y^Tx-(-(\prod x_i)^{1/n})\rightarrow \infty$. When $\prod (-y_i)^{1/n} \geq \frac{1}{n}$, because $x\in R_{++}^n$, according to arithmetic-geometric mean inequality we have that:
+$$
+-\frac{y^Tx}{n}\geq (\prod_i(-y_ix_i))^{1/n}\geq\frac{1}{n}(\prod_i x_i)^{1/n}
+$$
+Namely, $y^Tx-f(x) \leq 0$. When $x_i=-\frac{t}{y_i}$, $y^Tx-(-(\prod x_i)^{1/n})=0$. Therefore, we have
+\begin{align*}
+f^*(y)=
+\begin{cases}
+0 & if\; y\preceq0, \prod (-y_i)^{1/n} \geq \frac{1}{n}\\
+\infty & otherwise
+\end{cases}
+\end{align*}
+
+\subsection{Polyhedron}
+Let $S=\{A,B,C,D,E,F\}=\{(-1, 2), (0, 3), (2, 0), (2, -2), (0, 0), (-1, 0)\}$.
+According to Quickhull algorithm\cite{wiki:xxx}, ultimate points are $A, B, C, D \text{ \; and\;} F$. So the polyhedron can be expressed as:
+\begin{align*}
+\begin{bmatrix}
+-1 & 1\\
+3 & 2\\
+-2 & -3\\
+1 & 0\\
+-1 & 0\\
+\end{bmatrix}
+\begin{bmatrix}
+x_1\\
+x_2
+\end{bmatrix}\preceq
+\begin{bmatrix}
+3\\6\\2\\2\\1
+\end{bmatrix}
+\end{align*}
+
+	\renewcommand\refname{Bibliography}
+	\bibliographystyle{ieeetr}
+	\bibliography{ass2_ChangLi}
+\end{document}

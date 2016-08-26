@@ -1,0 +1,171 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage{amssymb,amsmath}
+
+\begin{document}
+\title{Ass1 Solutions}
+\author{Chang Li}
+\maketitle
+
+\section{Solutions}
+
+\subsection{Prob1.}
+If $det(A) = 0$, then $det(A^T) = 0$, therefore $det(A) = det(A^T)$.\\
+If $det(A) \neq 0$, then matrix has inverse. So $A$ is a full rank matrix. Since every full rank matrix can be written as a product of elementary matrices:
+$$
+R_1\dots R_tI_nC_1\dots C_s
+$$
+where $R_i$ are row elementary matrices and $C_i$ are column elementary matrices. We know that for all elementary matrices, $det(E) = det(E^T)$ (because column expansion or row expansion of $det$ doesn't change the value) and $(A_1\dots A_n)^T = A_n^T\dots A_1^T$. $det(I_n) = det(I_n^T) = 1$ Therefore, 
+\begin{align*}
+	det(A^T) &= det((R_1\dots R_tI_nC_1\dots C_s)^T)\\
+	&= det(C_s^T\dots C_1^T I_n^T R_t^T\dots R_1^T) \\
+	&= det(C_s^T)\dots det(C_1^T) det(I_n^T) det(R_t^T)\dots det(R_1^T) \\
+	&= det(C_s)\dots det(C_1) det(I_n) det(R_t)\dots det(R_1) \\
+	&= det(R_1)\dots det(R_t) det(I_n) det(C_1) \dots det(C_s) \\
+	&= det(R_1\dots R_tI_nC_1\dots C_s) \\
+	&= det(A)
+\end{align*}
+
+\subsection{Prob 2.}
+For any $n$, an identity matrix $A\in R^{n\times n}$ is a matrix only have element equal to 1 on diagonal and all other places are 0s
+
+\begin{align*}
+A = \left[ \begin{matrix}
+1 & 0 & \dots & 0 \\
+0 & 1 & \dots & 0 \\
+\dots & \dots & &\dots\\
+0 & 0 & \dots & 1
+\end{matrix} \right]
+\end{align*}
+
+Assume that when $A$ is an indentity matrix of $A\in R^{n\times n}$, $det(A) = \prod_{i=1}^{n}{a_{ii}} = 1$. We prove this using induction.\\
+
+When $n=1$, $A$ is a scalar and $det(A) = a_{11} = 1$. 
+
+When the size is $n-1$, $det(A^{(n-1)\times (n-1)}) = \prod_{i=1}^{n-1}{a_{ii}} = 1$. When consider the identity matrix of size n, expanding the matrix along the first row. Since only the first element is 1 and all the other are 0s, we have:
+\begin{align*}
+&1\times det(A^{(n-1)\times (n-1)}) + 0 +\dots+0 \\
+&= a_{11} \times  \prod_{i=2}^{n}{a_{ii}}\\
+&=\prod_{i=1}^{n}{a_{ii}} = 1
+\end{align*}
+
+Therefore, for any $n$ we have $det(A) = 1$, when $A$ is an identity matrix and $A\in R^{n\times n}$.
+
+\subsection{Prob 3.}
+For any triangular matrix $A$ of size $n\times n$, $det(A) = \prod_{i=1}^na_{ii}$. Therefore, if $A$ has eigen values then,
+\begin{align}
+\label{eq:triang}
+det(\lambda I-A) &=\prod_{i=1}^n(\lambda-a_{ii})\\
+&=0
+\end{align}
+The equation~\ref{eq:triang} holds if and only if $\lambda_i = a{ii}$ for some $i$. Therefore, the diagonal elements are equal to eigen values.
+
+\subsection{Prob 4.}
+\begin{align*}
+	A = \left[ \begin{matrix}
+	0 & 1 \\
+	1 & 0
+	\end{matrix} \right]
+\end{align*}
+
+\begin{align*}
+det(\lambda I-A) &=\left[ \begin{matrix}
+\lambda & -1 \\
+-1 & \lambda
+\end{matrix} \right]\\
+&=\lambda^2-1=0
+\end{align*}
+
+Therefore, matrix A has two eigen values. $\lambda_1 = 1$ and $\lambda_2 = -1$. Matrix $A$ is non-negative but $\lambda_2 = -1< 0$.
+
+\subsection{Prob 5.}
+
+(a) 
+$$\dfrac{\partial (a^Tx)}{\partial x} = \dfrac{\partial (x^Ta)}{\partial x} = a$$
+$$ \nabla f(x) = a$$
+
+(b)
+Suppose $y=Px$,
+\begin{align*}
+\dfrac{\partial (x^TPx)}{\partial x} &= \dfrac{\partial (x^Ty)}{\partial x} +  \dfrac{\partial y^T}{\partial x} \dfrac{\partial (x^Ty)}{\partial y} \\
+&= y + \dfrac{\partial (x^TP^T)}{\partial x} \dfrac{\partial (x^Ty)}{\partial y} \\
+&= y + P^Tx = (P+P^T)x
+\end{align*}
+
+Therefore,
+$$ \nabla f(x) = \dfrac{1}{2}(P+P^T)x + q$$
+
+(c)
+Because $P=P^T$,
+$$ \nabla f(x) = \dfrac{1}{2}(P+P^T)x = Px$$
+
+(d)
+Suppose $g(x)= exp(a^Tx+b)$, then $f(x)=f(g(x))=\dfrac{g(x)}{1+g(x)}$
+\begin{align*}
+\dfrac{\partial g(x)}{\partial x} = \dfrac{\partial (exp(a^Tx+b))}{\partial x} =  exp(a^Tx+b)a
+\end{align*}
+Therefore, $$ \nabla f(x) = a\dfrac{exp(a^Tx+b)}{(1+exp(a^Tx+b))^2}$$
+
+\subsection{Prob 6.}
+Suppose $X^T=[X_1^T, X_2^T,\dots X_n^T]^T$, where $X_i\in R^m$ is the $i$th column of $X$. Similarly $Y=[Y_1, Y_2,\dots ,Y_n]$ where $Y_i\in R^m$ is the $i$th column of $Y$. Therefore, let $C=X^TY$ then,
+\begin{align*}
+C = \left[ \begin{matrix}
+X_1^TY1 & X_1^TY2 & \dots & X_1^TY_n \\
+X_2^TY1 & X_2^TY2 & \dots & X_2^TY_n \\
+\dots & \dots & &\dots\\
+X_n^TY1 & X_n^TY2 & \dots & X_n^TY_n
+\end{matrix} \right]
+\end{align*}
+Therefore,
+\begin{align}
+\label{eq:trace_innerp}
+\langle X, Y\rangle=tr(X^TY)=\sum_{i=1}^{n}{X_i^TY_i}=\sum_{i=1}^{n}\sum_{j=1}^{m}{x_{ji}y_{ji}}
+\end{align}
+
+Property1: symmetry
+\begin{align*}
+	\langle X, Y\rangle&=tr(X^TY)\\
+	&=\sum_{i=1}^{n}\sum_{j=1}^{n}{y_{ji}x_{ji}}\\
+	&=tr(Y^TX)\\
+	&=\langle Y,X\rangle
+\end{align*}
+
+Property2: linearity
+
+Since $\text{tr}(X+Y)=\text{tr}(X)+\text{tr}(Y)$ and $ \text{tr}(\lambda X)=\lambda\text{tr}(X)$.
+\begin{align*}
+\langle cA+B, Y\rangle&=\text{tr}((cA+B)^TY)\\
+&=\text{tr}(cA^TY+B^TY)\\
+&=c\text{tr}(A^TY)+\text{tr}(B^TY)\\
+&=c\langle A, Y\rangle + \langle B, Y\rangle
+\end{align*}
+
+Property3: definiteness
+
+From equation~\ref{eq:trace_innerp}, $\langle A, A\rangle=\sum_{i=1}^{n}\sum_{j=1}^{m}{a_{ji}^2}$. Therefore, $\langle A, A\rangle=0 \text{ iff } A=0$, otherwise $\langle A, A\rangle>0$.
+
+
+\subsection{Prob 7.}
+Proof:
+
+Suppose $x^TAx = a$. Because $x\in R^n, A\in R^{n\times n}$, then $ a \in R$, then $(x^TAx)^T = a^T=a$. Because $(AA^T)^T=A^TA$,
+\begin{align*}
+(x^TAx)^T &= x^TA^Tx\\
+&=x^T(-A)x\\
+&= -(x^TAx)\\
+&= -a
+\end{align*}
+Therefore, $a = -a, a=0$, namely $x^TAx=0$.
+
+\subsection{Prob 8.}
+Proof:
+
+Because $\operatorname{E}(X)=0, \operatorname{E}(Y)=0$. Therefore,  $Var(X) = E(X^2)-E(X)^2=E(X^2)$ and similarly, $Var(Y) =E(Y^2)$. $Cov(X,Y)=E(XY)-E(X)E(Y)=E(XY)$. According to Cauchy - Schwarz inequality $| \langle X, Y\rangle |^2 \leq \langle X, X \rangle \langle Y , Y \rangle$
+\begin{align*}
+|\operatorname{Cov}(X,Y)|^2 &= |\operatorname{E}(XY)|^2 \\
+&= | \langle X, Y\rangle |^2\\
+&\leq \langle X, X \rangle \langle Y , Y \rangle \\
+& = \operatorname{E}( X^2 ) \operatorname{E}( Y^2 ) \\
+& = \operatorname{Var}(X) \operatorname{Var}(Y)
+\end{align*}
+
+\end{document}

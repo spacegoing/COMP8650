@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ass2_ChangLi.aux
+The style file: ieeetr.bst
+Database file #1: ass2_ChangLi.bib
+You've used 2 entries,
+            1876 wiz_defined-function locations,
+            486 strings with 3677 characters,
+and the built_in function-call counts, 318 in all, are:
+= -- 28
+> -- 12
+< -- 0
++ -- 5
+- -- 3
+* -- 13
+:= -- 54
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 13
+empty$ -- 39
+format.name$ -- 3
+if$ -- 77
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 11
+num.names$ -- 2
+pop$ -- 13
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 5
+stack$ -- 0
+substring$ -- 0
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 2
+width$ -- 3
+write$ -- 20

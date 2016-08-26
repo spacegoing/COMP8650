@@ -1,0 +1,55 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage{amssymb,amsmath}
+
+\begin{document}
+\title{Solution For Ass1}
+\author{Chang Li}
+\maketitle
+
+\section{Solutions}
+
+\subsection{Prob1.}
+If $det(A) = 0$, then $det(A^T) = 0$, therefore $det(A) = det(A^T)$.\\
+If $det(A) \neq 0$, then matrix has inverse. So $A$ is a full rank matrix. Since every full rank matrix can be written as a product of elementary matrices:
+$$
+R_1\dots R_tI_nC_1\dots C_s
+$$
+where $R_i$ are row elementary matrices and $C_i$ are column elementary matrices. We know that for all elementary matrices, $det(E) = det(E^T)$ (because column expansion or row expansion of $det$ doesn't change the value) and $(A_1\dots A_n)^T = A_n^T\dots A_1^T$. $det(I_n) = det(I_n^T) = 1$ Therefore, 
+\begin{align*}
+	det(A^T) &= det((R_1\dots R_tI_nC_1\dots C_s)^T)\\
+	&= det(C_s^T\dots C_1^T I_n^T R_t^T\dots R_1^T) \\
+	&= det(C_s^T)\dots det(C_1^T) det(I_n^T) det(R_t^T)\dots det(R_1^T) \\
+	&= det(C_s)\dots det(C_1) det(I_n) det(R_t)\dots det(R_1) \\
+	&= det(R_1)\dots det(R_t) det(I_n) det(C_1) \dots det(C_s) \\
+	&= det(R_1\dots R_tI_nC_1\dots C_s) \\
+	&= det(A)
+\end{align*}
+
+\subsection{Prob 2.}
+For any $n$, an identity matrix $A\in R^{n\times n}$ is a matrix only have element equal to 1 on diagonal and all other places are 0s
+
+\begin{align*}
+A = \left[ \begin{matrix}
+1 & 0 & \dots & 0 \\
+0 & 1 & \dots & 0 \\
+\dots & \dots & &\dots\\
+0 & 0 & \dots & 1
+\end{matrix} \right]
+\end{align*}
+
+We assume that when $A$ is an indentity matrix of $A\in R^{n\times n}$, $det(A) = \prod_{i=1}^{n}{a_{ii}} = 1$. We prove this using induction.\\
+
+When $n=1$, $A$ is a scalar and $det(A) = a_{11} = 1$. 
+
+When $n>1$, $det(A_{n-1}) = \prod_{i=1}^{n-1}{a_{ii}} = 1$. When we consider the square matrix of size n, we expand the matrix along the first row. Since only the first element is 1 and all the other are 0s, we have:
+\begin{align*}
+&1\times det(A_{n-1}) + 0 +\dots+0 \\
+&= a11 \times  \prod_{i=2}^{n}{a_{ii}}\\
+&=\prod_{i=1}^{n}{a_{ii}} = 1
+\end{align*}
+
+Therefore, $det(A) = 1$, when $A$ is an identity matrix and $A\in R^{n\times n}$.
+
+
+
+\end{document}
