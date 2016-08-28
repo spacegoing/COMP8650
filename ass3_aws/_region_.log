@@ -1,0 +1,1750 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=prv_ass3_ChangLi 2016.8.27)  28 AUG 2016 18:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**&prv_ass3_ChangLi _region_.tex
+(./_region_.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+CUSTOMISED FORMAT. Preloaded files:
+        .
+ article.cls    2014/09/29 v1.4h Standard LaTeX document class
+  size10.clo    2014/09/29 v1.4h Standard LaTeX file (size option)
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+ amsmath.sty    2013/01/14 v2.14 AMS math features
+ amstext.sty    2000/06/29 v2.01
+  amsgen.sty    1999/11/30 v2.0
+  amsbsy.sty    1999/11/29 v1.2d
+  amsopn.sty    1999/12/14 v2.01 operator names
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+        .
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/preview.sty
+Package: preview 2010/02/14 11.89 (AUCTeX/preview-latex)
+
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prtightpage.def
+\PreviewBorder=\dimen112
+)
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count99
+\hfuzz=\dimen113
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.cfg))
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prfootnotes.def)
+\pr@snippet=\count100
+\pr@box=\box28
+\pr@output=\toks20
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+)  !name(ass3_ChangLi.tex) !offset(-3) 
+! Preview: Snippet 1 started.
+<-><->
+      
+l.12 \section
+             {Solutions}
+Not a real error.
+
+Preview: Tightpage -32891 -32891 32891 32891
+! Preview: Snippet 1 ended.(655359+0x22609920).
+<-><->
+      
+l.12 \section{Solutions}
+                        
+Not a real error.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+! Preview: Snippet 2 started.
+<-><->
+      
+l.14 \subsection
+                {Prob 4.3}
+Not a real error.
+
+! Preview: Snippet 2 ended.(546132+0x22609920).
+<-><->
+      
+l.14 \subsection{Prob 4.3}
+                          
+Not a real error.
+
+[2
+
+]
+! Preview: Snippet 3 started.
+<-><->
+      
+l.15 Because $
+              \nabla f(x) = \frac{1}{2}(P+P^T)x + q$,
+Not a real error.
+
+! Preview: Snippet 3 ended.(553676+225995x7352878).
+<-><->
+      
+l.15 ...se $\nabla f(x) = \frac{1}{2}(P+P^T)x + q$
+                                                  ,
+Not a real error.
+
+[3]
+! Preview: Snippet 4 started.
+<-><->
+      
+l.17 \begin{align*}
+                   
+Not a real error.
+
+! Preview: Snippet 4 ended.(7608550+0x20800999).
+<-><->
+      
+l.62 \end{align*}
+                 
+Not a real error.
+
+[4]
+
+LaTeX Warning: Citation `boyd2004convex' on page 2 undefined on input line 63.
+
+! Preview: Snippet 5 started.
+<-><->
+      
+l.64 $
+      y$ satisfying $y_i \in [-1,1], \; i=1,2,3$, the optimality
+Not a real error.
+
+! Preview: Snippet 5 ended.(282168+127431x344824).
+<-><->
+      
+l.64 $y$
+         satisfying $y_i \in [-1,1], \; i=1,2,3$, the optimality
+Not a real error.
+
+[5]
+! Preview: Snippet 6 started.
+<-><->
+      
+l.64 $y$ satisfying $
+                     y_i \in [-1,1], \; i=1,2,3$, the optimality
+Not a real error.
+
+! Preview: Snippet 6 ended.(491520+163840x6299410).
+<-><->
+      
+l.64 $y$ satisfying $y_i \in [-1,1], \; i=1,2,3$
+                                                , the optimality
+Not a real error.
+
+[6]
+! Preview: Snippet 7 started.
+<-><->
+      
+l.66 \begin{align*}
+                   
+Not a real error.
+
+! Preview: Snippet 7 ended.(3407894+0x18013023).
+<-><->
+      
+l.77 \end{align*}
+                 
+Not a real error.
+
+[7]
+! Preview: Snippet 8 started.
+<-><->
+      
+l.78 therefore, $
+                 x^*$ is optimal for $f(x)$.
+Not a real error.
+
+! Preview: Snippet 8 ended.(451272+0x675840).
+<-><->
+      
+l.78 therefore, $x^*$
+                      is optimal for $f(x)$.
+Not a real error.
+
+[8]
+! Preview: Snippet 9 started.
+<-><->
+      
+l.78 therefore, $x^*$ is optimal for $
+                                      f(x)$.
+Not a real error.
+
+! Preview: Snippet 9 ended.(491520+163840x1275680).
+<-><->
+      
+l.78 therefore, $x^*$ is optimal for $f(x)$
+                                           .
+Not a real error.
+
+[9]
+! Preview: Snippet 10 started.
+<-><->
+      
+l.81 \subsection
+                {Prob 4.8}
+Not a real error.
+
+! Preview: Snippet 10 ended.(546132+0x22609920).
+<-><->
+      
+l.81 \subsection{Prob 4.8}
+                          
+Not a real error.
+
+[10
+
+]
+! Preview: Snippet 11 started.
+<-><->
+      
+l.83 \subsubsection
+                   {a}
+Not a real error.
+
+! Preview: Snippet 11 ended.(422343+0x22609920).
+<-><->
+      
+l.83 \subsubsection{a}
+                      
+Not a real error.
+
+[11
+
+]
+! Preview: Snippet 12 started.
+<-><->
+      
+l.85 \begin{align*}
+                   
+Not a real error.
+
+! Preview: Snippet 12 ended.(1902156+0x15503458).
+<-><->
+      
+l.88 \end{align*}
+                 
+Not a real error.
+
+[12]
+! Preview: Snippet 13 started.
+<-><->
+      
+l.89 $
+      L$ is bounded below if and only if $c+A^Tv=0$. Therefore, the
+Not a real error.
+
+! Preview: Snippet 13 ended.(447828+0x446010).
+<-><->
+      
+l.89 $L$
+         is bounded below if and only if $c+A^Tv=0$. Therefore, the
+Not a real error.
+
+[13]
+! Preview: Snippet 14 started.
+<-><->
+      
+l.89 $L$ is bounded below if and only if $
+                                          c+A^Tv=0$. Therefore, the
+Not a real error.
+
+! Preview: Snippet 14 ended.(551306+54613x3531644).
+<-><->
+      
+l.89 ...is bounded below if and only if $c+A^Tv=0$
+                                                  . Therefore, the
+Not a real error.
+
+[14]
+! Preview: Snippet 15 started.
+<-><->
+      
+l.90 primal problem's optimal value $
+                                     p^*=-b^Tv$ for some $v$
+Not a real error.
+
+! Preview: Snippet 15 ended.(551306+127431x3049837).
+<-><->
+      
+l.90 primal problem's optimal value $p^*=-b^Tv$
+                                                for some $v$
+Not a real error.
+
+[15]
+! Preview: Snippet 16 started.
+<-><->
+      
+l.90 ...lem's optimal value $p^*=-b^Tv$ for some $
+                                                  v$
+Not a real error.
+
+! Preview: Snippet 16 ended.(282168+0x341181).
+<-><->
+      
+l.90 ...m's optimal value $p^*=-b^Tv$ for some $v$
+                                                  
+Not a real error.
+
+[16]
+! Preview: Snippet 17 started.
+<-><->
+      
+l.91 satisfying $
+                 c+A^Tv=0$. The primal problem is unbounded otherwise.
+Not a real error.
+
+! Preview: Snippet 17 ended.(551306+54613x3531644).
+<-><->
+      
+l.91 satisfying $c+A^Tv=0$
+                          . The primal problem is unbounded otherwise.
+Not a real error.
+
+[17]
+! Preview: Snippet 18 started.
+<-><->
+      
+l.93 \subsubsection
+                   {b}
+Not a real error.
+
+! Preview: Snippet 18 ended.(455111+0x22609920).
+<-><->
+      
+l.93 \subsubsection{b}
+                      
+Not a real error.
+
+[18
+
+]
+! Preview: Snippet 19 started.
+<-><->
+      
+l.96 \begin{align*}
+                   
+Not a real error.
+
+! Preview: Snippet 19 ended.(1902156+0x15265592).
+<-><->
+      
+l.99 \end{align*}
+                 
+Not a real error.
+
+[19]
+! Preview: Snippet 20 started.
+<-><->
+      
+l.100 $
+       L$ is bounded below if and only if $c+a^T\lambda=0$ and
+Not a real error.
+
+! Preview: Snippet 20 ended.(447828+0x446010).
+<-><->
+      
+l.100 $L$
+          is bounded below if and only if $c+a^T\lambda=0$ and
+Not a real error.
+
+[20]
+! Preview: Snippet 21 started.
+<-><->
+      
+l.100 $L$ is bounded below if and only if $
+                                           c+a^T\lambda=0$ and
+Not a real error.
+
+! Preview: Snippet 21 ended.(551306+54613x3427653).
+<-><->
+      
+l.100 ...ded below if and only if $c+a^T\lambda=0$
+                                                   and
+Not a real error.
+
+[21]
+! Preview: Snippet 22 started.
+<-><->
+      
+l.101 $
+       \lambda\geq0$. Therefore, the primal problem has optimal value
+Not a real error.
+
+! Preview: Snippet 22 ended.(455111+89110x1583782).
+<-><->
+      
+l.101 $\lambda\geq0$
+                    . Therefore, the primal problem has optimal value
+Not a real error.
+
+[22]
+! Preview: Snippet 23 started.
+<-><->
+      
+l.102 $
+       p^*=-b\lambda$ for some $\lambda$ satisfying $c+a^T\lambda=0$ and
+Not a real error.
+
+! Preview: Snippet 23 ended.(455111+127431x2678097).
+<-><->
+      
+l.102 $p^*=-b\lambda$
+                      for some $\lambda$ satisfying $c+a^T\lambda=0$ and
+Not a real error.
+
+[23]
+! Preview: Snippet 24 started.
+<-><->
+      
+l.102 $p^*=-b\lambda$ for some $
+                                \lambda$ satisfying $c+a^T\lambda=0$ and
+Not a real error.
+
+! Preview: Snippet 24 ended.(455111+0x382295).
+<-><->
+      
+l.102 $p^*=-b\lambda$ for some $\lambda$
+                                         satisfying $c+a^T\lambda=0$ and
+Not a real error.
+
+[24]
+! Preview: Snippet 25 started.
+<-><->
+      
+l.102 ...b\lambda$ for some $\lambda$ satisfying $
+                                                  c+a^T\lambda=0$ and
+Not a real error.
+
+! Preview: Snippet 25 ended.(551306+54613x3427653).
+<-><->
+      
+l.102 ...ome $\lambda$ satisfying $c+a^T\lambda=0$
+                                                   and
+Not a real error.
+
+[25]
+! Preview: Snippet 26 started.
+<-><->
+      
+l.103 $
+       \lambda\geq0$. Otherwise the primal problem is unbounded below.
+Not a real error.
+
+! Preview: Snippet 26 ended.(455111+89110x1583782).
+<-><->
+      
+l.103 $\lambda\geq0$
+                    . Otherwise the primal problem is unbounded below.
+Not a real error.
+
+[26]
+! Preview: Snippet 27 started.
+<-><->
+      
+l.105 \subsubsection
+                    {c}
+Not a real error.
+
+! Preview: Snippet 27 ended.(422343+0x22609920).
+<-><->
+      
+l.105 \subsubsection{c}
+                       
+Not a real error.
+
+[27
+
+]
+! Preview: Snippet 28 started.
+<-><->
+      
+l.108 $
+       \sum_{i=1}^nc_ix_i$. Therefore, the objective function
+Not a real error.
+
+! Preview: Snippet 28 ended.(527024+196611x2777281).
+<-><->
+      
+l.108 $\sum_{i=1}^nc_ix_i$
+                          . Therefore, the objective function
+Not a real error.
+
+[28]
+! Preview: Snippet 29 started.
+<-><->
+      
+l.109 reaches minimal when each of component $
+                                              c_ix_i$ is
+Not a real error.
+
+! Preview: Snippet 29 ended.(282168+98303x1094543).
+<-><->
+      
+l.109 ...s minimal when each of component $c_ix_i$
+                                                   is
+Not a real error.
+
+[29]
+! Preview: Snippet 30 started.
+<-><->
+      
+l.110 minimized subject to $
+                            l_i\leq x_i\leq u_i$.
+Not a real error.
+
+! Preview: Snippet 30 ended.(455111+98303x3347444).
+<-><->
+      
+l.110 minimized subject to $l_i\leq x_i\leq u_i$
+                                                .
+Not a real error.
+
+[30]
+! Preview: Snippet 31 started.
+<-><->
+      
+l.112 Therefore, for all indices such that $
+                                            c_i>0$ we have
+Not a real error.
+
+! Preview: Snippet 31 ended.(422343+98303x1703286).
+<-><->
+      
+l.112 Therefore, for all indices such that $c_i>0$
+                                                   we have
+Not a real error.
+
+[31]
+! Preview: Snippet 32 started.
+<-><->
+      
+l.113 $
+       x_i=l_i$ and for all indices such that $c_i<0$ we have
+Not a real error.
+
+! Preview: Snippet 32 ended.(455111+98303x1880284).
+<-><->
+      
+l.113 $x_i=l_i$
+                and for all indices such that $c_i<0$ we have
+Not a real error.
+
+[32]
+! Preview: Snippet 33 started.
+<-><->
+      
+l.113 $x_i=l_i$ and for all indices such that $
+                                               c_i<0$ we have
+Not a real error.
+
+! Preview: Snippet 33 ended.(422343+98303x1703286).
+<-><->
+      
+l.113 ..._i$ and for all indices such that $c_i<0$
+                                                   we have
+Not a real error.
+
+[33]
+! Preview: Snippet 34 started.
+<-><->
+      
+l.114 $
+       x_i=u_i$. When $c_i=0$, $x_i$ can be any value in the
+Not a real error.
+
+! Preview: Snippet 34 ended.(282168+98303x2059904).
+<-><->
+      
+l.114 $x_i=u_i$
+               . When $c_i=0$, $x_i$ can be any value in the
+Not a real error.
+
+[34]
+! Preview: Snippet 35 started.
+<-><->
+      
+l.114 $x_i=u_i$. When $
+                       c_i=0$, $x_i$ can be any value in the
+Not a real error.
+
+! Preview: Snippet 35 ended.(422343+98303x1703286).
+<-><->
+      
+l.114 $x_i=u_i$. When $c_i=0$
+                             , $x_i$ can be any value in the
+Not a real error.
+
+[35]
+! Preview: Snippet 36 started.
+<-><->
+      
+l.114 $x_i=u_i$. When $c_i=0$, $
+                                x_i$ can be any value in the
+Not a real error.
+
+! Preview: Snippet 36 ended.(282168+98303x592744).
+<-><->
+      
+l.114 $x_i=u_i$. When $c_i=0$, $x_i$
+                                     can be any value in the
+Not a real error.
+
+[36]
+! Preview: Snippet 37 started.
+<-><->
+      
+l.115 domain of the problem namely $
+                                    l_i\leq x_i\leq u_i$.
+Not a real error.
+
+! Preview: Snippet 37 ended.(455111+98303x3347444).
+<-><->
+      
+l.115 ... the problem namely $l_i\leq x_i\leq u_i$
+                                                  .
+Not a real error.
+
+[37]
+! Preview: Snippet 38 started.
+<-><->
+      
+l.117 \subsubsection
+                    {d}
+Not a real error.
+
+! Preview: Snippet 38 ended.(455111+0x22609920).
+<-><->
+      
+l.117 \subsubsection{d}
+                       
+Not a real error.
+
+[38
+
+]
+! Preview: Snippet 39 started.
+<-><->
+      
+l.120 \begin{align*}
+                    
+Not a real error.
+
+! Preview: Snippet 39 ended.(1902156+0x16528703).
+<-><->
+      
+l.123 \end{align*}
+                  
+Not a real error.
+
+[39]
+! Preview: Snippet 40 started.
+<-><->
+      
+l.125 $
+       L$ is bounded below if and only if $c^T+v-\lambda^T=0$ and
+Not a real error.
+
+! Preview: Snippet 40 ended.(447828+0x446010).
+<-><->
+      
+l.125 $L$
+          is bounded below if and only if $c^T+v-\lambda^T=0$ and
+Not a real error.
+
+[40]
+! Preview: Snippet 41 started.
+<-><->
+      
+l.125 $L$ is bounded below if and only if $
+                                           c^T+v-\lambda^T=0$ and
+Not a real error.
+
+! Preview: Snippet 41 ended.(551306+54613x4636262).
+<-><->
+      
+l.125 ... below if and only if $c^T+v-\lambda^T=0$
+                                                   and
+Not a real error.
+
+[41]
+! Preview: Snippet 42 started.
+<-><->
+      
+l.126 $
+       \lambda\succeq0$, namely $-v< c_i \;\forall i$. Therefore,
+Not a real error.
+
+! Preview: Snippet 42 ended.(455111+89110x1583782).
+<-><->
+      
+l.126 $\lambda\succeq0$
+                       , namely $-v< c_i \;\forall i$. Therefore,
+Not a real error.
+
+[42]
+! Preview: Snippet 43 started.
+<-><->
+      
+l.126 $\lambda\succeq0$, namely $
+                                 -v< c_i \;\forall i$. Therefore,
+Not a real error.
+
+! Preview: Snippet 43 ended.(455111+98303x2998422).
+<-><->
+      
+l.126 ...da\succeq0$, namely $-v< c_i \;\forall i$
+                                                  . Therefore,
+Not a real error.
+
+[43]
+! Preview: Snippet 44 started.
+<-><->
+      
+l.127 the primal problem has optimal value $
+                                            p^*\geq -v$ for some
+Not a real error.
+
+! Preview: Snippet 44 ended.(451272+127431x2355725).
+<-><->
+      
+l.127 ...al problem has optimal value $p^*\geq -v$
+                                                   for some
+Not a real error.
+
+[44]
+! Preview: Snippet 45 started.
+<-><->
+      
+l.128 $
+       \lambda$ satisfying $\lambda\succeq0$ and for some $v$
+Not a real error.
+
+! Preview: Snippet 45 ended.(455111+0x382295).
+<-><->
+      
+l.128 $\lambda$
+                satisfying $\lambda\succeq0$ and for some $v$
+Not a real error.
+
+[45]
+! Preview: Snippet 46 started.
+<-><->
+      
+l.128 $\lambda$ satisfying $
+                            \lambda\succeq0$ and for some $v$
+Not a real error.
+
+! Preview: Snippet 46 ended.(455111+89110x1583782).
+<-><->
+      
+l.128 $\lambda$ satisfying $\lambda\succeq0$
+                                             and for some $v$
+Not a real error.
+
+[46]
+! Preview: Snippet 47 started.
+<-><->
+      
+l.128 ...tisfying $\lambda\succeq0$ and for some $
+                                                  v$
+Not a real error.
+
+! Preview: Snippet 47 ended.(282168+0x341181).
+<-><->
+      
+l.128 ...sfying $\lambda\succeq0$ and for some $v$
+                                                  
+Not a real error.
+
+[47]
+! Preview: Snippet 48 started.
+<-><->
+      
+l.129 satisfying $
+                  -v <c_i\;\forall i$. Suppose $c$ has minimal
+Not a real error.
+
+! Preview: Snippet 48 ended.(455111+98303x2998422).
+<-><->
+      
+l.129 satisfying $-v <c_i\;\forall i$
+                                     . Suppose $c$ has minimal
+Not a real error.
+
+[48]
+! Preview: Snippet 49 started.
+<-><->
+      
+l.129 satisfying $-v <c_i\;\forall i$. Suppose $
+                                                c$ has minimal
+Not a real error.
+
+! Preview: Snippet 49 ended.(282168+0x283611).
+<-><->
+      
+l.129 satisfying $-v <c_i\;\forall i$. Suppose $c$
+                                                   has minimal
+Not a real error.
+
+[49]
+! Preview: Snippet 50 started.
+<-><->
+      
+l.130 values $
+              c_{min}$ at indexes $i,j,k\dots$, we can always get
+Not a real error.
+
+! Preview: Snippet 50 ended.(282168+98303x1290816).
+<-><->
+      
+l.130 values $c_{min}$
+                       at indexes $i,j,k\dots$, we can always get
+Not a real error.
+
+[50]
+! Preview: Snippet 51 started.
+<-><->
+      
+l.130 values $c_{min}$ at indexes $
+                                   i,j,k\dots$, we can always get
+Not a real error.
+
+! Preview: Snippet 51 ended.(455111+127431x2424150).
+<-><->
+      
+l.130 values $c_{min}$ at indexes $i,j,k\dots$
+                                              , we can always get
+Not a real error.
+
+[51]
+! Preview: Snippet 52 started.
+<-><->
+      
+l.131 the optimal solution by setting $
+                                       x_i, x_j, x_k,\dots$ to
+Not a real error.
+
+! Preview: Snippet 52 ended.(282168+187504x3688058).
+<-><->
+      
+l.131 ...solution by setting $x_i, x_j, x_k,\dots$
+                                                   to
+Not a real error.
+
+[52]
+! Preview: Snippet 53 started.
+<-><->
+      
+l.132 $
+       \sum_{m=i,j,k\dots}x_m=1$ at those indexes and $0$ at
+Not a real error.
+
+! Preview: Snippet 53 ended.(491524+285812x5243491).
+<-><->
+      
+l.132 $\sum_{m=i,j,k\dots}x_m=1$
+                                 at those indexes and $0$ at
+Not a real error.
+
+[53]
+! Preview: Snippet 54 started.
+<-><->
+      
+l.132 ...=i,j,k\dots}x_m=1$ at those indexes and $
+                                                  0$ at
+Not a real error.
+
+! Preview: Snippet 54 ended.(422343+0x327681).
+<-><->
+      
+l.132 ...,j,k\dots}x_m=1$ at those indexes and $0$
+                                                   at
+Not a real error.
+
+[54]
+! Preview: Snippet 55 started.
+<-><->
+      
+l.133 anywhere else. Therefore, we have $
+                                         p^*=c_{min}$. Otherwise
+Not a real error.
+
+! Preview: Snippet 55 ended.(451272+127431x2795634).
+<-><->
+      
+l.133 ...re else. Therefore, we have $p^*=c_{min}$
+                                                  . Otherwise
+Not a real error.
+
+[55]
+! Preview: Snippet 56 started.
+<-><->
+      
+l.138 $
+       p^*=min\{0,c_{min}\}$. This is because we can assign $x$ as
+Not a real error.
+
+! Preview: Snippet 56 ended.(491520+163840x5264511).
+<-><->
+      
+l.138 $p^*=min\{0,c_{min}\}$
+                            . This is because we can assign $x$ as
+Not a real error.
+
+[56]
+! Preview: Snippet 57 started.
+<-><->
+      
+l.138 ...{min}\}$. This is because we can assign $
+                                                  x$ as
+Not a real error.
+
+! Preview: Snippet 57 ended.(282168+0x374556).
+<-><->
+      
+l.138 ...in}\}$. This is because we can assign $x$
+                                                   as
+Not a real error.
+
+[57]
+! Preview: Snippet 58 started.
+<-><->
+      
+l.139 above if $
+                c_{min}<0$ and $x=0$ otherwise.
+Not a real error.
+
+! Preview: Snippet 58 ended.(422343+98303x2492303).
+<-><->
+      
+l.139 above if $c_{min}<0$
+                           and $x=0$ otherwise.
+Not a real error.
+
+[58]
+! Preview: Snippet 59 started.
+<-><->
+      
+l.139 above if $c_{min}<0$ and $
+                                x=0$ otherwise.
+Not a real error.
+
+! Preview: Snippet 59 ended.(422343+0x1576043).
+<-><->
+      
+l.139 above if $c_{min}<0$ and $x=0$
+                                     otherwise.
+Not a real error.
+
+[59]
+! Preview: Snippet 60 started.
+<-><->
+      
+l.141 \subsubsection
+                    {e}
+Not a real error.
+
+! Preview: Snippet 60 ended.(422343+0x22609920).
+<-><->
+      
+l.141 \subsubsection{e}
+                       
+Not a real error.
+
+[60
+
+]
+! Preview: Snippet 61 started.
+<-><->
+      
+l.142 Suppose the components of $
+                                 c$ are sorted in increasing order
+Not a real error.
+
+! Preview: Snippet 61 ended.(282168+0x283611).
+<-><->
+      
+l.142 Suppose the components of $c$
+                                    are sorted in increasing order
+Not a real error.
+
+[61]
+! Preview: Snippet 62 started.
+<-><->
+      
+l.144 $
+       $
+Not a real error.
+
+! Preview: Snippet 62 ended.(884735+0x22609920).
+<-><->
+      
+l.146 $$
+        
+Not a real error.
+
+[62]
+! Preview: Snippet 63 started.
+<-><->
+      
+l.147 When $
+            \alpha$ is an integer, the primal problem has optimal
+Not a real error.
+
+! Preview: Snippet 63 ended.(282168+0x421661).
+<-><->
+      
+l.147 When $\alpha$
+                    is an integer, the primal problem has optimal
+Not a real error.
+
+[63]
+! Preview: Snippet 64 started.
+<-><->
+      
+l.148 value $
+             p^*=\sum_{i=1}^\alpha c_i$, namely the smallest
+Not a real error.
+
+! Preview: Snippet 64 ended.(527024+196611x3689355).
+<-><->
+      
+l.148 value $p^*=\sum_{i=1}^\alpha c_i$
+                                       , namely the smallest
+Not a real error.
+
+[64]
+! Preview: Snippet 65 started.
+<-><->
+      
+l.149 $
+       \alpha$ elements of $c$ if and only if $x_i=1
+Not a real error.
+
+! Preview: Snippet 65 ended.(282168+0x421661).
+<-><->
+      
+l.149 $\alpha$
+               elements of $c$ if and only if $x_i=1
+Not a real error.
+
+[65]
+! Preview: Snippet 66 started.
+<-><->
+      
+l.149 $\alpha$ elements of $
+                            c$ if and only if $x_i=1
+Not a real error.
+
+! Preview: Snippet 66 ended.(282168+0x283611).
+<-><->
+      
+l.149 $\alpha$ elements of $c$
+                               if and only if $x_i=1
+Not a real error.
+
+[66]
+! Preview: Snippet 67 started.
+<-><->
+      
+l.149 $\alpha$ elements of $c$ if and only if $
+                                               x_i=1
+Not a real error.
+
+! Preview: Snippet 67 ended.(455111+98303x4464072).
+<-><->
+      
+l.150 \text{\;for\;} i\leq \alpha$
+                                   and $x_i=0 \text{\; for \;}
+Not a real error.
+
+[67]
+! Preview: Snippet 68 started.
+<-><->
+      
+l.150 \text{\;for\;} i\leq \alpha$ and $
+                                        x_i=0 \text{\; for \;}
+Not a real error.
+
+! Preview: Snippet 68 ended.(455111+98303x4900978).
+<-><->
+      
+l.151 i>\alpha$
+               .
+Not a real error.
+
+[68]
+! Preview: Snippet 69 started.
+<-><->
+      
+l.153 If $
+          \alpha$ is not an integer, let $[\alpha]$ denotes the
+Not a real error.
+
+! Preview: Snippet 69 ended.(282168+0x421661).
+<-><->
+      
+l.153 If $\alpha$
+                  is not an integer, let $[\alpha]$ denotes the
+Not a real error.
+
+[69]
+! Preview: Snippet 70 started.
+<-><->
+      
+l.153 If $\alpha$ is not an integer, let $
+                                          [\alpha]$ denotes the
+Not a real error.
+
+! Preview: Snippet 70 ended.(491520+163840x785751).
+<-><->
+      
+l.153 ...\alpha$ is not an integer, let $[\alpha]$
+                                                   denotes the
+Not a real error.
+
+[70]
+! Preview: Snippet 71 started.
+<-><->
+      
+l.154 nearest integer less than or equal to $
+                                             \alpha$, the optimal value is
+Not a real error.
+
+! Preview: Snippet 71 ended.(282168+0x421661).
+<-><->
+      
+l.154 ...st integer less than or equal to $\alpha$
+                                                  , the optimal value is
+Not a real error.
+
+[71]
+! Preview: Snippet 72 started.
+<-><->
+      
+l.155 $
+       $
+Not a real error.
+
+! Preview: Snippet 72 ended.(2189546+0x22609920).
+<-><->
+      
+l.157 $$
+        
+Not a real error.
+
+[72]
+! Preview: Snippet 73 started.
+<-><->
+      
+l.158 by setting $
+                  x_i=1$ for $i\leq [\alpha]$,
+Not a real error.
+
+! Preview: Snippet 73 ended.(422343+98303x1794231).
+<-><->
+      
+l.158 by setting $x_i=1$
+                         for $i\leq [\alpha]$,
+Not a real error.
+
+[73]
+! Preview: Snippet 74 started.
+<-><->
+      
+l.158 by setting $x_i=1$ for $
+                              i\leq [\alpha]$,
+Not a real error.
+
+! Preview: Snippet 74 ended.(491520+163840x1885337).
+<-><->
+      
+l.158 by setting $x_i=1$ for $i\leq [\alpha]$
+                                             ,
+Not a real error.
+
+[74]
+! Preview: Snippet 75 started.
+<-><->
+      
+l.159 $
+       x_{1+[\alpha]}=\alpha-[\alpha]$ and $x_i=0$ for $i>1+[\alpha]$.
+Not a real error.
+
+! Preview: Snippet 75 ended.(491520+233018x4590527).
+<-><->
+      
+l.159 $x_{1+[\alpha]}=\alpha-[\alpha]$
+                                       and $x_i=0$ for $i>1+[\alpha]$.
+Not a real error.
+
+[75]
+! Preview: Snippet 76 started.
+<-><->
+      
+l.159 $x_{1+[\alpha]}=\alpha-[\alpha]$ and $
+                                            x_i=0$ for $i>1+[\alpha]$.
+Not a real error.
+
+! Preview: Snippet 76 ended.(422343+98303x1794231).
+<-><->
+      
+l.159 $x_{1+[\alpha]}=\alpha-[\alpha]$ and $x_i=0$
+                                                   for $i>1+[\alpha]$.
+Not a real error.
+
+[76]
+! Preview: Snippet 77 started.
+<-><->
+      
+l.159 ...lpha]}=\alpha-[\alpha]$ and $x_i=0$ for $
+                                                  i>1+[\alpha]$.
+Not a real error.
+
+! Preview: Snippet 77 ended.(491520+163840x3014008).
+<-><->
+      
+l.159 ...-[\alpha]$ and $x_i=0$ for $i>1+[\alpha]$
+                                                  .
+Not a real error.
+
+[77]
+! Preview: Snippet 78 started.
+<-><->
+      
+l.162 $
+       1^Tx\leq \alpha$, then the optimal value is
+Not a real error.
+
+! Preview: Snippet 78 ended.(551306+89110x2410558).
+<-><->
+      
+l.162 $1^Tx\leq \alpha$
+                       , then the optimal value is
+Not a real error.
+
+[78]
+! Preview: Snippet 79 started.
+<-><->
+      
+l.163 \begin{align*}
+                    
+Not a real error.
+
+! Preview: Snippet 79 ended.(2844117+0x20542296).
+<-><->
+      
+l.170 \end{align*}
+                  
+Not a real error.
+
+[79]
+! Preview: Snippet 80 started.
+<-><->
+      
+l.172 \begin{align*}
+                    
+Not a real error.
+
+! Preview: Snippet 80 ended.(1966099+0x15256263).
+<-><->
+      
+l.179 \end{align*}
+                  
+Not a real error.
+
+[80]
+! Preview: Snippet 81 started.
+<-><->
+      
+l.180 \begin{align*}
+                    
+Not a real error.
+
+! Preview: Snippet 81 ended.(1966099+0x15949210).
+<-><->
+      
+l.186 \end{align*}
+                  
+Not a real error.
+
+[81]
+! Preview: Snippet 82 started.
+<-><->
+      
+l.187  and $
+            x_i=0$ for $i>[\alpha]+1$.
+Not a real error.
+
+! Preview: Snippet 82 ended.(422343+98303x1794231).
+<-><->
+      
+l.187  and $x_i=0$
+                   for $i>[\alpha]+1$.
+Not a real error.
+
+[82]
+! Preview: Snippet 83 started.
+<-><->
+      
+l.187  and $x_i=0$ for $
+                        i>[\alpha]+1$.
+Not a real error.
+
+! Preview: Snippet 83 ended.(491520+163840x3014008).
+<-><->
+      
+l.187  and $x_i=0$ for $i>[\alpha]+1$
+                                     .
+Not a real error.
+
+[83]
+! Preview: Snippet 84 started.
+<-><->
+      
+l.189 \subsubsection
+                    {f}
+Not a real error.
+
+! Preview: Snippet 84 ended.(455111+0x22609920).
+<-><->
+      
+l.189 \subsubsection{f}
+                       
+Not a real error.
+
+[84
+
+]
+! Preview: Snippet 85 started.
+<-><->
+      
+l.190 Let $
+           y_i=d_ix_i$ for $i=1,\dots,n$ and use $y$ to substitute
+Not a real error.
+
+! Preview: Snippet 85 ended.(455111+127431x2565343).
+<-><->
+      
+l.190 Let $y_i=d_ix_i$
+                       for $i=1,\dots,n$ and use $y$ to substitute
+Not a real error.
+
+[85]
+! Preview: Snippet 86 started.
+<-><->
+      
+l.190 Let $y_i=d_ix_i$ for $
+                            i=1,\dots,n$ and use $y$ to substitute
+Not a real error.
+
+! Preview: Snippet 86 ended.(432226+127431x3276982).
+<-><->
+      
+l.190 Let $y_i=d_ix_i$ for $i=1,\dots,n$
+                                         and use $y$ to substitute
+Not a real error.
+
+[86]
+! Preview: Snippet 87 started.
+<-><->
+      
+l.190 Let $y_i=d_ix_i$ for $i=1,\dots,n$ and use $
+                                                  y$ to substitute
+Not a real error.
+
+! Preview: Snippet 87 ended.(282168+127431x344824).
+<-><->
+      
+l.190 ...y_i=d_ix_i$ for $i=1,\dots,n$ and use $y$
+                                                   to substitute
+Not a real error.
+
+[87]
+! Preview: Snippet 88 started.
+<-><->
+      
+l.191 $
+       x$ in the original problem. Then we have:
+Not a real error.
+
+! Preview: Snippet 88 ended.(282168+0x374556).
+<-><->
+      
+l.191 $x$
+          in the original problem. Then we have:
+Not a real error.
+
+[88]
+! Preview: Snippet 89 started.
+<-><->
+      
+l.192 $
+       $
+Not a real error.
+
+! Preview: Snippet 89 ended.(1986565+0x22609920).
+<-><->
+      
+l.194 $$
+        
+Not a real error.
+
+[89]
+! Preview: Snippet 90 started.
+<-><->
+      
+l.195 $
+       $
+Not a real error.
+
+! Preview: Snippet 90 ended.(913863+0x22609920).
+<-><->
+      
+l.197 $$
+        
+Not a real error.
+
+[90]
+! Preview: Snippet 91 started.
+<-><->
+      
+l.199 components of $
+                     \frac{c_i}{d_i}$ are sorted in increasing
+Not a real error.
+
+! Preview: Snippet 91 ended.(466214+291531x637712).
+<-><->
+      
+l.199 components of $\frac{c_i}{d_i}$
+                                      are sorted in increasing
+Not a real error.
+
+[91]
+! Preview: Snippet 92 started.
+<-><->
+      
+l.201 $
+       $
+Not a real error.
+
+! Preview: Snippet 92 ended.(1334280+0x22609920).
+<-><->
+      
+l.203 $$
+        
+Not a real error.
+
+[92]
+! Preview: Snippet 93 started.
+<-><->
+      
+l.204 Let $
+           k^*=\text{argmax}_kd_1+\dots+d_k\leq \alpha$, the primal problem ...
+
+Not a real error.
+
+! Preview: Snippet 93 ended.(455111+160198x8951792).
+<-><->
+      
+l.204 ...=\text{argmax}_kd_1+\dots+d_k\leq \alpha$
+                                                  , the primal problem reaches
+Not a real error.
+
+[93]
+! Preview: Snippet 94 started.
+<-><->
+      
+l.206 $
+       p^*=\sum_{i=1}^{k^*}c_i+\frac{c_{k^*+1}}{d_{k^*+1}}(\alpha-(d_1+\dots...
+
+Not a real error.
+
+! Preview: Snippet 94 ended.(679741+371541x12222027).
+<-><->
+      
+l.206 ...}{d_{k^*+1}}(\alpha-(d_1+\dots+d_{k^*}))$
+                                                  
+Not a real error.
+
+[94]
+! Preview: Snippet 95 started.
+<-><->
+      
+l.207 by setting $
+                  y_i=d_i$ for $i\leq k^*$, $y_{k^*+1}=\alpha-(d_1+\dots+d_{...
+
+Not a real error.
+
+! Preview: Snippet 95 ended.(455111+127431x1972599).
+<-><->
+      
+l.207 by setting $y_i=d_i$
+                           for $i\leq k^*$, $y_{k^*+1}=\alpha-(d_1+\dots+d_{...
+
+Not a real error.
+
+[95]
+! Preview: Snippet 96 started.
+<-><->
+      
+l.207 by setting $y_i=d_i$ for $
+                                i\leq k^*$, $y_{k^*+1}=\alpha-(d_1+\dots+d_{...
+
+Not a real error.
+
+! Preview: Snippet 96 ended.(455111+89110x1762684).
+<-><->
+      
+l.207 by setting $y_i=d_i$ for $i\leq k^*$
+                                          , $y_{k^*+1}=\alpha-(d_1+\dots+d_{...
+
+Not a real error.
+
+[96]
+! Preview: Snippet 97 started.
+<-><->
+      
+l.207 by setting $y_i=d_i$ for $i\leq k^*$, $
+                                             y_{k^*+1}=\alpha-(d_1+\dots+d_{...
+
+Not a real error.
+
+! Preview: Snippet 97 ended.(491520+163840x8126681).
+<-><->
+      
+l.207 ...$, $y_{k^*+1}=\alpha-(d_1+\dots+d_{k^*})$
+                                                   and
+Not a real error.
+
+[97]
+! Preview: Snippet 98 started.
+<-><->
+      
+l.208 $
+       y_i=0$ for $i>k^*+1$.
+Not a real error.
+
+! Preview: Snippet 98 ended.(422343+127431x1740986).
+<-><->
+      
+l.208 $y_i=0$
+              for $i>k^*+1$.
+Not a real error.
+
+[98]
+! Preview: Snippet 99 started.
+<-><->
+      
+l.208 $y_i=0$ for $
+                   i>k^*+1$.
+Not a real error.
+
+! Preview: Snippet 99 ended.(455111+54613x2891355).
+<-><->
+      
+l.208 $y_i=0$ for $i>k^*+1$
+                           .
+Not a real error.
+
+[99]
+! Preview: Snippet 100 started.
+<-><->
+      
+l.210 Namely by setting $
+                         x_i=1$ for $i\leq k^*$, $x_{k^*+1}=\frac{\alpha-(d_...
+
+Not a real error.
+
+! Preview: Snippet 100 ended.(422343+98303x1794231).
+<-><->
+      
+l.210 Namely by setting $x_i=1$
+                                for $i\leq k^*$, $x_{k^*+1}=\frac{\alpha-(d_...
+
+Not a real error.
+
+[100]
+! Preview: Snippet 101 started.
+<-><->
+      
+l.210 Namely by setting $x_i=1$ for $
+                                     i\leq k^*$, $x_{k^*+1}=\frac{\alpha-(d_...
+
+Not a real error.
+
+! Preview: Snippet 101 ended.(455111+89110x1762684).
+<-><->
+      
+l.210 Namely by setting $x_i=1$ for $i\leq k^*$
+                                               , $x_{k^*+1}=\frac{\alpha-(d_...
+
+Not a real error.
+
+[101]
+! Preview: Snippet 102 started.
+<-><->
+      
+l.210 Namely by setting $x_i=1$ for $i\leq k^*$, $
+                                                  x_{k^*+1}=\frac{\alpha-(d_...
+
+Not a real error.
+
+! Preview: Snippet 102 ended.(661912+350151x6459009).
+<-><->
+      
+l.210 ...rac{\alpha-(d_1+\dots+d_{k^*})}{d_{k+1}}$
+                                                   and
+Not a real error.
+
+[102]
+! Preview: Snippet 103 started.
+<-><->
+      
+l.211 $
+       x_i=0$ for $i>k^*+1$.
+Not a real error.
+
+! Preview: Snippet 103 ended.(422343+98303x1794231).
+<-><->
+      
+l.211 $x_i=0$
+              for $i>k^*+1$.
+Not a real error.
+
+[103]
+! Preview: Snippet 104 started.
+<-><->
+      
+l.211 $x_i=0$ for $
+                   i>k^*+1$.
+Not a real error.
+
+! Preview: Snippet 104 ended.(455111+54613x2891355).
+<-><->
+      
+l.211 $x_i=0$ for $i>k^*+1$
+                           .
+Not a real error.
+
+[104]
+! Preview: Snippet 105 started.
+<-><->
+      
+l.214 \subsection
+                 {Prob 4.9}
+Not a real error.
+
+! Preview: Snippet 105 ended.(546132+0x22609920).
+<-><->
+      
+l.214 \subsection{Prob 4.9}
+                           
+Not a real error.
+
+[105
+
+]
+! Preview: Snippet 106 started.
+<-><->
+      
+l.218 \subsection
+                 {Prob 4.47}
+Not a real error.
+
+! Preview: Snippet 106 ended.(546132+0x22609920).
+<-><->
+      
+l.218 \subsection{Prob 4.47}
+                            
+Not a real error.
+
+[106
+
+]
+! Preview: Snippet 107 started.
+<-><->
+      
+l.220 \subsection
+                 {Prob 5.12}
+Not a real error.
+
+! Preview: Snippet 107 ended.(546132+0x22609920).
+<-><->
+      
+l.220 \subsection{Prob 5.12}
+                            
+Not a real error.
+
+[107
+
+]
+! Preview: Snippet 108 started.
+<-><->
+      
+l.222 \subsection
+                 {Prob 5.31}
+Not a real error.
+
+! Preview: Snippet 108 ended.(546132+0x22609920).
+<-><->
+      
+l.222 \subsection{Prob 5.31}
+                            
+Not a real error.
+
+[108
+
+]
+No file _region_.bbl.
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 205 strings out of 491912
+ 2883 string characters out of 6121276
+ 71358 words of memory out of 5000000
+ 4866 multiletter control sequences out of 15000+600000
+ 12681 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,18n,24p,169b,240s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on _region_.pdf (108 pages, 142069 bytes).
+PDF statistics:
+ 400 PDF objects out of 1000 (max. 8388607)
+ 275 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
