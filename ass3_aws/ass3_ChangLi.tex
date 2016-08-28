@@ -209,14 +209,100 @@ $x_i=0$ for $i>k^*+1$.
 
 
 \subsection{Prob 4.9}
-
-
+Because $A$ is nonsingular, we have $A^{-1}$. Substituting
+$y=Ax$ into the primal problem we have:
+$$
+\text{minimize\;} c^TA^{-1}y
+$$
+$$
+\text{s.t.\;\;} y\preceq b
+$$
+The primal problem is unbounded below if $c^TA^{-1}\succ0$.
+When $c^TA^{-1}\preceq 0$ we have optimal value
+$p^*=c^TA^{-1}b$ when $y=b$ namely $x=A^{-1}b$.
 
 \subsection{Prob 4.47}
 
+\subsubsection{a}
+
+
+
+\subsubsection{b}
+
+
+
+\subsubsection{c}
+
+
+
+\subsubsection{d}
+
+
+
+
 \subsection{Prob 5.12}
+Let $A$ be a matrix whose ith row is $a_i^T$, by introduce equality constraints $y_i=b_i-a_i^Tx$ we have:
+$$
+\text{minimize\;} -\sum_i^m\text{log\;}y_i
+$$
+$$
+\text{s.t.\;\;} y=b-Ax
+$$
+The Lagrangian of the primal problem is:
+\begin{align*}
+  L(x,y,v) &= -\sum_i^m\text{log\;}y_i + v^T(y-b+Ax)\\
+         &= v^TAx -\sum_i^m\text{log\;}y_i + v^Ty-v^Tb
+\end{align*}
+Therefore, the dual function is:
+$$
+g(v)=\inf_{x,y} (v^TAx -\sum_i^m\text{log\;}y_i + v^Ty-v^Tb)
+$$
+When we consider in terms of $y$, this function is unbounded
+below if $v\preceq0$. Therefore, the function is bounded
+only if $v\succ0$. Because $y_i\geq0$, if we take derivative
+in terms of $y$ and set it equals $0$ we have the function
+reaches minimum when:
+$$
+y_i=\frac{1}{v_i}
+$$
+In terms of $x$ the function is unbounded below if
+$v^TA\neq0$. Therefore we have the dual function:
+\begin{align*}
+g(v)=
+\begin{cases}
+  \sum_i^m\text{log\;}v_i + m-v^Tb & v^TA=0, v\succ0\\
+  -\infty &otherwise
+\end{cases}
+\end{align*}
+Therefore we have the dual problem:
+$$
+\text{maximize\;\;}\sum_i^m\text{log\;}v_i + m-v^Tb 
+$$
+$$
+\text{s.t.\;\;} v^TA=0\text{,\;} v\succ0
+$$
+
 
 \subsection{Prob 5.31}
+Because the problem is convex, every inequality consitraints
+are hence convex. $x^*\in R^n$ and $\lambda^*\in R^m$. For any $x$ that is feasible we have:
+$$
+0\geq f_i(x) \geq f_i(x^*) +\nabla f_i(x^*)^T(x-x^*)\text{ for
+  all } i=1,\dots,m
+$$
+Therefore, for all inequality constraints we have:
+\begin{align}
+  0 &\geq \sum_{i=1}^m\lambda_i^*(f_i(x^*)+\nabla f_i(x^*)^T(x-x^*))\\
+\label{eq:1}
+&= \sum_{i=1}^m\lambda_i^*f_i(x^*)+\sum_{i=1}^m\lambda_i^*\nabla f_i(x^*)^T(x-x^*)
+\end{align}
+According to KKT conditions, we have that
+$\sum_{i=1}^m\lambda_i^*f_i(x^*)=0$ and
+$\sum_{i=1}^m\lambda_i^*\nabla f_i(x^*)^T=-\nabla f_0(x^*)$.
+Introducing those two terms into equation~\ref{eq:1} we have:
+$$
+0\geq-\nabla f_0(x^*)^T(x-x^*)
+$$
 
 
 	\renewcommand\refname{Bibliography}

@@ -9,6 +9,8 @@
     "art10"
     "amssymb"
     "amsmath")
+   (LaTeX-add-labels
+    "eq:1")
    (LaTeX-add-bibliographies))
  :latex)
 

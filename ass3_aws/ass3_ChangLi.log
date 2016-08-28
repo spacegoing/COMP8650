@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.29)  28 AUG 2016 18:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.29)  28 AUG 2016 20:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -122,18 +122,25 @@ LaTeX Warning: Citation `boyd2004convex' on page 1 undefined on input line 60.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
+[2] [3] [4]
+Overfull \hbox (32.28284pt too wide) in paragraph at lines 281--286
+\OT1/cmr/m/n/10 According to KKT con-di-tions, we have that $[][] \OML/cmm/m/it
+/10 ^^U[]f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) = 0$ and $[]
+[] \OML/cmm/m/it/10 ^^U[]\OMS/cmsy/m/n/10 r\OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 )[] =
+ []
+
 No file ass3_ChangLi.bbl.
-[3] (./ass3_ChangLi.aux)
+[5] (./ass3_ChangLi.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1130 strings out of 493033
- 12627 string characters out of 6134139
+ 1131 strings out of 493033
+ 12633 string characters out of 6134139
  72005 words of memory out of 5000000
- 4702 multiletter control sequences out of 15000+600000
+ 4703 multiletter control sequences out of 15000+600000
  11503 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  27i,16n,26p,215b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -151,10 +158,10 @@ live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on ass3_ChangLi.pdf (3 pages, 146130 bytes).
+Output written on ass3_ChangLi.pdf (5 pages, 153440 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
