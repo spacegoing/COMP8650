@@ -13,8 +13,17 @@
 
 \subsection{Prob 6.2}
 
-\subsubsection{l1 norm}
+\subsubsection{l2 norm}
+We want the closest point $x1$ in the subspace to b, namely
+we want the error $e = x1 - b$ to be orthogonal to $C(1)$,
+which equivalent to being in $N(1^T)$. The problem reaches
+it's minimum when solution satisfies:
+$$
+1^T1x=1^Tb
+$$
+Suppose $b\in R^n$ then $x=\frac{1^Tb}{n}$.
 
+\subsubsection{l1 norm}
 The equivalent LP problem is:
 $$
 \text{minimize} \sum_{i=1}^n 1^Ty
@@ -25,15 +34,6 @@ $$
 This is equivalent to let $y_i = |x - b_i|$. Therefore the problem
 reaches minimum when $x$ equals the median of the vector $b$.
 
-\subsubsection{l2 norm}
-We want the closest point $x1$ in the subspace to b, namely
-we want the error $e = x1 - b$ to be orthogonal to $C(1)$,
-which equivalent to being in $N(1^T)$. The problem reaches
-it's minimum when solution satisfies:
-$$
-1^T1x=1^Tb
-$$
-Suppose $b\in R^n$ then $x=\frac{1^Tb}{n}$.
 
 
 \subsubsection{l$\infty$ norm}
@@ -76,7 +76,26 @@ To find the dual problem of penalty functions we only need
 to find their conjugate functions.
 
 \subsubsection{a}
-The conjugate function of deadzone-linear penalty is:
+We first verify the domain of the conjugate function $\phi^*$. We can
+write $yx-\phi(x)$ as:
+\begin{align*}
+  \phi^*(y)=
+  \begin{cases}
+    (y+1)x+1 & x<-1\\
+    yx & -1\leq x\leq 1\\
+    (y-1)x+1 & x>1
+  \end{cases}
+\end{align*}
+Then it's clear that when $|y|>1$ it is not in the domain of
+$\phi^*$. This is because if $y<-1$, let $x\rightarrow
+-\infty$ and if $y>1$ then let $x \rightarrow \infty$. The
+value is unbounded above.
+
+When $|y|\leq 1$, the value is always less than $0$ if
+$|x|>1$. When $|x|\leq 1$, the value reaches its maximum
+$|y|$ by setting $x=-1$ if $y\leq 0$ and $x=1$ if $y>0$.
+Therefore, The conjugate function of deadzone-linear penalty
+is:
 \begin{align*}
   \phi^*(z) = 
   \begin{cases}
@@ -86,12 +105,31 @@ The conjugate function of deadzone-linear penalty is:
 \end{align*}
 To plug $\phi^*(z)$ into the object function, we need to
 ensure the function is bounded. Therefore the vector $v$
-has to satisfy the constraint $||z||_{\infty}\leq 1$. Then
+has to satisfy the constraint $||v||_{\infty}\leq 1$. Then
 we have:
 $$\text{maximize\;\;} -b^Tv-\sum_{i=1}^{m}|v_i|$$
 $$\text{s.t.\;\;} A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 1$$
 \subsubsection{b}
-The conjugate function of deadzone-linear penalty is:
+We first verify the domain of the conjugate function $\phi^*$. We can
+write $yx-\phi(x)$ as:
+\begin{align*}
+  \phi^*(y)=
+  \begin{cases}
+    (y+2)x+1 & x<-1\\
+    yx-x^2 & -1\leq x\leq 1\\
+    (y-2)x+1 & x>1
+  \end{cases}
+\end{align*}
+Then it's clear that when $|y|>2$ it is not in the domain of
+$\phi^*$. This is because if $y<-2$, let $x\rightarrow
+-\infty$ and if $y>2$ then let $x \rightarrow \infty$. The
+value is unbounded above.
+
+When $|y|\leq 2$, the value is always less than $0$ if
+$|x|>1$. When $|x|\leq 1$, the value reaches its maximum
+$\frac{y^2}{4}$ by setting $x=\frac{y}{2}$.
+Therefore, The conjugate function of huber penalty
+is:
 \begin{align*}
   \phi^*(z) = 
   \begin{cases}
@@ -101,7 +139,7 @@ The conjugate function of deadzone-linear penalty is:
 \end{align*}
 To plug $\phi^*(z)$ into the object function, we need to
 ensure the function is bounded. Therefore the vector $v$
-has to satisfy the constraint $||z||_{\infty}\leq 2$. Then
+has to satisfy the constraint $||v||_{\infty}\leq 2$. Then
 we have:
 
 $$\text{maximize\;\;} -b^Tv-\frac{1}{4}\sum_{i=1}^{m}z_i^2$$
@@ -174,4 +212,4 @@ $$\text{maximize\;\;}t$$
 	\bibliography{ass4_ChangLi}
 \end{document}
 
-\message{ !name(ass4_ChangLi.tex) !offset(-177) }
+\message{ !name(ass4_ChangLi.tex) !offset(-215) }

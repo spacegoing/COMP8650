@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.29)  18 SEP 2016 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.29)  18 SEP 2016 20:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -176,213 +176,213 @@ Not a real error.
 <-><->
       
 l.16 \subsubsection
-                   {l1 norm}
+                   {l2 norm}
 Not a real error.
 
 ./_region_.tex:16: Preview: Snippet 3 ended.(455111+0x22609920).
 <-><->
       
-l.16 \subsubsection{l1 norm}
+l.16 \subsubsection{l2 norm}
                             
 Not a real error.
 
 [3
 
 ]
-./_region_.tex:19: Preview: Snippet 4 started.
+./_region_.tex:17: Preview: Snippet 4 started.
 <-><->
       
-l.19 $
-      $
-Not a real error.
-
-./_region_.tex:21: Preview: Snippet 4 ended.(1986565+0x22609920).
-<-><->
-      
-l.21 $$
-       
-Not a real error.
-
-[4]
-./_region_.tex:22: Preview: Snippet 5 started.
-<-><->
-      
-l.22 $
-      $
-Not a real error.
-
-./_region_.tex:24: Preview: Snippet 5 ended.(913863+0x22609920).
-<-><->
-      
-l.24 $$
-       
-Not a real error.
-
-[5]
-./_region_.tex:25: Preview: Snippet 6 started.
-<-><->
-      
-l.25 This is equivalent to let $
-                                y_i = |x - b_i|$. Therefore the problem
-Not a real error.
-
-./_region_.tex:25: Preview: Snippet 6 ended.(491520+163840x3452387).
-<-><->
-      
-l.25 This is equivalent to let $y_i = |x - b_i|$
-                                                . Therefore the problem
-Not a real error.
-
-[6]
-./_region_.tex:26: Preview: Snippet 7 started.
-<-><->
-      
-l.26 reaches minimum when $
-                           x$ equals the median of the vector $b$.
-Not a real error.
-
-./_region_.tex:26: Preview: Snippet 7 ended.(282168+0x374556).
-<-><->
-      
-l.26 reaches minimum when $x$
-                              equals the median of the vector $b$.
-Not a real error.
-
-[7]
-./_region_.tex:26: Preview: Snippet 8 started.
-<-><->
-      
-l.26 ...when $x$ equals the median of the vector $
-                                                  b$.
-Not a real error.
-
-./_region_.tex:26: Preview: Snippet 8 ended.(455111+0x281258).
-<-><->
-      
-l.26 ...en $x$ equals the median of the vector $b$
-                                                  .
-Not a real error.
-
-[8]
-./_region_.tex:28: Preview: Snippet 9 started.
-<-><->
-      
-l.28 \subsubsection
-                   {l2 norm}
-Not a real error.
-
-./_region_.tex:28: Preview: Snippet 9 ended.(455111+0x22609920).
-<-><->
-      
-l.28 \subsubsection{l2 norm}
-                            
-Not a real error.
-
-[9
-
-]
-./_region_.tex:29: Preview: Snippet 10 started.
-<-><->
-      
-l.29 We want the closest point $
+l.17 We want the closest point $
                                 x1$ in the subspace to b, namely
 Not a real error.
 
-./_region_.tex:29: Preview: Snippet 10 ended.(422343+0x702237).
+./_region_.tex:17: Preview: Snippet 4 ended.(422343+0x702237).
 <-><->
       
-l.29 We want the closest point $x1$
+l.17 We want the closest point $x1$
                                     in the subspace to b, namely
 Not a real error.
 
-[10]
-./_region_.tex:30: Preview: Snippet 11 started.
+[4]
+./_region_.tex:18: Preview: Snippet 5 started.
 <-><->
       
-l.30 we want the error $
+l.18 we want the error $
                         e = x1 - b$ to be orthogonal to $C(1)$,
 Not a real error.
 
-./_region_.tex:30: Preview: Snippet 11 ended.(455111+54613x2963444).
+./_region_.tex:18: Preview: Snippet 5 ended.(455111+54613x2963444).
 <-><->
       
-l.30 we want the error $e = x1 - b$
+l.18 we want the error $e = x1 - b$
                                     to be orthogonal to $C(1)$,
 Not a real error.
 
-[11]
-./_region_.tex:30: Preview: Snippet 12 started.
+[5]
+./_region_.tex:18: Preview: Snippet 6 started.
 <-><->
       
-l.30 ...e error $e = x1 - b$ to be orthogonal to $
+l.18 ...e error $e = x1 - b$ to be orthogonal to $
                                                   C(1)$,
 Not a real error.
 
-./_region_.tex:30: Preview: Snippet 12 ended.(491520+163840x1352683).
+./_region_.tex:18: Preview: Snippet 6 ended.(491520+163840x1352683).
 <-><->
       
-l.30 ...or $e = x1 - b$ to be orthogonal to $C(1)$
+l.18 ...or $e = x1 - b$ to be orthogonal to $C(1)$
                                                   ,
+Not a real error.
+
+[6]
+./_region_.tex:19: Preview: Snippet 7 started.
+<-><->
+      
+l.19 which equivalent to being in $
+                                   N(1^T)$. The problem reaches
+Not a real error.
+
+./_region_.tex:19: Preview: Snippet 7 ended.(551306+163840x1848275).
+<-><->
+      
+l.19 which equivalent to being in $N(1^T)$
+                                          . The problem reaches
+Not a real error.
+
+[7]
+./_region_.tex:21: Preview: Snippet 8 started.
+<-><->
+      
+l.21 $
+      $
+Not a real error.
+
+./_region_.tex:23: Preview: Snippet 8 ended.(786432+0x22609920).
+<-><->
+      
+l.23 $$
+       
+Not a real error.
+
+[8]
+./_region_.tex:24: Preview: Snippet 9 started.
+<-><->
+      
+l.24 Suppose $
+              b\in R^n$ then $x=\frac{1^Tb}{n}$.
+Not a real error.
+
+./_region_.tex:24: Preview: Snippet 9 ended.(455111+25623x1941651).
+<-><->
+      
+l.24 Suppose $b\in R^n$
+                        then $x=\frac{1^Tb}{n}$.
+Not a real error.
+
+[9]
+./_region_.tex:24: Preview: Snippet 10 started.
+<-><->
+      
+l.24 Suppose $b\in R^n$ then $
+                              x=\frac{1^Tb}{n}$.
+Not a real error.
+
+./_region_.tex:24: Preview: Snippet 10 ended.(679725+225995x2259738).
+<-><->
+      
+l.24 Suppose $b\in R^n$ then $x=\frac{1^Tb}{n}$
+                                               .
+Not a real error.
+
+[10]
+./_region_.tex:26: Preview: Snippet 11 started.
+<-><->
+      
+l.26 \subsubsection
+                   {l1 norm}
+Not a real error.
+
+./_region_.tex:26: Preview: Snippet 11 ended.(455111+0x22609920).
+<-><->
+      
+l.26 \subsubsection{l1 norm}
+                            
+Not a real error.
+
+[11
+
+]
+./_region_.tex:28: Preview: Snippet 12 started.
+<-><->
+      
+l.28 $
+      $
+Not a real error.
+
+./_region_.tex:30: Preview: Snippet 12 ended.(1986565+0x22609920).
+<-><->
+      
+l.30 $$
+       
 Not a real error.
 
 [12]
 ./_region_.tex:31: Preview: Snippet 13 started.
 <-><->
       
-l.31 which equivalent to being in $
-                                   N(1^T)$. The problem reaches
-Not a real error.
-
-./_region_.tex:31: Preview: Snippet 13 ended.(551306+163840x1848275).
-<-><->
-      
-l.31 which equivalent to being in $N(1^T)$
-                                          . The problem reaches
-Not a real error.
-
-[13]
-./_region_.tex:33: Preview: Snippet 14 started.
-<-><->
-      
-l.33 $
+l.31 $
       $
 Not a real error.
 
-./_region_.tex:35: Preview: Snippet 14 ended.(786432+0x22609920).
+./_region_.tex:33: Preview: Snippet 13 ended.(913863+0x22609920).
 <-><->
       
-l.35 $$
+l.33 $$
        
 Not a real error.
 
-[14]
-./_region_.tex:36: Preview: Snippet 15 started.
+[13]
+./_region_.tex:34: Preview: Snippet 14 started.
 <-><->
       
-l.36 Suppose $
-              b\in R^n$ then $x=\frac{1^Tb}{n}$.
+l.34 This is equivalent to let $
+                                y_i = |x - b_i|$. Therefore the problem
 Not a real error.
 
-./_region_.tex:36: Preview: Snippet 15 ended.(455111+25623x1941651).
+./_region_.tex:34: Preview: Snippet 14 ended.(491520+163840x3452387).
 <-><->
       
-l.36 Suppose $b\in R^n$
-                        then $x=\frac{1^Tb}{n}$.
+l.34 This is equivalent to let $y_i = |x - b_i|$
+                                                . Therefore the problem
+Not a real error.
+
+[14]
+./_region_.tex:35: Preview: Snippet 15 started.
+<-><->
+      
+l.35 reaches minimum when $
+                           x$ equals the median of the vector $b$.
+Not a real error.
+
+./_region_.tex:35: Preview: Snippet 15 ended.(282168+0x374556).
+<-><->
+      
+l.35 reaches minimum when $x$
+                              equals the median of the vector $b$.
 Not a real error.
 
 [15]
-./_region_.tex:36: Preview: Snippet 16 started.
+./_region_.tex:35: Preview: Snippet 16 started.
 <-><->
       
-l.36 Suppose $b\in R^n$ then $
-                              x=\frac{1^Tb}{n}$.
+l.35 ...when $x$ equals the median of the vector $
+                                                  b$.
 Not a real error.
 
-./_region_.tex:36: Preview: Snippet 16 ended.(679725+225995x2259738).
+./_region_.tex:35: Preview: Snippet 16 ended.(455111+0x281258).
 <-><->
       
-l.36 Suppose $b\in R^n$ then $x=\frac{1^Tb}{n}$
-                                               .
+l.35 ...en $x$ equals the median of the vector $b$
+                                                  .
 Not a real error.
 
 [16]
@@ -738,654 +738,649 @@ Not a real error.
 [39
 
 ]
-./_region_.tex:80: Preview: Snippet 40 started.
+./_region_.tex:79: Preview: Snippet 40 started.
 <-><->
       
-l.80 \begin{align*}
-                   
+l.79 ...ify the domain of the conjugate function $
+                                                  \phi^*$. We can
 Not a real error.
 
-./_region_.tex:86: Preview: Snippet 40 ended.(1966099+0x14839083).
+./_region_.tex:79: Preview: Snippet 40 ended.(455111+127431x691770).
 <-><->
       
-l.86 \end{align*}
-                 
+l.79 ... domain of the conjugate function $\phi^*$
+                                                  . We can
 Not a real error.
 
 [40]
-./_region_.tex:87: Preview: Snippet 41 started.
+./_region_.tex:80: Preview: Snippet 41 started.
 <-><->
       
-l.87 To plug $
-              \phi^*(z)$ into the object function, we need to
+l.80 write $
+            yx-\phi(x)$ as:
 Not a real error.
 
-./_region_.tex:87: Preview: Snippet 41 ended.(491520+163840x1535094).
+./_region_.tex:80: Preview: Snippet 41 ended.(491520+163840x2795138).
 <-><->
       
-l.87 To plug $\phi^*(z)$
-                         into the object function, we need to
+l.80 write $yx-\phi(x)$
+                        as:
 Not a real error.
 
 [41]
-./_region_.tex:88: Preview: Snippet 42 started.
+./_region_.tex:81: Preview: Snippet 42 started.
 <-><->
       
-l.88 ...unction is bounded. Therefore the vector $
-                                                  v$
+l.81 \begin{align*}
+                   
 Not a real error.
 
-./_region_.tex:88: Preview: Snippet 42 ended.(282168+0x341181).
+./_region_.tex:88: Preview: Snippet 42 ended.(2831145+0x16560148).
 <-><->
       
-l.88 ...ction is bounded. Therefore the vector $v$
-                                                  
+l.88 \end{align*}
+                 
 Not a real error.
 
 [42]
 ./_region_.tex:89: Preview: Snippet 43 started.
 <-><->
       
-l.89 has to satisfy the constraint $
-                                    ||z||_{\infty}\leq 1$. Then
+l.89 Then it's clear that when $
+                                |y|>1$ it is not in the domain of
 Not a real error.
 
-./_region_.tex:89: Preview: Snippet 43 ended.(491520+163840x2818502).
+./_region_.tex:89: Preview: Snippet 43 ended.(491520+163840x1910401).
 <-><->
       
-l.89 ...isfy the constraint $||z||_{\infty}\leq 1$
-                                                  . Then
+l.89 Then it's clear that when $|y|>1$
+                                       it is not in the domain of
 Not a real error.
 
 [43]
-./_region_.tex:91: Preview: Snippet 44 started.
+./_region_.tex:90: Preview: Snippet 44 started.
 <-><->
       
-l.91 $
-      $\text{maximize\;\;} -b^Tv-\sum_{i=1}^{m}|v_i|$$
+l.90 $
+      \phi^*$. This is because if $y<-1$, let $x\rightarrow
 Not a real error.
 
-./_region_.tex:91: Preview: Snippet 44 ended.(1986565+0x22609920).
+./_region_.tex:90: Preview: Snippet 44 ended.(455111+127431x691770).
 <-><->
       
-l.91 ...{maximize\;\;} -b^Tv-\sum_{i=1}^{m}|v_i|$$
-                                                  
+l.90 $\phi^*$
+             . This is because if $y<-1$, let $x\rightarrow
 Not a real error.
 
 [44]
-./_region_.tex:92: Preview: Snippet 45 started.
+./_region_.tex:90: Preview: Snippet 45 started.
 <-><->
       
-l.92 $
-      $\text{s.t.\;\;} A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 1$$
+l.90 $\phi^*$. This is because if $
+                                   y<-1$, let $x\rightarrow
 Not a real error.
 
-./_region_.tex:92: Preview: Snippet 45 ended.(950272+0x22609920).
+./_region_.tex:90: Preview: Snippet 45 ended.(422343+127431x2056037).
 <-><->
       
-l.92 ... A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 1$$
-                                                  
+l.90 $\phi^*$. This is because if $y<-1$
+                                        , let $x\rightarrow
 Not a real error.
 
 [45]
-./_region_.tex:93: Preview: Snippet 46 started.
+./_region_.tex:90: Preview: Snippet 46 started.
 <-><->
       
-l.93 \subsubsection
-                   {b}
+l.90 $\phi^*$. This is because if $y<-1$, let $
+                                               x\rightarrow
 Not a real error.
 
-./_region_.tex:93: Preview: Snippet 46 ended.(455111+0x22609920).
+./_region_.tex:91: Preview: Snippet 46 ended.(382293+54613x2559084).
 <-><->
       
-l.93 \subsubsection{b}
-                      
+l.91 -\infty$
+              and if $y>1$ then let $x \rightarrow \infty$. The
 Not a real error.
 
-[46
-
-]
-./_region_.tex:95: Preview: Snippet 47 started.
+[46]
+./_region_.tex:91: Preview: Snippet 47 started.
 <-><->
       
-l.95 \begin{align*}
-                   
+l.91 -\infty$ and if $
+                      y>1$ then let $x \rightarrow \infty$. The
 Not a real error.
 
-./_region_.tex:101: Preview: Snippet 47 ended.(1966099+0x14831370).
+./_region_.tex:91: Preview: Snippet 47 ended.(422343+127431x1546311).
 <-><->
       
-l.101 \end{align*}
-                  
+l.91 -\infty$ and if $y>1$
+                           then let $x \rightarrow \infty$. The
 Not a real error.
 
 [47]
-./_region_.tex:102: Preview: Snippet 48 started.
+./_region_.tex:91: Preview: Snippet 48 started.
 <-><->
       
-l.102 To plug $
-               \phi^*(z)$ into the object function, we need to
+l.91 -\infty$ and if $y>1$ then let $
+                                     x \rightarrow \infty$. The
 Not a real error.
 
-./_region_.tex:102: Preview: Snippet 48 ended.(491520+163840x1535094).
+./_region_.tex:91: Preview: Snippet 48 ended.(282168+0x2049358).
 <-><->
       
-l.102 To plug $\phi^*(z)$
-                          into the object function, we need to
+l.91 ...d if $y>1$ then let $x \rightarrow \infty$
+                                                  . The
 Not a real error.
 
 [48]
-./_region_.tex:103: Preview: Snippet 49 started.
+./_region_.tex:94: Preview: Snippet 49 started.
 <-><->
       
-l.103 ...nction is bounded. Therefore the vector $
-                                                  v$
+l.94 When $
+           |y|\leq 1$, the value is always less than $0$ if
 Not a real error.
 
-./_region_.tex:103: Preview: Snippet 49 ended.(282168+0x341181).
+./_region_.tex:94: Preview: Snippet 49 ended.(491520+163840x1910401).
 <-><->
       
-l.103 ...tion is bounded. Therefore the vector $v$
-                                                  
+l.94 When $|y|\leq 1$
+                     , the value is always less than $0$ if
 Not a real error.
 
 [49]
-./_region_.tex:104: Preview: Snippet 50 started.
+./_region_.tex:94: Preview: Snippet 50 started.
 <-><->
       
-l.104 has to satisfy the constraint $
-                                     ||z||_{\infty}\leq 2$. Then
+l.94 ...y|\leq 1$, the value is always less than $
+                                                  0$ if
 Not a real error.
 
-./_region_.tex:104: Preview: Snippet 50 ended.(491520+163840x2818502).
+./_region_.tex:94: Preview: Snippet 50 ended.(422343+0x327681).
 <-><->
       
-l.104 ...sfy the constraint $||z||_{\infty}\leq 2$
-                                                  . Then
+l.94 ...\leq 1$, the value is always less than $0$
+                                                   if
 Not a real error.
 
 [50]
-./_region_.tex:107: Preview: Snippet 51 started.
+./_region_.tex:95: Preview: Snippet 51 started.
 <-><->
       
-l.107 $
-       $\text{maximize\;\;} -b^Tv-\frac{1}{4}\sum_{i=1}^{m}z_i^2$$
+l.95 $
+      |x|>1$. When $|x|\leq 1$, the value reaches its maximum
 Not a real error.
 
-./_region_.tex:107: Preview: Snippet 51 ended.(1986565+0x22609920).
+./_region_.tex:95: Preview: Snippet 51 ended.(491520+163840x1940133).
 <-><->
       
-l.107 ...;} -b^Tv-\frac{1}{4}\sum_{i=1}^{m}z_i^2$$
-                                                  
+l.95 $|x|>1$
+            . When $|x|\leq 1$, the value reaches its maximum
 Not a real error.
 
 [51]
-./_region_.tex:108: Preview: Snippet 52 started.
+./_region_.tex:95: Preview: Snippet 52 started.
 <-><->
       
-l.108 $
-       $\text{s.t.\;\;} A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 2$$
+l.95 $|x|>1$. When $
+                    |x|\leq 1$, the value reaches its maximum
 Not a real error.
 
-./_region_.tex:108: Preview: Snippet 52 ended.(950272+0x22609920).
+./_region_.tex:95: Preview: Snippet 52 ended.(491520+163840x1940133).
 <-><->
       
-l.108 ...A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 2$$
-                                                  
+l.95 $|x|>1$. When $|x|\leq 1$
+                              , the value reaches its maximum
 Not a real error.
 
 [52]
-./_region_.tex:110: Preview: Snippet 53 started.
+./_region_.tex:96: Preview: Snippet 53 started.
 <-><->
       
-l.110 \subsection
-                 {Prob 7.6}
+l.96 $
+      |y|$ by setting $x=-1$ if $y\leq 0$ and $x=1$ if $y>0$.
 Not a real error.
 
-./_region_.tex:110: Preview: Snippet 53 ended.(546132+0x22609920).
+./_region_.tex:96: Preview: Snippet 53 ended.(491520+163840x708914).
 <-><->
       
-l.110 \subsection{Prob 7.6}
-                           
+l.96 $|y|$
+           by setting $x=-1$ if $y\leq 0$ and $x=1$ if $y>0$.
 Not a real error.
 
-[53
-
-]
-./_region_.tex:112: Preview: Snippet 54 started.
+[53]
+./_region_.tex:96: Preview: Snippet 54 started.
 <-><->
       
-l.112 Because $
-               h(y)=x=ay-b$, so the density of $y$ is
+l.96 $|y|$ by setting $
+                       x=-1$ if $y\leq 0$ and $x=1$ if $y>0$.
 Not a real error.
 
-./_region_.tex:112: Preview: Snippet 54 ended.(491520+163840x5127797).
+./_region_.tex:96: Preview: Snippet 54 ended.(422343+54613x2085769).
 <-><->
       
-l.112 Because $h(y)=x=ay-b$
-                           , so the density of $y$ is
+l.96 $|y|$ by setting $x=-1$
+                             if $y\leq 0$ and $x=1$ if $y>0$.
 Not a real error.
 
 [54]
-./_region_.tex:112: Preview: Snippet 55 started.
+./_region_.tex:96: Preview: Snippet 55 started.
 <-><->
       
-l.112 Because $h(y)=x=ay-b$, so the density of $
-                                                y$ is
+l.96 $|y|$ by setting $x=-1$ if $
+                                 y\leq 0$ and $x=1$ if $y>0$.
 Not a real error.
 
-./_region_.tex:112: Preview: Snippet 55 ended.(282168+127431x344824).
+./_region_.tex:96: Preview: Snippet 55 ended.(422343+127431x1546311).
 <-><->
       
-l.112 Because $h(y)=x=ay-b$, so the density of $y$
-                                                   is
+l.96 $|y|$ by setting $x=-1$ if $y\leq 0$
+                                          and $x=1$ if $y>0$.
 Not a real error.
 
 [55]
-./_region_.tex:113: Preview: Snippet 56 started.
+./_region_.tex:96: Preview: Snippet 56 started.
 <-><->
       
-l.113 $
-       p(y)=p(h(y))h'(y)$:
+l.96 $|y|$ by setting $x=-1$ if $y\leq 0$ and $
+                                               x=1$ if $y>0$.
 Not a real error.
 
-./_region_.tex:113: Preview: Snippet 56 ended.(492688+163840x5545685).
+./_region_.tex:96: Preview: Snippet 56 ended.(422343+0x1576043).
 <-><->
       
-l.113 $p(y)=p(h(y))h'(y)$
-                         :
+l.96 ...$ by setting $x=-1$ if $y\leq 0$ and $x=1$
+                                                   if $y>0$.
 Not a real error.
 
 [56]
-./_region_.tex:114: Preview: Snippet 57 started.
+./_region_.tex:96: Preview: Snippet 57 started.
 <-><->
       
-l.114 $
-       $p(y)= ap(ay-b)$$
+l.96 ...setting $x=-1$ if $y\leq 0$ and $x=1$ if $
+                                                  y>0$.
 Not a real error.
 
-./_region_.tex:114: Preview: Snippet 57 ended.(950272+0x22609920).
+./_region_.tex:96: Preview: Snippet 57 ended.(422343+127431x1546311).
 <-><->
       
-l.114 $$p(y)= ap(ay-b)$$
-                        
+l.96 ...ing $x=-1$ if $y\leq 0$ and $x=1$ if $y>0$
+                                                  .
 Not a real error.
 
 [57]
-./_region_.tex:116: Preview: Snippet 58 started.
+./_region_.tex:99: Preview: Snippet 58 started.
 <-><->
       
-l.116 $
-       $ \text{log}p(y) = \text{log}a + \text{log}p(ay-b)$$
+l.99 \begin{align*}
+                   
 Not a real error.
 
-./_region_.tex:116: Preview: Snippet 58 ended.(950272+0x22609920).
+./_region_.tex:105: Preview: Snippet 58 ended.(1966099+0x14839083).
 <-><->
       
-l.116 ...}p(y) = \text{log}a + \text{log}p(ay-b)$$
-                                                  
+l.105 \end{align*}
+                  
 Not a real error.
 
 [58]
-./_region_.tex:117: Preview: Snippet 59 started.
+./_region_.tex:106: Preview: Snippet 59 started.
 <-><->
       
-l.117 Given samples $
-                     y_1\dots y_n$ of $y$, the ML estimate of $a$
+l.106 To plug $
+               \phi^*(z)$ into the object function, we need to
 Not a real error.
 
-./_region_.tex:117: Preview: Snippet 59 ended.(282168+127431x2276390).
+./_region_.tex:106: Preview: Snippet 59 ended.(491520+163840x1535094).
 <-><->
       
-l.117 Given samples $y_1\dots y_n$
-                                   of $y$, the ML estimate of $a$
+l.106 To plug $\phi^*(z)$
+                          into the object function, we need to
 Not a real error.
 
 [59]
-./_region_.tex:117: Preview: Snippet 60 started.
+./_region_.tex:107: Preview: Snippet 60 started.
 <-><->
       
-l.117 Given samples $y_1\dots y_n$ of $
-                                       y$, the ML estimate of $a$
+l.107 ...nction is bounded. Therefore the vector $
+                                                  v$
 Not a real error.
 
-./_region_.tex:117: Preview: Snippet 60 ended.(282168+127431x344824).
+./_region_.tex:107: Preview: Snippet 60 ended.(282168+0x341181).
 <-><->
       
-l.117 Given samples $y_1\dots y_n$ of $y$
-                                         , the ML estimate of $a$
-Not a real error.
-
-[60]
-./_region_.tex:117: Preview: Snippet 61 started.
-<-><->
-      
-l.117 ..._1\dots y_n$ of $y$, the ML estimate of $
-                                                  a$
-Not a real error.
-
-./_region_.tex:117: Preview: Snippet 61 ended.(282168+0x346416).
-<-><->
-      
-l.117 ...\dots y_n$ of $y$, the ML estimate of $a$
+l.107 ...tion is bounded. Therefore the vector $v$
                                                   
 Not a real error.
 
-[61]
-./_region_.tex:118: Preview: Snippet 62 started.
+[60]
+./_region_.tex:108: Preview: Snippet 61 started.
 <-><->
       
-l.118 and $
-           b$ is equivalent to maximize the sum of log-likelihood:
+l.108 has to satisfy the constraint $
+                                     ||v||_{\infty}\leq 1$. Then
 Not a real error.
 
-./_region_.tex:118: Preview: Snippet 62 ended.(455111+0x281258).
+./_region_.tex:108: Preview: Snippet 61 ended.(491520+163840x2826085).
 <-><->
       
-l.118 and $b$
-              is equivalent to maximize the sum of log-likelihood:
+l.108 ...sfy the constraint $||v||_{\infty}\leq 1$
+                                                  . Then
+Not a real error.
+
+[61]
+./_region_.tex:110: Preview: Snippet 62 started.
+<-><->
+      
+l.110 $
+       $\text{maximize\;\;} -b^Tv-\sum_{i=1}^{m}|v_i|$$
+Not a real error.
+
+./_region_.tex:110: Preview: Snippet 62 ended.(1986565+0x22609920).
+<-><->
+      
+l.110 ...maximize\;\;} -b^Tv-\sum_{i=1}^{m}|v_i|$$
+                                                  
 Not a real error.
 
 [62]
-./_region_.tex:119: Preview: Snippet 63 started.
+./_region_.tex:111: Preview: Snippet 63 started.
 <-><->
       
-l.119 $
-       $\sum_{i=1}^{n}\text{log}p(y_i)=n\text{log}a+\sum_{i=1}^{n}\text{log}...
-
+l.111 $
+       $\text{s.t.\;\;} A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 1$$
 Not a real error.
 
-./_region_.tex:119: Preview: Snippet 63 ended.(1986565+0x22609920).
+./_region_.tex:111: Preview: Snippet 63 ended.(950272+0x22609920).
 <-><->
       
-l.119 ...log}a+\sum_{i=1}^{n}\text{log}p(ay_i-b)$$
+l.111 ...A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 1$$
                                                   
 Not a real error.
 
 [63]
-./_region_.tex:120: Preview: Snippet 64 started.
+./_region_.tex:112: Preview: Snippet 64 started.
 <-><->
       
-l.120 Since $
-             p$ is log concave, then the function is also a
+l.112 \subsubsection
+                    {b}
 Not a real error.
 
-./_region_.tex:120: Preview: Snippet 64 ended.(282168+127431x329728).
+./_region_.tex:112: Preview: Snippet 64 ended.(455111+0x22609920).
 <-><->
       
-l.120 Since $p$
-                is log concave, then the function is also a
+l.112 \subsubsection{b}
+                       
 Not a real error.
 
-[64]
-./_region_.tex:124: Preview: Snippet 65 started.
+[64
+
+]
+./_region_.tex:113: Preview: Snippet 65 started.
 <-><->
       
-l.124 When $
-            p(x)=e^{-2|x|}$, the ML estimation becomes solving
+l.113 ...fy the domain of the conjugate function $
+                                                  \phi^*$. We can
 Not a real error.
 
-./_region_.tex:124: Preview: Snippet 65 ended.(581889+163840x3705057).
+./_region_.tex:113: Preview: Snippet 65 ended.(455111+127431x691770).
 <-><->
       
-l.124 When $p(x)=e^{-2|x|}$
-                           , the ML estimation becomes solving
+l.113 ...domain of the conjugate function $\phi^*$
+                                                  . We can
 Not a real error.
 
 [65]
-./_region_.tex:125: Preview: Snippet 66 started.
+./_region_.tex:114: Preview: Snippet 66 started.
 <-><->
       
-l.125 $
-       $ \text{minimize\;\;\;\;}-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$$
+l.114 write $
+             yx-\phi(x)$ as:
 Not a real error.
 
-./_region_.tex:125: Preview: Snippet 66 ended.(1986565+0x22609920).
+./_region_.tex:114: Preview: Snippet 66 ended.(491520+163840x2795138).
 <-><->
       
-l.125 ...;}-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$$
-                                                  
+l.114 write $yx-\phi(x)$
+                         as:
 Not a real error.
 
 [66]
-./_region_.tex:126: Preview: Snippet 67 started.
+./_region_.tex:115: Preview: Snippet 67 started.
 <-><->
       
-l.126 Let $
-           c=b/a$, the problem reaches minimum when $c$ equals the
+l.115 \begin{align*}
+                    
 Not a real error.
 
-./_region_.tex:126: Preview: Snippet 67 ended.(491520+163840x2112772).
+./_region_.tex:122: Preview: Snippet 67 ended.(2831145+0x16560148).
 <-><->
       
-l.126 Let $c=b/a$
-                 , the problem reaches minimum when $c$ equals the
+l.122 \end{align*}
+                  
 Not a real error.
 
 [67]
-./_region_.tex:126: Preview: Snippet 68 started.
+./_region_.tex:123: Preview: Snippet 68 started.
 <-><->
       
-l.126 ...=b/a$, the problem reaches minimum when $
-                                                  c$ equals the
+l.123 Then it's clear that when $
+                                 |y|>2$ it is not in the domain of
 Not a real error.
 
-./_region_.tex:126: Preview: Snippet 68 ended.(282168+0x283611).
+./_region_.tex:123: Preview: Snippet 68 ended.(491520+163840x1910401).
 <-><->
       
-l.126 .../a$, the problem reaches minimum when $c$
-                                                   equals the
+l.123 Then it's clear that when $|y|>2$
+                                        it is not in the domain of
 Not a real error.
 
 [68]
-./_region_.tex:127: Preview: Snippet 69 started.
+./_region_.tex:124: Preview: Snippet 69 started.
 <-><->
       
-l.127 median of $
-                 y$ (proved by section 1.1.1).
+l.124 $
+       \phi^*$. This is because if $y<-2$, let $x\rightarrow
 Not a real error.
 
-./_region_.tex:127: Preview: Snippet 69 ended.(282168+127431x344824).
+./_region_.tex:124: Preview: Snippet 69 ended.(455111+127431x691770).
 <-><->
       
-l.127 median of $y$
-                    (proved by section 1.1.1).
+l.124 $\phi^*$
+              . This is because if $y<-2$, let $x\rightarrow
 Not a real error.
 
 [69]
-./_region_.tex:128: Preview: Snippet 70 started.
+./_region_.tex:124: Preview: Snippet 70 started.
 <-><->
       
-l.128 $
-       $ \text{minimize\;\;\;\;}-n\text{log}a+2a\sum_{i=1}^{n}|y_i-c|$$
+l.124 $\phi^*$. This is because if $
+                                    y<-2$, let $x\rightarrow
 Not a real error.
 
-./_region_.tex:128: Preview: Snippet 70 ended.(1986565+0x22609920).
+./_region_.tex:124: Preview: Snippet 70 ended.(422343+127431x2056037).
 <-><->
       
-l.128 ...;}-n\text{log}a+2a\sum_{i=1}^{n}|y_i-c|$$
-                                                  
+l.124 $\phi^*$. This is because if $y<-2$
+                                         , let $x\rightarrow
 Not a real error.
 
 [70]
-./_region_.tex:129: Preview: Snippet 71 started.
+./_region_.tex:124: Preview: Snippet 71 started.
 <-><->
       
-l.129 Suppose the median of $
-                             y$ is $y_k$. Then $a^*$ can be found
+l.124 $\phi^*$. This is because if $y<-2$, let $
+                                                x\rightarrow
 Not a real error.
 
-./_region_.tex:129: Preview: Snippet 71 ended.(282168+127431x344824).
+./_region_.tex:125: Preview: Snippet 71 ended.(382293+54613x2559084).
 <-><->
       
-l.129 Suppose the median of $y$
-                                is $y_k$. Then $a^*$ can be found
+l.125 -\infty$
+               and if $y>2$ then let $x \rightarrow \infty$. The
 Not a real error.
 
 [71]
-./_region_.tex:129: Preview: Snippet 72 started.
+./_region_.tex:125: Preview: Snippet 72 started.
 <-><->
       
-l.129 Suppose the median of $y$ is $
-                                    y_k$. Then $a^*$ can be found
+l.125 -\infty$ and if $
+                       y>2$ then let $x \rightarrow \infty$. The
 Not a real error.
 
-./_region_.tex:129: Preview: Snippet 72 ended.(282168+127431x643759).
+./_region_.tex:125: Preview: Snippet 72 ended.(422343+127431x1546311).
 <-><->
       
-l.129 Suppose the median of $y$ is $y_k$
-                                        . Then $a^*$ can be found
+l.125 -\infty$ and if $y>2$
+                            then let $x \rightarrow \infty$. The
 Not a real error.
 
 [72]
-./_region_.tex:129: Preview: Snippet 73 started.
+./_region_.tex:125: Preview: Snippet 73 started.
 <-><->
       
-l.129 Suppose the median of $y$ is $y_k$. Then $
-                                                a^*$ can be found
+l.125 -\infty$ and if $y>2$ then let $
+                                      x \rightarrow \infty$. The
 Not a real error.
 
-./_region_.tex:129: Preview: Snippet 73 ended.(451272+0x647700).
+./_region_.tex:125: Preview: Snippet 73 ended.(282168+0x2049358).
 <-><->
       
-l.129 ...se the median of $y$ is $y_k$. Then $a^*$
-                                                   can be found
+l.125 ... if $y>2$ then let $x \rightarrow \infty$
+                                                  . The
 Not a real error.
 
 [73]
-./_region_.tex:131: Preview: Snippet 74 started.
+./_region_.tex:128: Preview: Snippet 74 started.
 <-><->
       
-l.131 $
-       -n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$ $\frac{\partial
+l.128 When $
+            |y|\leq 2$, the value is always less than $0$ if
 Not a real error.
 
-./_region_.tex:131: Preview: Snippet 74 ended.(527024+196611x7339805).
+./_region_.tex:128: Preview: Snippet 74 ended.(491520+163840x1910401).
 <-><->
       
-l.131 $-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$
-                                              $\frac{\partial
+l.128 When $|y|\leq 2$
+                      , the value is always less than $0$ if
 Not a real error.
 
 [74]
-./_region_.tex:131: Preview: Snippet 75 started.
+./_region_.tex:128: Preview: Snippet 75 started.
 <-><->
       
-l.131 $-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$ $
-                                               \frac{\partial
+l.128 ...|\leq 2$, the value is always less than $
+                                                  0$ if
 Not a real error.
 
-./_region_.tex:132: Preview: Snippet 75 ended.(610938+225995x1973836).
+./_region_.tex:128: Preview: Snippet 75 ended.(422343+0x327681).
 <-><->
       
-l.132   f}{\partial a}=0$
-                         . Namely:
+l.128 ...leq 2$, the value is always less than $0$
+                                                   if
 Not a real error.
 
 [75]
-./_region_.tex:133: Preview: Snippet 76 started.
+./_region_.tex:129: Preview: Snippet 76 started.
 <-><->
       
-l.133 $
-       $a^* = \frac{n}{2\sum_{i=1}^{n}|y_i-c|}$$
+l.129 $
+       |x|>1$. When $|x|\leq 1$, the value reaches its maximum
 Not a real error.
 
-./_region_.tex:133: Preview: Snippet 76 ended.(1437973+0x22609920).
+./_region_.tex:129: Preview: Snippet 76 ended.(491520+163840x1940133).
 <-><->
       
-l.133 $$a^* = \frac{n}{2\sum_{i=1}^{n}|y_i-c|}$$
-                                                
+l.129 $|x|>1$
+             . When $|x|\leq 1$, the value reaches its maximum
 Not a real error.
 
 [76]
-./_region_.tex:135: Preview: Snippet 77 started.
+./_region_.tex:129: Preview: Snippet 77 started.
 <-><->
       
-l.135 Therefore, $
-                  b^*=y_ka^*$.
+l.129 $|x|>1$. When $
+                     |x|\leq 1$, the value reaches its maximum
 Not a real error.
 
-./_region_.tex:135: Preview: Snippet 77 ended.(455111+127431x2747807).
+./_region_.tex:129: Preview: Snippet 77 ended.(491520+163840x1940133).
 <-><->
       
-l.135 Therefore, $b^*=y_ka^*$
-                             .
+l.129 $|x|>1$. When $|x|\leq 1$
+                               , the value reaches its maximum
 Not a real error.
 
 [77]
-./_region_.tex:138: Preview: Snippet 78 started.
+./_region_.tex:130: Preview: Snippet 78 started.
 <-><->
       
-l.138 \subsection
-                 {Prob 8.24}
+l.130 $
+       \frac{y^2}{4}$ by setting $x=\frac{y}{2}$.
 Not a real error.
 
-./_region_.tex:138: Preview: Snippet 78 ended.(546132+0x22609920).
+./_region_.tex:130: Preview: Snippet 78 ended.(701306+225995x695309).
 <-><->
       
-l.138 \subsection{Prob 8.24}
-                            
+l.130 $\frac{y^2}{4}$
+                      by setting $x=\frac{y}{2}$.
 Not a real error.
 
-[78
-
-]
-./_region_.tex:139: Preview: Snippet 79 started.
+[78]
+./_region_.tex:130: Preview: Snippet 79 started.
 <-><->
       
-l.139 Because $
-               \rho$ is the upper bound of $||u||_2$ and any
+l.130 $\frac{y^2}{4}$ by setting $
+                                  x=\frac{y}{2}$.
 Not a real error.
 
-./_region_.tex:139: Preview: Snippet 79 ended.(282168+127431x338831).
+./_region_.tex:130: Preview: Snippet 79 ended.(489879+225995x1687895).
 <-><->
       
-l.139 Because $\rho$
-                     is the upper bound of $||u||_2$ and any
+l.130 $\frac{y^2}{4}$ by setting $x=\frac{y}{2}$
+                                                .
 Not a real error.
 
 [79]
-./_region_.tex:139: Preview: Snippet 80 started.
+./_region_.tex:133: Preview: Snippet 80 started.
 <-><->
       
-l.139 Because $\rho$ is the upper bound of $
-                                            ||u||_2$ and any
+l.133 \begin{align*}
+                    
 Not a real error.
 
-./_region_.tex:139: Preview: Snippet 80 ended.(491520+163840x1397349).
+./_region_.tex:139: Preview: Snippet 80 ended.(1966099+0x14831370).
 <-><->
       
-l.139 ...se $\rho$ is the upper bound of $||u||_2$
-                                                   and any
+l.139 \end{align*}
+                  
 Not a real error.
 
 [80]
-./_region_.tex:141: Preview: Snippet 81 started.
+./_region_.tex:140: Preview: Snippet 81 started.
 <-><->
       
-l.141 separating. So that $
-                           u^Tx_i$ gets its minimum value when $u$
+l.140 To plug $
+               \phi^*(z)$ into the object function, we need to
 Not a real error.
 
-./_region_.tex:141: Preview: Snippet 81 ended.(551306+98303x1380764).
+./_region_.tex:140: Preview: Snippet 81 ended.(491520+163840x1535094).
 <-><->
       
-l.141 separating. So that $u^Tx_i$
-                                   gets its minimum value when $u$
+l.140 To plug $\phi^*(z)$
+                          into the object function, we need to
 Not a real error.
 
 [81]
 ./_region_.tex:141: Preview: Snippet 82 started.
 <-><->
       
-l.141 ...at $u^Tx_i$ gets its minimum value when $
-                                                  u$
+l.141 ...nction is bounded. Therefore the vector $
+                                                  v$
 Not a real error.
 
-./_region_.tex:141: Preview: Snippet 82 ended.(282168+0x375166).
+./_region_.tex:141: Preview: Snippet 82 ended.(282168+0x341181).
 <-><->
       
-l.141 ... $u^Tx_i$ gets its minimum value when $u$
+l.141 ...tion is bounded. Therefore the vector $v$
                                                   
 Not a real error.
 
@@ -1393,209 +1388,709 @@ Not a real error.
 ./_region_.tex:142: Preview: Snippet 83 started.
 <-><->
       
-l.142 is on the same line as $
-                              x_i$ but with the opposite
+l.142 has to satisfy the constraint $
+                                     ||v||_{\infty}\leq 2$. Then
 Not a real error.
 
-./_region_.tex:142: Preview: Snippet 83 ended.(282168+98303x592744).
+./_region_.tex:142: Preview: Snippet 83 ended.(491520+163840x2826085).
 <-><->
       
-l.142 is on the same line as $x_i$
-                                   but with the opposite
+l.142 ...sfy the constraint $||v||_{\infty}\leq 2$
+                                                  . Then
 Not a real error.
 
 [83]
 ./_region_.tex:145: Preview: Snippet 84 started.
 <-><->
       
-l.145 Therefore, for all $
-                          ||u||_2\leq \rho$, we have $-\rho ||x_i||_2 \leq
+l.145 $
+       $\text{maximize\;\;} -b^Tv-\frac{1}{4}\sum_{i=1}^{m}z_i^2$$
 Not a real error.
 
-./_region_.tex:145: Preview: Snippet 84 ended.(491520+163840x2609986).
+./_region_.tex:145: Preview: Snippet 84 ended.(1986565+0x22609920).
 <-><->
       
-l.145 Therefore, for all $||u||_2\leq \rho$
-                                           , we have $-\rho ||x_i||_2 \leq
-Not a real error.
-
-[84]
-./_region_.tex:145: Preview: Snippet 85 started.
-<-><->
-      
-l.145 ...re, for all $||u||_2\leq \rho$, we have $
-                                                  -\rho ||x_i||_2 \leq
-Not a real error.
-
-./_region_.tex:146: Preview: Snippet 85 ended.(551306+163840x7545618).
-<-><->
-      
-l.146 u^Tx_i\leq \rho ||x_i||_2$
-                                . Therefore, we can rewrite the
-Not a real error.
-
-[85]
-./_region_.tex:147: Preview: Snippet 86 started.
-<-><->
-      
-l.147 conditions for weight error margin as for $
-                                                 i=1\dots N$ and
-Not a real error.
-
-./_region_.tex:147: Preview: Snippet 86 ended.(447828+0x3008312).
-<-><->
-      
-l.147 ...r weight error margin as for $i=1\dots N$
-                                                   and
-Not a real error.
-
-[86]
-./_region_.tex:148: Preview: Snippet 87 started.
-<-><->
-      
-l.148 $
-       j=1\dots M$:
-Not a real error.
-
-./_region_.tex:148: Preview: Snippet 87 ended.(447828+127431x3199156).
-<-><->
-      
-l.148 $j=1\dots M$
-                  :
-Not a real error.
-
-[87]
-./_region_.tex:149: Preview: Snippet 88 started.
-<-><->
-      
-l.149 $
-       $
-Not a real error.
-
-./_region_.tex:152: Preview: Snippet 88 ended.(973936+0x22609920).
-<-><->
-      
-l.152 $$
-        
-Not a real error.
-
-[88]
-./_region_.tex:154: Preview: Snippet 89 started.
-<-><->
-      
-l.154 $
-       $\rho = \min(\min_{i=1\dots
-Not a real error.
-
-./_region_.tex:155: Preview: Snippet 89 ended.(1697247+0x22609920).
-<-><->
-      
-l.155 ...\dots M}{\frac{b_j-a^Ty_j}{||y_j||_2}})$$
+l.145 ...;} -b^Tv-\frac{1}{4}\sum_{i=1}^{m}z_i^2$$
                                                   
 Not a real error.
 
-[89]
-./_region_.tex:157: Preview: Snippet 90 started.
+[84]
+./_region_.tex:146: Preview: Snippet 85 started.
 <-><->
       
-l.157 To maximize $
+l.146 $
+       $\text{s.t.\;\;} A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 2$$
+Not a real error.
+
+./_region_.tex:146: Preview: Snippet 85 ended.(950272+0x22609920).
+<-><->
+      
+l.146 ...A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 2$$
+                                                  
+Not a real error.
+
+[85]
+./_region_.tex:148: Preview: Snippet 86 started.
+<-><->
+      
+l.148 \subsection
+                 {Prob 7.6}
+Not a real error.
+
+./_region_.tex:148: Preview: Snippet 86 ended.(546132+0x22609920).
+<-><->
+      
+l.148 \subsection{Prob 7.6}
+                           
+Not a real error.
+
+[86
+
+]
+./_region_.tex:150: Preview: Snippet 87 started.
+<-><->
+      
+l.150 Because $
+               h(y)=x=ay-b$, so the density of $y$ is
+Not a real error.
+
+./_region_.tex:150: Preview: Snippet 87 ended.(491520+163840x5127797).
+<-><->
+      
+l.150 Because $h(y)=x=ay-b$
+                           , so the density of $y$ is
+Not a real error.
+
+[87]
+./_region_.tex:150: Preview: Snippet 88 started.
+<-><->
+      
+l.150 Because $h(y)=x=ay-b$, so the density of $
+                                                y$ is
+Not a real error.
+
+./_region_.tex:150: Preview: Snippet 88 ended.(282168+127431x344824).
+<-><->
+      
+l.150 Because $h(y)=x=ay-b$, so the density of $y$
+                                                   is
+Not a real error.
+
+[88]
+./_region_.tex:151: Preview: Snippet 89 started.
+<-><->
+      
+l.151 $
+       p(y)=p(h(y))h'(y)$:
+Not a real error.
+
+./_region_.tex:151: Preview: Snippet 89 ended.(492688+163840x5545685).
+<-><->
+      
+l.151 $p(y)=p(h(y))h'(y)$
+                         :
+Not a real error.
+
+[89]
+./_region_.tex:152: Preview: Snippet 90 started.
+<-><->
+      
+l.152 $
+       $p(y)= ap(ay-b)$$
+Not a real error.
+
+./_region_.tex:152: Preview: Snippet 90 ended.(950272+0x22609920).
+<-><->
+      
+l.152 $$p(y)= ap(ay-b)$$
+                        
+Not a real error.
+
+[90]
+./_region_.tex:154: Preview: Snippet 91 started.
+<-><->
+      
+l.154 $
+       $ \text{log}p(y) = \text{log}a + \text{log}p(ay-b)$$
+Not a real error.
+
+./_region_.tex:154: Preview: Snippet 91 ended.(950272+0x22609920).
+<-><->
+      
+l.154 ...}p(y) = \text{log}a + \text{log}p(ay-b)$$
+                                                  
+Not a real error.
+
+[91]
+./_region_.tex:155: Preview: Snippet 92 started.
+<-><->
+      
+l.155 Given samples $
+                     y_1\dots y_n$ of $y$, the ML estimate of $a$
+Not a real error.
+
+./_region_.tex:155: Preview: Snippet 92 ended.(282168+127431x2276390).
+<-><->
+      
+l.155 Given samples $y_1\dots y_n$
+                                   of $y$, the ML estimate of $a$
+Not a real error.
+
+[92]
+./_region_.tex:155: Preview: Snippet 93 started.
+<-><->
+      
+l.155 Given samples $y_1\dots y_n$ of $
+                                       y$, the ML estimate of $a$
+Not a real error.
+
+./_region_.tex:155: Preview: Snippet 93 ended.(282168+127431x344824).
+<-><->
+      
+l.155 Given samples $y_1\dots y_n$ of $y$
+                                         , the ML estimate of $a$
+Not a real error.
+
+[93]
+./_region_.tex:155: Preview: Snippet 94 started.
+<-><->
+      
+l.155 ..._1\dots y_n$ of $y$, the ML estimate of $
+                                                  a$
+Not a real error.
+
+./_region_.tex:155: Preview: Snippet 94 ended.(282168+0x346416).
+<-><->
+      
+l.155 ...\dots y_n$ of $y$, the ML estimate of $a$
+                                                  
+Not a real error.
+
+[94]
+./_region_.tex:156: Preview: Snippet 95 started.
+<-><->
+      
+l.156 and $
+           b$ is equivalent to maximize the sum of log-likelihood:
+Not a real error.
+
+./_region_.tex:156: Preview: Snippet 95 ended.(455111+0x281258).
+<-><->
+      
+l.156 and $b$
+              is equivalent to maximize the sum of log-likelihood:
+Not a real error.
+
+[95]
+./_region_.tex:157: Preview: Snippet 96 started.
+<-><->
+      
+l.157 $
+       $\sum_{i=1}^{n}\text{log}p(y_i)=n\text{log}a+\sum_{i=1}^{n}\text{log}...
+
+Not a real error.
+
+./_region_.tex:157: Preview: Snippet 96 ended.(1986565+0x22609920).
+<-><->
+      
+l.157 ...log}a+\sum_{i=1}^{n}\text{log}p(ay_i-b)$$
+                                                  
+Not a real error.
+
+[96]
+./_region_.tex:158: Preview: Snippet 97 started.
+<-><->
+      
+l.158 Since $
+             p$ is log concave, then the function is also a
+Not a real error.
+
+./_region_.tex:158: Preview: Snippet 97 ended.(282168+127431x329728).
+<-><->
+      
+l.158 Since $p$
+                is log concave, then the function is also a
+Not a real error.
+
+[97]
+./_region_.tex:162: Preview: Snippet 98 started.
+<-><->
+      
+l.162 When $
+            p(x)=e^{-2|x|}$, the ML estimation becomes solving
+Not a real error.
+
+./_region_.tex:162: Preview: Snippet 98 ended.(581889+163840x3705057).
+<-><->
+      
+l.162 When $p(x)=e^{-2|x|}$
+                           , the ML estimation becomes solving
+Not a real error.
+
+[98]
+./_region_.tex:163: Preview: Snippet 99 started.
+<-><->
+      
+l.163 $
+       $ \text{minimize\;\;\;\;}-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$$
+Not a real error.
+
+./_region_.tex:163: Preview: Snippet 99 ended.(1986565+0x22609920).
+<-><->
+      
+l.163 ...;}-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$$
+                                                  
+Not a real error.
+
+[99]
+./_region_.tex:164: Preview: Snippet 100 started.
+<-><->
+      
+l.164 Let $
+           c=b/a$, the problem reaches minimum when $c$ equals the
+Not a real error.
+
+./_region_.tex:164: Preview: Snippet 100 ended.(491520+163840x2112772).
+<-><->
+      
+l.164 Let $c=b/a$
+                 , the problem reaches minimum when $c$ equals the
+Not a real error.
+
+[100]
+./_region_.tex:164: Preview: Snippet 101 started.
+<-><->
+      
+l.164 ...=b/a$, the problem reaches minimum when $
+                                                  c$ equals the
+Not a real error.
+
+./_region_.tex:164: Preview: Snippet 101 ended.(282168+0x283611).
+<-><->
+      
+l.164 .../a$, the problem reaches minimum when $c$
+                                                   equals the
+Not a real error.
+
+[101]
+./_region_.tex:165: Preview: Snippet 102 started.
+<-><->
+      
+l.165 median of $
+                 y$ (proved by section 1.1.1).
+Not a real error.
+
+./_region_.tex:165: Preview: Snippet 102 ended.(282168+127431x344824).
+<-><->
+      
+l.165 median of $y$
+                    (proved by section 1.1.1).
+Not a real error.
+
+[102]
+./_region_.tex:166: Preview: Snippet 103 started.
+<-><->
+      
+l.166 $
+       $ \text{minimize\;\;\;\;}-n\text{log}a+2a\sum_{i=1}^{n}|y_i-c|$$
+Not a real error.
+
+./_region_.tex:166: Preview: Snippet 103 ended.(1986565+0x22609920).
+<-><->
+      
+l.166 ...;}-n\text{log}a+2a\sum_{i=1}^{n}|y_i-c|$$
+                                                  
+Not a real error.
+
+[103]
+./_region_.tex:167: Preview: Snippet 104 started.
+<-><->
+      
+l.167 Suppose the median of $
+                             y$ is $y_k$. Then $a^*$ can be found
+Not a real error.
+
+./_region_.tex:167: Preview: Snippet 104 ended.(282168+127431x344824).
+<-><->
+      
+l.167 Suppose the median of $y$
+                                is $y_k$. Then $a^*$ can be found
+Not a real error.
+
+[104]
+./_region_.tex:167: Preview: Snippet 105 started.
+<-><->
+      
+l.167 Suppose the median of $y$ is $
+                                    y_k$. Then $a^*$ can be found
+Not a real error.
+
+./_region_.tex:167: Preview: Snippet 105 ended.(282168+127431x643759).
+<-><->
+      
+l.167 Suppose the median of $y$ is $y_k$
+                                        . Then $a^*$ can be found
+Not a real error.
+
+[105]
+./_region_.tex:167: Preview: Snippet 106 started.
+<-><->
+      
+l.167 Suppose the median of $y$ is $y_k$. Then $
+                                                a^*$ can be found
+Not a real error.
+
+./_region_.tex:167: Preview: Snippet 106 ended.(451272+0x647700).
+<-><->
+      
+l.167 ...se the median of $y$ is $y_k$. Then $a^*$
+                                                   can be found
+Not a real error.
+
+[106]
+./_region_.tex:169: Preview: Snippet 107 started.
+<-><->
+      
+l.169 $
+       -n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$ $\frac{\partial
+Not a real error.
+
+./_region_.tex:169: Preview: Snippet 107 ended.(527024+196611x7339805).
+<-><->
+      
+l.169 $-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$
+                                              $\frac{\partial
+Not a real error.
+
+[107]
+./_region_.tex:169: Preview: Snippet 108 started.
+<-><->
+      
+l.169 $-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$ $
+                                               \frac{\partial
+Not a real error.
+
+./_region_.tex:170: Preview: Snippet 108 ended.(610938+225995x1973836).
+<-><->
+      
+l.170   f}{\partial a}=0$
+                         . Namely:
+Not a real error.
+
+[108]
+./_region_.tex:171: Preview: Snippet 109 started.
+<-><->
+      
+l.171 $
+       $a^* = \frac{n}{2\sum_{i=1}^{n}|y_i-c|}$$
+Not a real error.
+
+./_region_.tex:171: Preview: Snippet 109 ended.(1437973+0x22609920).
+<-><->
+      
+l.171 $$a^* = \frac{n}{2\sum_{i=1}^{n}|y_i-c|}$$
+                                                
+Not a real error.
+
+[109]
+./_region_.tex:173: Preview: Snippet 110 started.
+<-><->
+      
+l.173 Therefore, $
+                  b^*=y_ka^*$.
+Not a real error.
+
+./_region_.tex:173: Preview: Snippet 110 ended.(455111+127431x2747807).
+<-><->
+      
+l.173 Therefore, $b^*=y_ka^*$
+                             .
+Not a real error.
+
+[110]
+./_region_.tex:176: Preview: Snippet 111 started.
+<-><->
+      
+l.176 \subsection
+                 {Prob 8.24}
+Not a real error.
+
+./_region_.tex:176: Preview: Snippet 111 ended.(546132+0x22609920).
+<-><->
+      
+l.176 \subsection{Prob 8.24}
+                            
+Not a real error.
+
+[111
+
+]
+./_region_.tex:177: Preview: Snippet 112 started.
+<-><->
+      
+l.177 Because $
+               \rho$ is the upper bound of $||u||_2$ and any
+Not a real error.
+
+./_region_.tex:177: Preview: Snippet 112 ended.(282168+127431x338831).
+<-><->
+      
+l.177 Because $\rho$
+                     is the upper bound of $||u||_2$ and any
+Not a real error.
+
+[112]
+./_region_.tex:177: Preview: Snippet 113 started.
+<-><->
+      
+l.177 Because $\rho$ is the upper bound of $
+                                            ||u||_2$ and any
+Not a real error.
+
+./_region_.tex:177: Preview: Snippet 113 ended.(491520+163840x1397349).
+<-><->
+      
+l.177 ...se $\rho$ is the upper bound of $||u||_2$
+                                                   and any
+Not a real error.
+
+[113]
+./_region_.tex:179: Preview: Snippet 114 started.
+<-><->
+      
+l.179 separating. So that $
+                           u^Tx_i$ gets its minimum value when $u$
+Not a real error.
+
+./_region_.tex:179: Preview: Snippet 114 ended.(551306+98303x1380764).
+<-><->
+      
+l.179 separating. So that $u^Tx_i$
+                                   gets its minimum value when $u$
+Not a real error.
+
+[114]
+./_region_.tex:179: Preview: Snippet 115 started.
+<-><->
+      
+l.179 ...at $u^Tx_i$ gets its minimum value when $
+                                                  u$
+Not a real error.
+
+./_region_.tex:179: Preview: Snippet 115 ended.(282168+0x375166).
+<-><->
+      
+l.179 ... $u^Tx_i$ gets its minimum value when $u$
+                                                  
+Not a real error.
+
+[115]
+./_region_.tex:180: Preview: Snippet 116 started.
+<-><->
+      
+l.180 is on the same line as $
+                              x_i$ but with the opposite
+Not a real error.
+
+./_region_.tex:180: Preview: Snippet 116 ended.(282168+98303x592744).
+<-><->
+      
+l.180 is on the same line as $x_i$
+                                   but with the opposite
+Not a real error.
+
+[116]
+./_region_.tex:183: Preview: Snippet 117 started.
+<-><->
+      
+l.183 Therefore, for all $
+                          ||u||_2\leq \rho$, we have $-\rho ||x_i||_2 \leq
+Not a real error.
+
+./_region_.tex:183: Preview: Snippet 117 ended.(491520+163840x2609986).
+<-><->
+      
+l.183 Therefore, for all $||u||_2\leq \rho$
+                                           , we have $-\rho ||x_i||_2 \leq
+Not a real error.
+
+[117]
+./_region_.tex:183: Preview: Snippet 118 started.
+<-><->
+      
+l.183 ...re, for all $||u||_2\leq \rho$, we have $
+                                                  -\rho ||x_i||_2 \leq
+Not a real error.
+
+./_region_.tex:184: Preview: Snippet 118 ended.(551306+163840x7545618).
+<-><->
+      
+l.184 u^Tx_i\leq \rho ||x_i||_2$
+                                . Therefore, we can rewrite the
+Not a real error.
+
+[118]
+./_region_.tex:185: Preview: Snippet 119 started.
+<-><->
+      
+l.185 conditions for weight error margin as for $
+                                                 i=1\dots N$ and
+Not a real error.
+
+./_region_.tex:185: Preview: Snippet 119 ended.(447828+0x3008312).
+<-><->
+      
+l.185 ...r weight error margin as for $i=1\dots N$
+                                                   and
+Not a real error.
+
+[119]
+./_region_.tex:186: Preview: Snippet 120 started.
+<-><->
+      
+l.186 $
+       j=1\dots M$:
+Not a real error.
+
+./_region_.tex:186: Preview: Snippet 120 ended.(447828+127431x3199156).
+<-><->
+      
+l.186 $j=1\dots M$
+                  :
+Not a real error.
+
+[120]
+./_region_.tex:187: Preview: Snippet 121 started.
+<-><->
+      
+l.187 $
+       $
+Not a real error.
+
+./_region_.tex:190: Preview: Snippet 121 ended.(973936+0x22609920).
+<-><->
+      
+l.190 $$
+        
+Not a real error.
+
+[121]
+./_region_.tex:192: Preview: Snippet 122 started.
+<-><->
+      
+l.192 $
+       $\rho = \min(\min_{i=1\dots
+Not a real error.
+
+./_region_.tex:193: Preview: Snippet 122 ended.(1697247+0x22609920).
+<-><->
+      
+l.193 ...\dots M}{\frac{b_j-a^Ty_j}{||y_j||_2}})$$
+                                                  
+Not a real error.
+
+[122]
+./_region_.tex:195: Preview: Snippet 123 started.
+<-><->
+      
+l.195 To maximize $
                    \rho$, we can rewrite the optimizing problem of $a$, $b$ ...
 
 Not a real error.
 
-./_region_.tex:157: Preview: Snippet 90 ended.(282168+127431x338831).
+./_region_.tex:195: Preview: Snippet 123 ended.(282168+127431x338831).
 <-><->
       
-l.157 To maximize $\rho$
+l.195 To maximize $\rho$
                         , we can rewrite the optimizing problem of $a$, $b$ ...
 
 Not a real error.
 
-[90]
-./_region_.tex:157: Preview: Snippet 91 started.
+[123]
+./_region_.tex:195: Preview: Snippet 124 started.
 <-><->
       
-l.157 ...e can rewrite the optimizing problem of $
+l.195 ...e can rewrite the optimizing problem of $
                                                   a$, $b$ and $t$ into the m...
 
 Not a real error.
 
-./_region_.tex:157: Preview: Snippet 91 ended.(282168+0x346416).
+./_region_.tex:195: Preview: Snippet 124 ended.(282168+0x346416).
 <-><->
       
-l.157 ...can rewrite the optimizing problem of $a$
+l.195 ...can rewrite the optimizing problem of $a$
                                                   , $b$ and $t$ into the max...
 
 Not a real error.
 
-[91]
-./_region_.tex:157: Preview: Snippet 92 started.
+[124]
+./_region_.tex:195: Preview: Snippet 125 started.
 <-><->
       
-l.157 ... rewrite the optimizing problem of $a$, $
+l.195 ... rewrite the optimizing problem of $a$, $
                                                   b$ and $t$ into the maximi...
 
 Not a real error.
 
-./_region_.tex:157: Preview: Snippet 92 ended.(455111+0x281258).
+./_region_.tex:195: Preview: Snippet 125 ended.(455111+0x281258).
 <-><->
       
-l.157 ...ewrite the optimizing problem of $a$, $b$
+l.195 ...ewrite the optimizing problem of $a$, $b$
                                                    and $t$ into the maximizing
 Not a real error.
 
-[92]
-./_region_.tex:157: Preview: Snippet 93 started.
+[125]
+./_region_.tex:195: Preview: Snippet 126 started.
 <-><->
       
-l.157 ... the optimizing problem of $a$, $b$ and $
+l.195 ... the optimizing problem of $a$, $b$ and $
                                                   t$ into the maximizing
 Not a real error.
 
-./_region_.tex:157: Preview: Snippet 93 ended.(403098+0x236658).
+./_region_.tex:195: Preview: Snippet 126 ended.(403098+0x236658).
 <-><->
       
-l.157 ...he optimizing problem of $a$, $b$ and $t$
+l.195 ...he optimizing problem of $a$, $b$ and $t$
                                                    into the maximizing
 Not a real error.
 
-[93]
-./_region_.tex:159: Preview: Snippet 94 started.
+[126]
+./_region_.tex:197: Preview: Snippet 127 started.
 <-><->
       
-l.159 $
+l.197 $
        $\text{maximize\;\;}t$$
 Not a real error.
 
-./_region_.tex:159: Preview: Snippet 94 ended.(786432+0x22609920).
+./_region_.tex:197: Preview: Snippet 127 ended.(786432+0x22609920).
 <-><->
       
-l.159 $$\text{maximize\;\;}t$$
+l.197 $$\text{maximize\;\;}t$$
                               
 Not a real error.
 
-[94]
-./_region_.tex:160: Preview: Snippet 95 started.
+[127]
+./_region_.tex:198: Preview: Snippet 128 started.
 <-><->
       
-l.160 \begin{align*}
+l.198 \begin{align*}
                     
 Not a real error.
 
-./_region_.tex:167: Preview: Snippet 95 ended.(2831145+0x16794001).
+./_region_.tex:205: Preview: Snippet 128 ended.(2831145+0x16794001).
 <-><->
       
-l.167 \end{align*}
+l.205 \end{align*}
                   
 Not a real error.
 
-[95]
+[128]
 No file _region_.bbl.
  ) 
 Here is how much of TeX's memory you used:
  1292 strings out of 493033
  14925 string characters out of 6134139
- 71153 words of memory out of 5000000
+ 70153 words of memory out of 5000000
  4852 multiletter control sequences out of 15000+600000
  11503 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1611,10 +2106,10 @@ cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local
 /texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on _region_.pdf (95 pages, 131255 bytes).
+Output written on _region_.pdf (128 pages, 139567 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
- 244 compressed objects within 3 object streams
+ 462 PDF objects out of 1000 (max. 8388607)
+ 317 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
