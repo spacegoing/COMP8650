@@ -1,0 +1,1244 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=prv_ass4_ChangLi 2016.9.16)  17 SEP 2016 11:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**&prv_ass4_ChangLi _region_.tex
+(./_region_.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+CUSTOMISED FORMAT. Preloaded files:
+        .
+ article.cls    2014/09/29 v1.4h Standard LaTeX document class
+  size10.clo    2014/09/29 v1.4h Standard LaTeX file (size option)
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+ amsmath.sty    2013/01/14 v2.14 AMS math features
+ amstext.sty    2000/06/29 v2.01
+  amsgen.sty    1999/11/30 v2.0
+  amsbsy.sty    1999/11/29 v1.2d
+  amsopn.sty    1999/12/14 v2.01 operator names
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+        .
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/preview.sty
+Package: preview 2010/02/14 11.89 (AUCTeX/preview-latex)
+
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prtightpage.def
+\PreviewBorder=\dimen112
+)
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count99
+\hfuzz=\dimen113
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.cfg))
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prfootnotes.def)
+\pr@snippet=\count100
+\pr@box=\box28
+\pr@output=\toks20
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+)  !name(ass4_ChangLi.tex) !offset(-3) 
+! Preview: Snippet 1 started.
+<-><->
+      
+l.12 \section
+             {Solutions}
+Not a real error.
+
+Preview: Tightpage -32891 -32891 32891 32891
+! Preview: Snippet 1 ended.(655359+0x22609920).
+<-><->
+      
+l.12 \section{Solutions}
+                        
+Not a real error.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+! Preview: Snippet 2 started.
+<-><->
+      
+l.14 \subsection
+                {Prob 6.2}
+Not a real error.
+
+! Preview: Snippet 2 ended.(546132+0x22609920).
+<-><->
+      
+l.14 \subsection{Prob 6.2}
+                          
+Not a real error.
+
+[2
+
+]
+! Preview: Snippet 3 started.
+<-><->
+      
+l.16 \subsubsection
+                   {l1 norm}
+Not a real error.
+
+! Preview: Snippet 3 ended.(455111+0x22609920).
+<-><->
+      
+l.16 \subsubsection{l1 norm}
+                            
+Not a real error.
+
+[3
+
+]
+! Preview: Snippet 4 started.
+<-><->
+      
+l.19 $
+      $
+Not a real error.
+
+! Preview: Snippet 4 ended.(1986565+0x22609920).
+<-><->
+      
+l.21 $$
+       
+Not a real error.
+
+[4]
+! Preview: Snippet 5 started.
+<-><->
+      
+l.22 $
+      $
+Not a real error.
+
+! Preview: Snippet 5 ended.(913863+0x22609920).
+<-><->
+      
+l.24 $$
+       
+Not a real error.
+
+[5]
+! Preview: Snippet 6 started.
+<-><->
+      
+l.25 This is equivalent to let $
+                                y_i = |x - b_i|$. Therefore the problem
+Not a real error.
+
+! Preview: Snippet 6 ended.(491520+163840x3452387).
+<-><->
+      
+l.25 This is equivalent to let $y_i = |x - b_i|$
+                                                . Therefore the problem
+Not a real error.
+
+[6]
+! Preview: Snippet 7 started.
+<-><->
+      
+l.26 reaches minimum when $
+                           x$ equals the median of the vector $b$.
+Not a real error.
+
+! Preview: Snippet 7 ended.(282168+0x374556).
+<-><->
+      
+l.26 reaches minimum when $x$
+                              equals the median of the vector $b$.
+Not a real error.
+
+[7]
+! Preview: Snippet 8 started.
+<-><->
+      
+l.26 ...when $x$ equals the median of the vector $
+                                                  b$.
+Not a real error.
+
+! Preview: Snippet 8 ended.(455111+0x281258).
+<-><->
+      
+l.26 ...en $x$ equals the median of the vector $b$
+                                                  .
+Not a real error.
+
+[8]
+! Preview: Snippet 9 started.
+<-><->
+      
+l.28 \subsubsection
+                   {l2 norm}
+Not a real error.
+
+! Preview: Snippet 9 ended.(455111+0x22609920).
+<-><->
+      
+l.28 \subsubsection{l2 norm}
+                            
+Not a real error.
+
+[9
+
+]
+! Preview: Snippet 10 started.
+<-><->
+      
+l.29 We want the closest point $
+                                x1$ in the subspace to b, namely
+Not a real error.
+
+! Preview: Snippet 10 ended.(422343+0x702237).
+<-><->
+      
+l.29 We want the closest point $x1$
+                                    in the subspace to b, namely
+Not a real error.
+
+[10]
+! Preview: Snippet 11 started.
+<-><->
+      
+l.30 we want the error $
+                        e = x1 - b$ to be orthogonal to $C(1)$,
+Not a real error.
+
+! Preview: Snippet 11 ended.(455111+54613x2963444).
+<-><->
+      
+l.30 we want the error $e = x1 - b$
+                                    to be orthogonal to $C(1)$,
+Not a real error.
+
+[11]
+! Preview: Snippet 12 started.
+<-><->
+      
+l.30 ...e error $e = x1 - b$ to be orthogonal to $
+                                                  C(1)$,
+Not a real error.
+
+! Preview: Snippet 12 ended.(491520+163840x1352683).
+<-><->
+      
+l.30 ...or $e = x1 - b$ to be orthogonal to $C(1)$
+                                                  ,
+Not a real error.
+
+[12]
+! Preview: Snippet 13 started.
+<-><->
+      
+l.31 which equivalent to being in $
+                                   N(1^T)$. The problem reaches
+Not a real error.
+
+! Preview: Snippet 13 ended.(551306+163840x1848275).
+<-><->
+      
+l.31 which equivalent to being in $N(1^T)$
+                                          . The problem reaches
+Not a real error.
+
+[13]
+! Preview: Snippet 14 started.
+<-><->
+      
+l.33 $
+      $
+Not a real error.
+
+! Preview: Snippet 14 ended.(786432+0x22609920).
+<-><->
+      
+l.35 $$
+       
+Not a real error.
+
+[14]
+! Preview: Snippet 15 started.
+<-><->
+      
+l.36 Suppose $
+              b\in R^n$ then $x=\frac{1^Tb}{n}$.
+Not a real error.
+
+! Preview: Snippet 15 ended.(455111+25623x1941651).
+<-><->
+      
+l.36 Suppose $b\in R^n$
+                        then $x=\frac{1^Tb}{n}$.
+Not a real error.
+
+[15]
+! Preview: Snippet 16 started.
+<-><->
+      
+l.36 Suppose $b\in R^n$ then $
+                              x=\frac{1^Tb}{n}$.
+Not a real error.
+
+! Preview: Snippet 16 ended.(679725+225995x2259738).
+<-><->
+      
+l.36 Suppose $b\in R^n$ then $x=\frac{1^Tb}{n}$
+                                               .
+Not a real error.
+
+[16]
+! Preview: Snippet 17 started.
+<-><->
+      
+l.39 \subsubsection
+                   {l$\infty$ norm}
+Not a real error.
+
+! Preview: Snippet 17 ended.(455111+0x22609920).
+<-><->
+      
+l.39 \subsubsection{l$\infty$ norm}
+                                   
+Not a real error.
+
+[17
+
+]
+! Preview: Snippet 18 started.
+<-><->
+      
+l.42 $
+      $
+Not a real error.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\text@ ...e {\textdef@ \displaystyle \f@size {#1}}
+                                                  {\textdef@ \textstyle \f@s...
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\text@ ...xtstyle \f@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \sf@...
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\text@ ...tstyle \sf@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \ssf...
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\text@ ...style \ssf@size {\firstchoice@false #1}}
+                                                  \check@mathfonts }
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\text@ ...firstchoice@false #1}}\check@mathfonts }
+                                                  
+l.43 \text{minimize \;\;\sum_{i=1}^n 1^Ty}
+                                           y
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.48 This is equivalent to let $y \geq
+                                       \text{max\;}|x - b_i|$.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.55 \subsection{Prob 6.6}
+                          
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.55 \subsection{Prob 6.6}
+                          
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.55 \subsection{Prob 6.6}
+                          
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 \subsection{Prob 6.6}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \vskip 
+l.55 \subsection{Prob 6.6}
+                          
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Preview: Snippet 18 ended.(2641925+0x22609920).
+<-><->
+      
+l.55 \subsection{Prob 6.6}
+                          
+Not a real error.
+
+[18
+
+]
+! Preview: Snippet 19 started.
+<-><->
+      
+l.57 \subsection
+                {Prob 6.6}
+Not a real error.
+
+! Preview: Snippet 19 ended.(546132+0x22609920).
+<-><->
+      
+l.57 \subsection{Prob 6.6}
+                          
+Not a real error.
+
+[19
+
+]
+! Preview: Snippet 20 started.
+<-><->
+      
+l.58 \subsubsection
+                   {a}
+Not a real error.
+
+! Preview: Snippet 20 ended.(422343+0x22609920).
+<-><->
+      
+l.58 \subsubsection{a}
+                      
+Not a real error.
+
+[20
+
+]
+! Preview: Snippet 21 started.
+<-><->
+      
+l.61 \subsubsection
+                   {b}
+Not a real error.
+
+! Preview: Snippet 21 ended.(455111+0x22609920).
+<-><->
+      
+l.61 \subsubsection{b}
+                      
+Not a real error.
+
+[21
+
+]
+! Preview: Snippet 22 started.
+<-><->
+      
+l.64 \subsection
+                {Prob 7.6}
+Not a real error.
+
+! Preview: Snippet 22 ended.(546132+0x22609920).
+<-><->
+      
+l.64 \subsection{Prob 7.6}
+                          
+Not a real error.
+
+[22
+
+]
+! Preview: Snippet 23 started.
+<-><->
+      
+l.66 Because $
+              h(y)=x=ay-b$, so the density of $y$ is
+Not a real error.
+
+! Preview: Snippet 23 ended.(491520+163840x5127797).
+<-><->
+      
+l.66 Because $h(y)=x=ay-b$
+                          , so the density of $y$ is
+Not a real error.
+
+[23]
+! Preview: Snippet 24 started.
+<-><->
+      
+l.66 Because $h(y)=x=ay-b$, so the density of $
+                                               y$ is
+Not a real error.
+
+! Preview: Snippet 24 ended.(282168+127431x344824).
+<-><->
+      
+l.66 Because $h(y)=x=ay-b$, so the density of $y$
+                                                  is
+Not a real error.
+
+[24]
+! Preview: Snippet 25 started.
+<-><->
+      
+l.67 $
+      p(y)=p(h(y))h'(y)$:
+Not a real error.
+
+! Preview: Snippet 25 ended.(492688+163840x5545685).
+<-><->
+      
+l.67 $p(y)=p(h(y))h'(y)$
+                        :
+Not a real error.
+
+[25]
+! Preview: Snippet 26 started.
+<-><->
+      
+l.68 $
+      $p(y)= ap(ay-b)$$
+Not a real error.
+
+! Preview: Snippet 26 ended.(950272+0x22609920).
+<-><->
+      
+l.68 $$p(y)= ap(ay-b)$$
+                       
+Not a real error.
+
+[26]
+! Preview: Snippet 27 started.
+<-><->
+      
+l.70 $
+      $ \text{log}p(y) = \text{log}a + \text{log}p(ay-b)$$
+Not a real error.
+
+! Preview: Snippet 27 ended.(950272+0x22609920).
+<-><->
+      
+l.70 ...g}p(y) = \text{log}a + \text{log}p(ay-b)$$
+                                                  
+Not a real error.
+
+[27]
+! Preview: Snippet 28 started.
+<-><->
+      
+l.71 Given samples $
+                    y_1\dots y_n$ of $y$, the ML estimate of $a$
+Not a real error.
+
+! Preview: Snippet 28 ended.(282168+127431x2276390).
+<-><->
+      
+l.71 Given samples $y_1\dots y_n$
+                                  of $y$, the ML estimate of $a$
+Not a real error.
+
+[28]
+! Preview: Snippet 29 started.
+<-><->
+      
+l.71 Given samples $y_1\dots y_n$ of $
+                                      y$, the ML estimate of $a$
+Not a real error.
+
+! Preview: Snippet 29 ended.(282168+127431x344824).
+<-><->
+      
+l.71 Given samples $y_1\dots y_n$ of $y$
+                                        , the ML estimate of $a$
+Not a real error.
+
+[29]
+! Preview: Snippet 30 started.
+<-><->
+      
+l.71 ...y_1\dots y_n$ of $y$, the ML estimate of $
+                                                  a$
+Not a real error.
+
+! Preview: Snippet 30 ended.(282168+0x346416).
+<-><->
+      
+l.71 ...1\dots y_n$ of $y$, the ML estimate of $a$
+                                                  
+Not a real error.
+
+[30]
+! Preview: Snippet 31 started.
+<-><->
+      
+l.72 and $
+          b$ is equivalent to maximize the sum of log-likelihood:
+Not a real error.
+
+! Preview: Snippet 31 ended.(455111+0x281258).
+<-><->
+      
+l.72 and $b$
+             is equivalent to maximize the sum of log-likelihood:
+Not a real error.
+
+[31]
+! Preview: Snippet 32 started.
+<-><->
+      
+l.73 $
+      $\sum_{i=1}^{n}\text{log}p(y_i)=n\text{log}a+\sum_{i=1}^{n}\text{log}p...
+
+Not a real error.
+
+! Preview: Snippet 32 ended.(1986565+0x22609920).
+<-><->
+      
+l.73 ...{log}a+\sum_{i=1}^{n}\text{log}p(ay_i-b)$$
+                                                  
+Not a real error.
+
+[32]
+! Preview: Snippet 33 started.
+<-><->
+      
+l.74 Since $
+            p$ is log concave, then the function is also a
+Not a real error.
+
+! Preview: Snippet 33 ended.(282168+127431x329728).
+<-><->
+      
+l.74 Since $p$
+               is log concave, then the function is also a
+Not a real error.
+
+[33]
+! Preview: Snippet 34 started.
+<-><->
+      
+l.78 When $
+           p(x)=e^{-2|x|}$, the ML estimation becomes solving
+Not a real error.
+
+! Preview: Snippet 34 ended.(581889+163840x3705057).
+<-><->
+      
+l.78 When $p(x)=e^{-2|x|}$
+                          , the ML estimation becomes solving
+Not a real error.
+
+[34]
+! Preview: Snippet 35 started.
+<-><->
+      
+l.79 $
+      $ \text{minimize\;\;\;\;}-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$$
+Not a real error.
+
+! Preview: Snippet 35 ended.(1986565+0x22609920).
+<-><->
+      
+l.79 ...\;}-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$$
+                                                  
+Not a real error.
+
+[35]
+! Preview: Snippet 36 started.
+<-><->
+      
+l.80 Let $
+          c=b/a$, the problem reaches minimum when $c$ equals the
+Not a real error.
+
+! Preview: Snippet 36 ended.(491520+163840x2112772).
+<-><->
+      
+l.80 Let $c=b/a$
+                , the problem reaches minimum when $c$ equals the
+Not a real error.
+
+[36]
+! Preview: Snippet 37 started.
+<-><->
+      
+l.80 ...c=b/a$, the problem reaches minimum when $
+                                                  c$ equals the
+Not a real error.
+
+! Preview: Snippet 37 ended.(282168+0x283611).
+<-><->
+      
+l.80 ...b/a$, the problem reaches minimum when $c$
+                                                   equals the
+Not a real error.
+
+[37]
+! Preview: Snippet 38 started.
+<-><->
+      
+l.81 median of $
+                y$ (proved by section 1.1.1).
+Not a real error.
+
+! Preview: Snippet 38 ended.(282168+127431x344824).
+<-><->
+      
+l.81 median of $y$
+                   (proved by section 1.1.1).
+Not a real error.
+
+[38]
+! Preview: Snippet 39 started.
+<-><->
+      
+l.82 $
+      $ \text{minimize\;\;\;\;}-n\text{log}a+2a\sum_{i=1}^{n}|y_i-c|$$
+Not a real error.
+
+! Preview: Snippet 39 ended.(1986565+0x22609920).
+<-><->
+      
+l.82 ...\;}-n\text{log}a+2a\sum_{i=1}^{n}|y_i-c|$$
+                                                  
+Not a real error.
+
+[39]
+! Preview: Snippet 40 started.
+<-><->
+      
+l.83 Suppose the median of $
+                            y$ is $y_k$. Then $a^*$ can be found
+Not a real error.
+
+! Preview: Snippet 40 ended.(282168+127431x344824).
+<-><->
+      
+l.83 Suppose the median of $y$
+                               is $y_k$. Then $a^*$ can be found
+Not a real error.
+
+[40]
+! Preview: Snippet 41 started.
+<-><->
+      
+l.83 Suppose the median of $y$ is $
+                                   y_k$. Then $a^*$ can be found
+Not a real error.
+
+! Preview: Snippet 41 ended.(282168+127431x643759).
+<-><->
+      
+l.83 Suppose the median of $y$ is $y_k$
+                                       . Then $a^*$ can be found
+Not a real error.
+
+[41]
+! Preview: Snippet 42 started.
+<-><->
+      
+l.83 Suppose the median of $y$ is $y_k$. Then $
+                                               a^*$ can be found
+Not a real error.
+
+! Preview: Snippet 42 ended.(451272+0x647700).
+<-><->
+      
+l.83 ...ose the median of $y$ is $y_k$. Then $a^*$
+                                                   can be found
+Not a real error.
+
+[42]
+! Preview: Snippet 43 started.
+<-><->
+      
+l.85 $
+      -n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$ $\frac{\partial
+Not a real error.
+
+! Preview: Snippet 43 ended.(527024+196611x7339805).
+<-><->
+      
+l.85 $-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$
+                                             $\frac{\partial
+Not a real error.
+
+[43]
+! Preview: Snippet 44 started.
+<-><->
+      
+l.85 $-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$ $
+                                              \frac{\partial
+Not a real error.
+
+! Preview: Snippet 44 ended.(610938+225995x1973836).
+<-><->
+      
+l.86   f}{\partial a}=0$
+                        . Namely:
+Not a real error.
+
+[44]
+! Preview: Snippet 45 started.
+<-><->
+      
+l.87 $
+      $a^* = \frac{n}{2\sum_{i=1}^{n}|y_i-c|}$$
+Not a real error.
+
+! Preview: Snippet 45 ended.(1437973+0x22609920).
+<-><->
+      
+l.87 $$a^* = \frac{n}{2\sum_{i=1}^{n}|y_i-c|}$$
+                                               
+Not a real error.
+
+[45]
+! Preview: Snippet 46 started.
+<-><->
+      
+l.89 Therefore, $
+                 b^*=y_ka^*$.
+Not a real error.
+
+! Preview: Snippet 46 ended.(455111+127431x2747807).
+<-><->
+      
+l.89 Therefore, $b^*=y_ka^*$
+                            .
+Not a real error.
+
+[46]
+! Preview: Snippet 47 started.
+<-><->
+      
+l.92 \subsection
+                {Prob 8.24}
+Not a real error.
+
+! Preview: Snippet 47 ended.(546132+0x22609920).
+<-><->
+      
+l.92 \subsection{Prob 8.24}
+                           
+Not a real error.
+
+[47
+
+]
+No file _region_.bbl.
+ ) 
+Here is how much of TeX's memory you used:
+ 204 strings out of 491912
+ 2867 string characters out of 6121276
+ 68358 words of memory out of 5000000
+ 4865 multiletter control sequences out of 15000+600000
+ 12681 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,18n,24p,169b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on _region_.pdf (47 pages, 135333 bytes).
+PDF statistics:
+ 209 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

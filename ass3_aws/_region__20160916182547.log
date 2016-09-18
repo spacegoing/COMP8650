@@ -1,98 +1,25 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.29)  16 SEP 2016 23:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=prv_ass3_ChangLi 2016.9.15)  15 SEP 2016 18:42
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**\nonstopmode\nofiles\PassOptionsToPackage{active,tightpage,auctex}{preview}\A
-tBeginDocument{\ifx\ifPreview\undefined\RequirePackage[displaymath,floats,graph
-ics,textmath,sections,footnotes]{preview}[2004/11/05]\fi} \input _region_.tex
-(./_region_.tex  !name(ass3_ChangLi.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-)
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks14
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
-\@mathmargin=\skip43
-
-For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks15
-\ex@=\dimen103
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen104
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count87
-LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count88
-\leftroot@=\count89
-LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count90
-\DOTSCASE@=\count91
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count92
-\c@MaxMatrixCols=\count93
-\dotsspace@=\muskip10
-\c@parentequation=\count94
-\dspbrk@lvl=\count95
-\tag@help=\toks16
-\row@=\count96
-\column@=\count97
-\maxfields@=\count98
-\andhelp@=\toks17
-\eqnshift@=\dimen106
-\alignsep@=\dimen107
-\tagshift@=\dimen108
-\tagwidth@=\dimen109
-\totwidth@=\dimen110
-\lineht@=\dimen111
-\@envbody=\toks18
-\multlinegap=\skip44
-\multlinetaggap=\skip45
-\mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
-)
+**&prv_ass3_ChangLi _region_.tex
+(./_region_.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+CUSTOMISED FORMAT. Preloaded files:
+        .
+ article.cls    2014/09/29 v1.4h Standard LaTeX document class
+  size10.clo    2014/09/29 v1.4h Standard LaTeX file (size option)
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+ amsmath.sty    2013/01/14 v2.14 AMS math features
+ amstext.sty    2000/06/29 v2.01
+  amsgen.sty    1999/11/30 v2.0
+  amsbsy.sty    1999/11/29 v1.2d
+  amsopn.sty    1999/12/14 v2.01 operator names
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+        .
 No file _region_.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
@@ -127,17 +54,7 @@ No auxiliary output files.
 Preview: Fontsize 10pt
 Preview: PDFoutput 1
 )  !name(ass3_ChangLi.tex) !offset(-3) 
-LaTeX Font Info:    Try loading font information for U+msa on input line 10.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 10.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-./_region_.tex:12: Preview: Snippet 1 started.
+! Preview: Snippet 1 started.
 <-><->
       
 l.12 \section
@@ -145,7 +62,7 @@ l.12 \section
 Not a real error.
 
 Preview: Tightpage -32891 -32891 32891 32891
-./_region_.tex:12: Preview: Snippet 1 ended.(655359+0x22609920).
+! Preview: Snippet 1 ended.(655359+0x22609920).
 <-><->
       
 l.12 \section{Solutions}
@@ -155,14 +72,14 @@ Not a real error.
 [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-./_region_.tex:14: Preview: Snippet 2 started.
+! Preview: Snippet 2 started.
 <-><->
       
 l.14 \subsection
                 {Prob 4.3}
 Not a real error.
 
-./_region_.tex:14: Preview: Snippet 2 ended.(546132+0x22609920).
+! Preview: Snippet 2 ended.(546132+0x22609920).
 <-><->
       
 l.14 \subsection{Prob 4.3}
@@ -172,14 +89,14 @@ Not a real error.
 [2
 
 ]
-./_region_.tex:15: Preview: Snippet 3 started.
+! Preview: Snippet 3 started.
 <-><->
       
 l.15 Because $
               \nabla f(x) = \frac{1}{2}(P+P^T)x + q$,
 Not a real error.
 
-./_region_.tex:15: Preview: Snippet 3 ended.(553676+225995x7352878).
+! Preview: Snippet 3 ended.(553676+225995x7352878).
 <-><->
       
 l.15 ...se $\nabla f(x) = \frac{1}{2}(P+P^T)x + q$
@@ -187,14 +104,14 @@ l.15 ...se $\nabla f(x) = \frac{1}{2}(P+P^T)x + q$
 Not a real error.
 
 [3]
-./_region_.tex:17: Preview: Snippet 4 started.
+! Preview: Snippet 4 started.
 <-><->
       
 l.17 \begin{align*}
                    
 Not a real error.
 
-./_region_.tex:62: Preview: Snippet 4 ended.(7608550+0x20800999).
+! Preview: Snippet 4 ended.(7608550+0x20800999).
 <-><->
       
 l.62 \end{align*}
@@ -205,14 +122,14 @@ Not a real error.
 
 LaTeX Warning: Citation `boyd2004convex' on page 2 undefined on input line 63.
 
-./_region_.tex:64: Preview: Snippet 5 started.
+! Preview: Snippet 5 started.
 <-><->
       
 l.64 $
       y$ satisfying $y_i \in [-1,1], \; i=1,2,3$, the optimality
 Not a real error.
 
-./_region_.tex:64: Preview: Snippet 5 ended.(282168+127431x344824).
+! Preview: Snippet 5 ended.(282168+127431x344824).
 <-><->
       
 l.64 $y$
@@ -220,14 +137,14 @@ l.64 $y$
 Not a real error.
 
 [5]
-./_region_.tex:64: Preview: Snippet 6 started.
+! Preview: Snippet 6 started.
 <-><->
       
 l.64 $y$ satisfying $
                      y_i \in [-1,1], \; i=1,2,3$, the optimality
 Not a real error.
 
-./_region_.tex:64: Preview: Snippet 6 ended.(491520+163840x6299410).
+! Preview: Snippet 6 ended.(491520+163840x6299410).
 <-><->
       
 l.64 $y$ satisfying $y_i \in [-1,1], \; i=1,2,3$
@@ -235,14 +152,14 @@ l.64 $y$ satisfying $y_i \in [-1,1], \; i=1,2,3$
 Not a real error.
 
 [6]
-./_region_.tex:66: Preview: Snippet 7 started.
+! Preview: Snippet 7 started.
 <-><->
       
 l.66 \begin{align*}
                    
 Not a real error.
 
-./_region_.tex:77: Preview: Snippet 7 ended.(3407894+0x18013023).
+! Preview: Snippet 7 ended.(3407894+0x18013023).
 <-><->
       
 l.77 \end{align*}
@@ -250,14 +167,14 @@ l.77 \end{align*}
 Not a real error.
 
 [7]
-./_region_.tex:78: Preview: Snippet 8 started.
+! Preview: Snippet 8 started.
 <-><->
       
 l.78 therefore, $
                  x^*$ is optimal for $f(x)$.
 Not a real error.
 
-./_region_.tex:78: Preview: Snippet 8 ended.(451272+0x675840).
+! Preview: Snippet 8 ended.(451272+0x675840).
 <-><->
       
 l.78 therefore, $x^*$
@@ -265,14 +182,14 @@ l.78 therefore, $x^*$
 Not a real error.
 
 [8]
-./_region_.tex:78: Preview: Snippet 9 started.
+! Preview: Snippet 9 started.
 <-><->
       
 l.78 therefore, $x^*$ is optimal for $
                                       f(x)$.
 Not a real error.
 
-./_region_.tex:78: Preview: Snippet 9 ended.(491520+163840x1275680).
+! Preview: Snippet 9 ended.(491520+163840x1275680).
 <-><->
       
 l.78 therefore, $x^*$ is optimal for $f(x)$
@@ -280,14 +197,14 @@ l.78 therefore, $x^*$ is optimal for $f(x)$
 Not a real error.
 
 [9]
-./_region_.tex:81: Preview: Snippet 10 started.
+! Preview: Snippet 10 started.
 <-><->
       
 l.81 \subsection
                 {Prob 4.8}
 Not a real error.
 
-./_region_.tex:81: Preview: Snippet 10 ended.(546132+0x22609920).
+! Preview: Snippet 10 ended.(546132+0x22609920).
 <-><->
       
 l.81 \subsection{Prob 4.8}
@@ -297,14 +214,14 @@ Not a real error.
 [10
 
 ]
-./_region_.tex:83: Preview: Snippet 11 started.
+! Preview: Snippet 11 started.
 <-><->
       
 l.83 \subsubsection
                    {a}
 Not a real error.
 
-./_region_.tex:83: Preview: Snippet 11 ended.(422343+0x22609920).
+! Preview: Snippet 11 ended.(422343+0x22609920).
 <-><->
       
 l.83 \subsubsection{a}
@@ -314,14 +231,14 @@ Not a real error.
 [11
 
 ]
-./_region_.tex:85: Preview: Snippet 12 started.
+! Preview: Snippet 12 started.
 <-><->
       
 l.85 \begin{align*}
                    
 Not a real error.
 
-./_region_.tex:88: Preview: Snippet 12 ended.(1902156+0x15503458).
+! Preview: Snippet 12 ended.(1902156+0x15503458).
 <-><->
       
 l.88 \end{align*}
@@ -329,14 +246,14 @@ l.88 \end{align*}
 Not a real error.
 
 [12]
-./_region_.tex:89: Preview: Snippet 13 started.
+! Preview: Snippet 13 started.
 <-><->
       
 l.89 $
       L$ is bounded below if and only if $c+A^Tv=0$. Therefore, the
 Not a real error.
 
-./_region_.tex:89: Preview: Snippet 13 ended.(447828+0x446010).
+! Preview: Snippet 13 ended.(447828+0x446010).
 <-><->
       
 l.89 $L$
@@ -344,14 +261,14 @@ l.89 $L$
 Not a real error.
 
 [13]
-./_region_.tex:89: Preview: Snippet 14 started.
+! Preview: Snippet 14 started.
 <-><->
       
 l.89 $L$ is bounded below if and only if $
                                           c+A^Tv=0$. Therefore, the
 Not a real error.
 
-./_region_.tex:89: Preview: Snippet 14 ended.(551306+54613x3531644).
+! Preview: Snippet 14 ended.(551306+54613x3531644).
 <-><->
       
 l.89 ...is bounded below if and only if $c+A^Tv=0$
@@ -359,14 +276,14 @@ l.89 ...is bounded below if and only if $c+A^Tv=0$
 Not a real error.
 
 [14]
-./_region_.tex:90: Preview: Snippet 15 started.
+! Preview: Snippet 15 started.
 <-><->
       
 l.90 primal problem's optimal value $
                                      p^*=-b^Tv$ for some $v$
 Not a real error.
 
-./_region_.tex:90: Preview: Snippet 15 ended.(551306+127431x3049837).
+! Preview: Snippet 15 ended.(551306+127431x3049837).
 <-><->
       
 l.90 primal problem's optimal value $p^*=-b^Tv$
@@ -374,14 +291,14 @@ l.90 primal problem's optimal value $p^*=-b^Tv$
 Not a real error.
 
 [15]
-./_region_.tex:90: Preview: Snippet 16 started.
+! Preview: Snippet 16 started.
 <-><->
       
 l.90 ...lem's optimal value $p^*=-b^Tv$ for some $
                                                   v$
 Not a real error.
 
-./_region_.tex:90: Preview: Snippet 16 ended.(282168+0x341181).
+! Preview: Snippet 16 ended.(282168+0x341181).
 <-><->
       
 l.90 ...m's optimal value $p^*=-b^Tv$ for some $v$
@@ -389,14 +306,14 @@ l.90 ...m's optimal value $p^*=-b^Tv$ for some $v$
 Not a real error.
 
 [16]
-./_region_.tex:91: Preview: Snippet 17 started.
+! Preview: Snippet 17 started.
 <-><->
       
 l.91 satisfying $
                  c+A^Tv=0$. The primal problem is unbounded otherwise.
 Not a real error.
 
-./_region_.tex:91: Preview: Snippet 17 ended.(551306+54613x3531644).
+! Preview: Snippet 17 ended.(551306+54613x3531644).
 <-><->
       
 l.91 satisfying $c+A^Tv=0$
@@ -404,14 +321,14 @@ l.91 satisfying $c+A^Tv=0$
 Not a real error.
 
 [17]
-./_region_.tex:93: Preview: Snippet 18 started.
+! Preview: Snippet 18 started.
 <-><->
       
 l.93 \subsubsection
                    {b}
 Not a real error.
 
-./_region_.tex:93: Preview: Snippet 18 ended.(455111+0x22609920).
+! Preview: Snippet 18 ended.(455111+0x22609920).
 <-><->
       
 l.93 \subsubsection{b}
@@ -421,14 +338,14 @@ Not a real error.
 [18
 
 ]
-./_region_.tex:96: Preview: Snippet 19 started.
+! Preview: Snippet 19 started.
 <-><->
       
 l.96 \begin{align*}
                    
 Not a real error.
 
-./_region_.tex:99: Preview: Snippet 19 ended.(1902156+0x15265592).
+! Preview: Snippet 19 ended.(1902156+0x15265592).
 <-><->
       
 l.99 \end{align*}
@@ -436,14 +353,14 @@ l.99 \end{align*}
 Not a real error.
 
 [19]
-./_region_.tex:100: Preview: Snippet 20 started.
+! Preview: Snippet 20 started.
 <-><->
       
 l.100 $
        L$ is bounded below if and only if $c+a^T\lambda=0$ and
 Not a real error.
 
-./_region_.tex:100: Preview: Snippet 20 ended.(447828+0x446010).
+! Preview: Snippet 20 ended.(447828+0x446010).
 <-><->
       
 l.100 $L$
@@ -451,14 +368,14 @@ l.100 $L$
 Not a real error.
 
 [20]
-./_region_.tex:100: Preview: Snippet 21 started.
+! Preview: Snippet 21 started.
 <-><->
       
 l.100 $L$ is bounded below if and only if $
                                            c+a^T\lambda=0$ and
 Not a real error.
 
-./_region_.tex:100: Preview: Snippet 21 ended.(551306+54613x3427653).
+! Preview: Snippet 21 ended.(551306+54613x3427653).
 <-><->
       
 l.100 ...ded below if and only if $c+a^T\lambda=0$
@@ -466,14 +383,14 @@ l.100 ...ded below if and only if $c+a^T\lambda=0$
 Not a real error.
 
 [21]
-./_region_.tex:101: Preview: Snippet 22 started.
+! Preview: Snippet 22 started.
 <-><->
       
 l.101 $
        \lambda\geq0$. Therefore, the primal problem has optimal value
 Not a real error.
 
-./_region_.tex:101: Preview: Snippet 22 ended.(455111+89110x1583782).
+! Preview: Snippet 22 ended.(455111+89110x1583782).
 <-><->
       
 l.101 $\lambda\geq0$
@@ -481,14 +398,14 @@ l.101 $\lambda\geq0$
 Not a real error.
 
 [22]
-./_region_.tex:102: Preview: Snippet 23 started.
+! Preview: Snippet 23 started.
 <-><->
       
 l.102 $
        p^*=-b\lambda$ for some $\lambda$ satisfying $c+a^T\lambda=0$ and
 Not a real error.
 
-./_region_.tex:102: Preview: Snippet 23 ended.(455111+127431x2678097).
+! Preview: Snippet 23 ended.(455111+127431x2678097).
 <-><->
       
 l.102 $p^*=-b\lambda$
@@ -496,14 +413,14 @@ l.102 $p^*=-b\lambda$
 Not a real error.
 
 [23]
-./_region_.tex:102: Preview: Snippet 24 started.
+! Preview: Snippet 24 started.
 <-><->
       
 l.102 $p^*=-b\lambda$ for some $
                                 \lambda$ satisfying $c+a^T\lambda=0$ and
 Not a real error.
 
-./_region_.tex:102: Preview: Snippet 24 ended.(455111+0x382295).
+! Preview: Snippet 24 ended.(455111+0x382295).
 <-><->
       
 l.102 $p^*=-b\lambda$ for some $\lambda$
@@ -511,14 +428,14 @@ l.102 $p^*=-b\lambda$ for some $\lambda$
 Not a real error.
 
 [24]
-./_region_.tex:102: Preview: Snippet 25 started.
+! Preview: Snippet 25 started.
 <-><->
       
 l.102 ...b\lambda$ for some $\lambda$ satisfying $
                                                   c+a^T\lambda=0$ and
 Not a real error.
 
-./_region_.tex:102: Preview: Snippet 25 ended.(551306+54613x3427653).
+! Preview: Snippet 25 ended.(551306+54613x3427653).
 <-><->
       
 l.102 ...ome $\lambda$ satisfying $c+a^T\lambda=0$
@@ -526,14 +443,14 @@ l.102 ...ome $\lambda$ satisfying $c+a^T\lambda=0$
 Not a real error.
 
 [25]
-./_region_.tex:103: Preview: Snippet 26 started.
+! Preview: Snippet 26 started.
 <-><->
       
 l.103 $
        \lambda\geq0$. Otherwise the primal problem is unbounded below.
 Not a real error.
 
-./_region_.tex:103: Preview: Snippet 26 ended.(455111+89110x1583782).
+! Preview: Snippet 26 ended.(455111+89110x1583782).
 <-><->
       
 l.103 $\lambda\geq0$
@@ -541,14 +458,14 @@ l.103 $\lambda\geq0$
 Not a real error.
 
 [26]
-./_region_.tex:105: Preview: Snippet 27 started.
+! Preview: Snippet 27 started.
 <-><->
       
 l.105 \subsubsection
                     {c}
 Not a real error.
 
-./_region_.tex:105: Preview: Snippet 27 ended.(422343+0x22609920).
+! Preview: Snippet 27 ended.(422343+0x22609920).
 <-><->
       
 l.105 \subsubsection{c}
@@ -558,14 +475,14 @@ Not a real error.
 [27
 
 ]
-./_region_.tex:108: Preview: Snippet 28 started.
+! Preview: Snippet 28 started.
 <-><->
       
 l.108 $
        \sum_{i=1}^nc_ix_i$. Therefore, the objective function
 Not a real error.
 
-./_region_.tex:108: Preview: Snippet 28 ended.(527024+196611x2777281).
+! Preview: Snippet 28 ended.(527024+196611x2777281).
 <-><->
       
 l.108 $\sum_{i=1}^nc_ix_i$
@@ -573,14 +490,14 @@ l.108 $\sum_{i=1}^nc_ix_i$
 Not a real error.
 
 [28]
-./_region_.tex:109: Preview: Snippet 29 started.
+! Preview: Snippet 29 started.
 <-><->
       
 l.109 reaches minimal when each of component $
                                               c_ix_i$ is
 Not a real error.
 
-./_region_.tex:109: Preview: Snippet 29 ended.(282168+98303x1094543).
+! Preview: Snippet 29 ended.(282168+98303x1094543).
 <-><->
       
 l.109 ...s minimal when each of component $c_ix_i$
@@ -588,14 +505,14 @@ l.109 ...s minimal when each of component $c_ix_i$
 Not a real error.
 
 [29]
-./_region_.tex:110: Preview: Snippet 30 started.
+! Preview: Snippet 30 started.
 <-><->
       
 l.110 minimized subject to $
                             l_i\leq x_i\leq u_i$.
 Not a real error.
 
-./_region_.tex:110: Preview: Snippet 30 ended.(455111+98303x3347444).
+! Preview: Snippet 30 ended.(455111+98303x3347444).
 <-><->
       
 l.110 minimized subject to $l_i\leq x_i\leq u_i$
@@ -603,14 +520,14 @@ l.110 minimized subject to $l_i\leq x_i\leq u_i$
 Not a real error.
 
 [30]
-./_region_.tex:112: Preview: Snippet 31 started.
+! Preview: Snippet 31 started.
 <-><->
       
 l.112 Therefore, for all indices such that $
                                             c_i>0$ we have
 Not a real error.
 
-./_region_.tex:112: Preview: Snippet 31 ended.(422343+98303x1703286).
+! Preview: Snippet 31 ended.(422343+98303x1703286).
 <-><->
       
 l.112 Therefore, for all indices such that $c_i>0$
@@ -618,14 +535,14 @@ l.112 Therefore, for all indices such that $c_i>0$
 Not a real error.
 
 [31]
-./_region_.tex:113: Preview: Snippet 32 started.
+! Preview: Snippet 32 started.
 <-><->
       
 l.113 $
        x_i=l_i$ and for all indices such that $c_i<0$ we have
 Not a real error.
 
-./_region_.tex:113: Preview: Snippet 32 ended.(455111+98303x1880284).
+! Preview: Snippet 32 ended.(455111+98303x1880284).
 <-><->
       
 l.113 $x_i=l_i$
@@ -633,14 +550,14 @@ l.113 $x_i=l_i$
 Not a real error.
 
 [32]
-./_region_.tex:113: Preview: Snippet 33 started.
+! Preview: Snippet 33 started.
 <-><->
       
 l.113 $x_i=l_i$ and for all indices such that $
                                                c_i<0$ we have
 Not a real error.
 
-./_region_.tex:113: Preview: Snippet 33 ended.(422343+98303x1703286).
+! Preview: Snippet 33 ended.(422343+98303x1703286).
 <-><->
       
 l.113 ..._i$ and for all indices such that $c_i<0$
@@ -648,14 +565,14 @@ l.113 ..._i$ and for all indices such that $c_i<0$
 Not a real error.
 
 [33]
-./_region_.tex:114: Preview: Snippet 34 started.
+! Preview: Snippet 34 started.
 <-><->
       
 l.114 $
        x_i=u_i$. When $c_i=0$, $x_i$ can be any value in the
 Not a real error.
 
-./_region_.tex:114: Preview: Snippet 34 ended.(282168+98303x2059904).
+! Preview: Snippet 34 ended.(282168+98303x2059904).
 <-><->
       
 l.114 $x_i=u_i$
@@ -663,14 +580,14 @@ l.114 $x_i=u_i$
 Not a real error.
 
 [34]
-./_region_.tex:114: Preview: Snippet 35 started.
+! Preview: Snippet 35 started.
 <-><->
       
 l.114 $x_i=u_i$. When $
                        c_i=0$, $x_i$ can be any value in the
 Not a real error.
 
-./_region_.tex:114: Preview: Snippet 35 ended.(422343+98303x1703286).
+! Preview: Snippet 35 ended.(422343+98303x1703286).
 <-><->
       
 l.114 $x_i=u_i$. When $c_i=0$
@@ -678,14 +595,14 @@ l.114 $x_i=u_i$. When $c_i=0$
 Not a real error.
 
 [35]
-./_region_.tex:114: Preview: Snippet 36 started.
+! Preview: Snippet 36 started.
 <-><->
       
 l.114 $x_i=u_i$. When $c_i=0$, $
                                 x_i$ can be any value in the
 Not a real error.
 
-./_region_.tex:114: Preview: Snippet 36 ended.(282168+98303x592744).
+! Preview: Snippet 36 ended.(282168+98303x592744).
 <-><->
       
 l.114 $x_i=u_i$. When $c_i=0$, $x_i$
@@ -693,14 +610,14 @@ l.114 $x_i=u_i$. When $c_i=0$, $x_i$
 Not a real error.
 
 [36]
-./_region_.tex:115: Preview: Snippet 37 started.
+! Preview: Snippet 37 started.
 <-><->
       
 l.115 domain of the problem namely $
                                     l_i\leq x_i\leq u_i$.
 Not a real error.
 
-./_region_.tex:115: Preview: Snippet 37 ended.(455111+98303x3347444).
+! Preview: Snippet 37 ended.(455111+98303x3347444).
 <-><->
       
 l.115 ... the problem namely $l_i\leq x_i\leq u_i$
@@ -708,14 +625,14 @@ l.115 ... the problem namely $l_i\leq x_i\leq u_i$
 Not a real error.
 
 [37]
-./_region_.tex:117: Preview: Snippet 38 started.
+! Preview: Snippet 38 started.
 <-><->
       
 l.117 \subsubsection
                     {d}
 Not a real error.
 
-./_region_.tex:117: Preview: Snippet 38 ended.(455111+0x22609920).
+! Preview: Snippet 38 ended.(455111+0x22609920).
 <-><->
       
 l.117 \subsubsection{d}
@@ -725,14 +642,14 @@ Not a real error.
 [38
 
 ]
-./_region_.tex:120: Preview: Snippet 39 started.
+! Preview: Snippet 39 started.
 <-><->
       
 l.120 \begin{align*}
                     
 Not a real error.
 
-./_region_.tex:123: Preview: Snippet 39 ended.(1902156+0x16528703).
+! Preview: Snippet 39 ended.(1902156+0x16528703).
 <-><->
       
 l.123 \end{align*}
@@ -740,14 +657,14 @@ l.123 \end{align*}
 Not a real error.
 
 [39]
-./_region_.tex:125: Preview: Snippet 40 started.
+! Preview: Snippet 40 started.
 <-><->
       
 l.125 $
        L$ is bounded below if and only if $c^T+v-\lambda^T=0$ and
 Not a real error.
 
-./_region_.tex:125: Preview: Snippet 40 ended.(447828+0x446010).
+! Preview: Snippet 40 ended.(447828+0x446010).
 <-><->
       
 l.125 $L$
@@ -755,14 +672,14 @@ l.125 $L$
 Not a real error.
 
 [40]
-./_region_.tex:125: Preview: Snippet 41 started.
+! Preview: Snippet 41 started.
 <-><->
       
 l.125 $L$ is bounded below if and only if $
                                            c^T+v-\lambda^T=0$ and
 Not a real error.
 
-./_region_.tex:125: Preview: Snippet 41 ended.(551306+54613x4636262).
+! Preview: Snippet 41 ended.(551306+54613x4636262).
 <-><->
       
 l.125 ... below if and only if $c^T+v-\lambda^T=0$
@@ -770,14 +687,14 @@ l.125 ... below if and only if $c^T+v-\lambda^T=0$
 Not a real error.
 
 [41]
-./_region_.tex:126: Preview: Snippet 42 started.
+! Preview: Snippet 42 started.
 <-><->
       
 l.126 $
        \lambda\succeq0$, namely $-v< c_i \;\forall i$. Therefore,
 Not a real error.
 
-./_region_.tex:126: Preview: Snippet 42 ended.(455111+89110x1583782).
+! Preview: Snippet 42 ended.(455111+89110x1583782).
 <-><->
       
 l.126 $\lambda\succeq0$
@@ -785,14 +702,14 @@ l.126 $\lambda\succeq0$
 Not a real error.
 
 [42]
-./_region_.tex:126: Preview: Snippet 43 started.
+! Preview: Snippet 43 started.
 <-><->
       
 l.126 $\lambda\succeq0$, namely $
                                  -v< c_i \;\forall i$. Therefore,
 Not a real error.
 
-./_region_.tex:126: Preview: Snippet 43 ended.(455111+98303x2998422).
+! Preview: Snippet 43 ended.(455111+98303x2998422).
 <-><->
       
 l.126 ...da\succeq0$, namely $-v< c_i \;\forall i$
@@ -800,14 +717,14 @@ l.126 ...da\succeq0$, namely $-v< c_i \;\forall i$
 Not a real error.
 
 [43]
-./_region_.tex:127: Preview: Snippet 44 started.
+! Preview: Snippet 44 started.
 <-><->
       
 l.127 the primal problem has optimal value $
                                             p^*\geq -v$ for some
 Not a real error.
 
-./_region_.tex:127: Preview: Snippet 44 ended.(451272+127431x2355725).
+! Preview: Snippet 44 ended.(451272+127431x2355725).
 <-><->
       
 l.127 ...al problem has optimal value $p^*\geq -v$
@@ -815,14 +732,14 @@ l.127 ...al problem has optimal value $p^*\geq -v$
 Not a real error.
 
 [44]
-./_region_.tex:128: Preview: Snippet 45 started.
+! Preview: Snippet 45 started.
 <-><->
       
 l.128 $
        \lambda$ satisfying $\lambda\succeq0$ and for some $v$
 Not a real error.
 
-./_region_.tex:128: Preview: Snippet 45 ended.(455111+0x382295).
+! Preview: Snippet 45 ended.(455111+0x382295).
 <-><->
       
 l.128 $\lambda$
@@ -830,14 +747,14 @@ l.128 $\lambda$
 Not a real error.
 
 [45]
-./_region_.tex:128: Preview: Snippet 46 started.
+! Preview: Snippet 46 started.
 <-><->
       
 l.128 $\lambda$ satisfying $
                             \lambda\succeq0$ and for some $v$
 Not a real error.
 
-./_region_.tex:128: Preview: Snippet 46 ended.(455111+89110x1583782).
+! Preview: Snippet 46 ended.(455111+89110x1583782).
 <-><->
       
 l.128 $\lambda$ satisfying $\lambda\succeq0$
@@ -845,14 +762,14 @@ l.128 $\lambda$ satisfying $\lambda\succeq0$
 Not a real error.
 
 [46]
-./_region_.tex:128: Preview: Snippet 47 started.
+! Preview: Snippet 47 started.
 <-><->
       
 l.128 ...tisfying $\lambda\succeq0$ and for some $
                                                   v$
 Not a real error.
 
-./_region_.tex:128: Preview: Snippet 47 ended.(282168+0x341181).
+! Preview: Snippet 47 ended.(282168+0x341181).
 <-><->
       
 l.128 ...sfying $\lambda\succeq0$ and for some $v$
@@ -860,14 +777,14 @@ l.128 ...sfying $\lambda\succeq0$ and for some $v$
 Not a real error.
 
 [47]
-./_region_.tex:129: Preview: Snippet 48 started.
+! Preview: Snippet 48 started.
 <-><->
       
 l.129 satisfying $
                   -v <c_i\;\forall i$. Suppose $c$ has minimal
 Not a real error.
 
-./_region_.tex:129: Preview: Snippet 48 ended.(455111+98303x2998422).
+! Preview: Snippet 48 ended.(455111+98303x2998422).
 <-><->
       
 l.129 satisfying $-v <c_i\;\forall i$
@@ -875,14 +792,14 @@ l.129 satisfying $-v <c_i\;\forall i$
 Not a real error.
 
 [48]
-./_region_.tex:129: Preview: Snippet 49 started.
+! Preview: Snippet 49 started.
 <-><->
       
 l.129 satisfying $-v <c_i\;\forall i$. Suppose $
                                                 c$ has minimal
 Not a real error.
 
-./_region_.tex:129: Preview: Snippet 49 ended.(282168+0x283611).
+! Preview: Snippet 49 ended.(282168+0x283611).
 <-><->
       
 l.129 satisfying $-v <c_i\;\forall i$. Suppose $c$
@@ -890,14 +807,14 @@ l.129 satisfying $-v <c_i\;\forall i$. Suppose $c$
 Not a real error.
 
 [49]
-./_region_.tex:130: Preview: Snippet 50 started.
+! Preview: Snippet 50 started.
 <-><->
       
 l.130 values $
               c_{min}$ at indexes $i,j,k\dots$, we can always get
 Not a real error.
 
-./_region_.tex:130: Preview: Snippet 50 ended.(282168+98303x1290816).
+! Preview: Snippet 50 ended.(282168+98303x1290816).
 <-><->
       
 l.130 values $c_{min}$
@@ -905,14 +822,14 @@ l.130 values $c_{min}$
 Not a real error.
 
 [50]
-./_region_.tex:130: Preview: Snippet 51 started.
+! Preview: Snippet 51 started.
 <-><->
       
 l.130 values $c_{min}$ at indexes $
                                    i,j,k\dots$, we can always get
 Not a real error.
 
-./_region_.tex:130: Preview: Snippet 51 ended.(455111+127431x2424150).
+! Preview: Snippet 51 ended.(455111+127431x2424150).
 <-><->
       
 l.130 values $c_{min}$ at indexes $i,j,k\dots$
@@ -920,14 +837,14 @@ l.130 values $c_{min}$ at indexes $i,j,k\dots$
 Not a real error.
 
 [51]
-./_region_.tex:131: Preview: Snippet 52 started.
+! Preview: Snippet 52 started.
 <-><->
       
 l.131 the optimal solution by setting $
                                        x_i, x_j, x_k,\dots$ to
 Not a real error.
 
-./_region_.tex:131: Preview: Snippet 52 ended.(282168+187504x3688058).
+! Preview: Snippet 52 ended.(282168+187504x3688058).
 <-><->
       
 l.131 ...solution by setting $x_i, x_j, x_k,\dots$
@@ -935,14 +852,14 @@ l.131 ...solution by setting $x_i, x_j, x_k,\dots$
 Not a real error.
 
 [52]
-./_region_.tex:132: Preview: Snippet 53 started.
+! Preview: Snippet 53 started.
 <-><->
       
 l.132 $
        \sum_{m=i,j,k\dots}x_m=1$ at those indexes and $0$ at
 Not a real error.
 
-./_region_.tex:132: Preview: Snippet 53 ended.(491524+285812x5243491).
+! Preview: Snippet 53 ended.(491524+285812x5243491).
 <-><->
       
 l.132 $\sum_{m=i,j,k\dots}x_m=1$
@@ -950,14 +867,14 @@ l.132 $\sum_{m=i,j,k\dots}x_m=1$
 Not a real error.
 
 [53]
-./_region_.tex:132: Preview: Snippet 54 started.
+! Preview: Snippet 54 started.
 <-><->
       
 l.132 ...=i,j,k\dots}x_m=1$ at those indexes and $
                                                   0$ at
 Not a real error.
 
-./_region_.tex:132: Preview: Snippet 54 ended.(422343+0x327681).
+! Preview: Snippet 54 ended.(422343+0x327681).
 <-><->
       
 l.132 ...,j,k\dots}x_m=1$ at those indexes and $0$
@@ -965,14 +882,14 @@ l.132 ...,j,k\dots}x_m=1$ at those indexes and $0$
 Not a real error.
 
 [54]
-./_region_.tex:133: Preview: Snippet 55 started.
+! Preview: Snippet 55 started.
 <-><->
       
 l.133 anywhere else. Therefore, we have $
                                          p^*=c_{min}$. Otherwise
 Not a real error.
 
-./_region_.tex:133: Preview: Snippet 55 ended.(451272+127431x2795634).
+! Preview: Snippet 55 ended.(451272+127431x2795634).
 <-><->
       
 l.133 ...re else. Therefore, we have $p^*=c_{min}$
@@ -980,14 +897,14 @@ l.133 ...re else. Therefore, we have $p^*=c_{min}$
 Not a real error.
 
 [55]
-./_region_.tex:138: Preview: Snippet 56 started.
+! Preview: Snippet 56 started.
 <-><->
       
 l.138 $
        p^*=min\{0,c_{min}\}$. This is because we can assign $x$ as
 Not a real error.
 
-./_region_.tex:138: Preview: Snippet 56 ended.(491520+163840x5264511).
+! Preview: Snippet 56 ended.(491520+163840x5264511).
 <-><->
       
 l.138 $p^*=min\{0,c_{min}\}$
@@ -995,14 +912,14 @@ l.138 $p^*=min\{0,c_{min}\}$
 Not a real error.
 
 [56]
-./_region_.tex:138: Preview: Snippet 57 started.
+! Preview: Snippet 57 started.
 <-><->
       
 l.138 ...{min}\}$. This is because we can assign $
                                                   x$ as
 Not a real error.
 
-./_region_.tex:138: Preview: Snippet 57 ended.(282168+0x374556).
+! Preview: Snippet 57 ended.(282168+0x374556).
 <-><->
       
 l.138 ...in}\}$. This is because we can assign $x$
@@ -1010,14 +927,14 @@ l.138 ...in}\}$. This is because we can assign $x$
 Not a real error.
 
 [57]
-./_region_.tex:139: Preview: Snippet 58 started.
+! Preview: Snippet 58 started.
 <-><->
       
 l.139 above if $
                 c_{min}<0$ and $x=0$ otherwise.
 Not a real error.
 
-./_region_.tex:139: Preview: Snippet 58 ended.(422343+98303x2492303).
+! Preview: Snippet 58 ended.(422343+98303x2492303).
 <-><->
       
 l.139 above if $c_{min}<0$
@@ -1025,14 +942,14 @@ l.139 above if $c_{min}<0$
 Not a real error.
 
 [58]
-./_region_.tex:139: Preview: Snippet 59 started.
+! Preview: Snippet 59 started.
 <-><->
       
 l.139 above if $c_{min}<0$ and $
                                 x=0$ otherwise.
 Not a real error.
 
-./_region_.tex:139: Preview: Snippet 59 ended.(422343+0x1576043).
+! Preview: Snippet 59 ended.(422343+0x1576043).
 <-><->
       
 l.139 above if $c_{min}<0$ and $x=0$
@@ -1040,14 +957,14 @@ l.139 above if $c_{min}<0$ and $x=0$
 Not a real error.
 
 [59]
-./_region_.tex:141: Preview: Snippet 60 started.
+! Preview: Snippet 60 started.
 <-><->
       
 l.141 \subsubsection
                     {e}
 Not a real error.
 
-./_region_.tex:141: Preview: Snippet 60 ended.(422343+0x22609920).
+! Preview: Snippet 60 ended.(422343+0x22609920).
 <-><->
       
 l.141 \subsubsection{e}
@@ -1057,14 +974,14 @@ Not a real error.
 [60
 
 ]
-./_region_.tex:142: Preview: Snippet 61 started.
+! Preview: Snippet 61 started.
 <-><->
       
 l.142 Suppose the components of $
                                  c$ are sorted in increasing order
 Not a real error.
 
-./_region_.tex:142: Preview: Snippet 61 ended.(282168+0x283611).
+! Preview: Snippet 61 ended.(282168+0x283611).
 <-><->
       
 l.142 Suppose the components of $c$
@@ -1072,14 +989,14 @@ l.142 Suppose the components of $c$
 Not a real error.
 
 [61]
-./_region_.tex:144: Preview: Snippet 62 started.
+! Preview: Snippet 62 started.
 <-><->
       
 l.144 $
        $
 Not a real error.
 
-./_region_.tex:146: Preview: Snippet 62 ended.(884735+0x22609920).
+! Preview: Snippet 62 ended.(884735+0x22609920).
 <-><->
       
 l.146 $$
@@ -1087,14 +1004,14 @@ l.146 $$
 Not a real error.
 
 [62]
-./_region_.tex:147: Preview: Snippet 63 started.
+! Preview: Snippet 63 started.
 <-><->
       
 l.147 When $
             \alpha$ is an integer, the primal problem has optimal
 Not a real error.
 
-./_region_.tex:147: Preview: Snippet 63 ended.(282168+0x421661).
+! Preview: Snippet 63 ended.(282168+0x421661).
 <-><->
       
 l.147 When $\alpha$
@@ -1102,14 +1019,14 @@ l.147 When $\alpha$
 Not a real error.
 
 [63]
-./_region_.tex:148: Preview: Snippet 64 started.
+! Preview: Snippet 64 started.
 <-><->
       
 l.148 value $
              p^*=\sum_{i=1}^\alpha c_i$, namely the smallest
 Not a real error.
 
-./_region_.tex:148: Preview: Snippet 64 ended.(527024+196611x3689355).
+! Preview: Snippet 64 ended.(527024+196611x3689355).
 <-><->
       
 l.148 value $p^*=\sum_{i=1}^\alpha c_i$
@@ -1117,14 +1034,14 @@ l.148 value $p^*=\sum_{i=1}^\alpha c_i$
 Not a real error.
 
 [64]
-./_region_.tex:149: Preview: Snippet 65 started.
+! Preview: Snippet 65 started.
 <-><->
       
 l.149 $
        \alpha$ elements of $c$ if and only if $x_i=1
 Not a real error.
 
-./_region_.tex:149: Preview: Snippet 65 ended.(282168+0x421661).
+! Preview: Snippet 65 ended.(282168+0x421661).
 <-><->
       
 l.149 $\alpha$
@@ -1132,14 +1049,14 @@ l.149 $\alpha$
 Not a real error.
 
 [65]
-./_region_.tex:149: Preview: Snippet 66 started.
+! Preview: Snippet 66 started.
 <-><->
       
 l.149 $\alpha$ elements of $
                             c$ if and only if $x_i=1
 Not a real error.
 
-./_region_.tex:149: Preview: Snippet 66 ended.(282168+0x283611).
+! Preview: Snippet 66 ended.(282168+0x283611).
 <-><->
       
 l.149 $\alpha$ elements of $c$
@@ -1147,14 +1064,14 @@ l.149 $\alpha$ elements of $c$
 Not a real error.
 
 [66]
-./_region_.tex:149: Preview: Snippet 67 started.
+! Preview: Snippet 67 started.
 <-><->
       
 l.149 $\alpha$ elements of $c$ if and only if $
                                                x_i=1
 Not a real error.
 
-./_region_.tex:150: Preview: Snippet 67 ended.(455111+98303x4464072).
+! Preview: Snippet 67 ended.(455111+98303x4464072).
 <-><->
       
 l.150 \text{\;for\;} i\leq \alpha$
@@ -1162,14 +1079,14 @@ l.150 \text{\;for\;} i\leq \alpha$
 Not a real error.
 
 [67]
-./_region_.tex:150: Preview: Snippet 68 started.
+! Preview: Snippet 68 started.
 <-><->
       
 l.150 \text{\;for\;} i\leq \alpha$ and $
                                         x_i=0 \text{\; for \;}
 Not a real error.
 
-./_region_.tex:151: Preview: Snippet 68 ended.(455111+98303x4900978).
+! Preview: Snippet 68 ended.(455111+98303x4900978).
 <-><->
       
 l.151 i>\alpha$
@@ -1177,14 +1094,14 @@ l.151 i>\alpha$
 Not a real error.
 
 [68]
-./_region_.tex:153: Preview: Snippet 69 started.
+! Preview: Snippet 69 started.
 <-><->
       
 l.153 If $
           \alpha$ is not an integer, let $[\alpha]$ denotes the
 Not a real error.
 
-./_region_.tex:153: Preview: Snippet 69 ended.(282168+0x421661).
+! Preview: Snippet 69 ended.(282168+0x421661).
 <-><->
       
 l.153 If $\alpha$
@@ -1192,14 +1109,14 @@ l.153 If $\alpha$
 Not a real error.
 
 [69]
-./_region_.tex:153: Preview: Snippet 70 started.
+! Preview: Snippet 70 started.
 <-><->
       
 l.153 If $\alpha$ is not an integer, let $
                                           [\alpha]$ denotes the
 Not a real error.
 
-./_region_.tex:153: Preview: Snippet 70 ended.(491520+163840x785751).
+! Preview: Snippet 70 ended.(491520+163840x785751).
 <-><->
       
 l.153 ...\alpha$ is not an integer, let $[\alpha]$
@@ -1207,14 +1124,14 @@ l.153 ...\alpha$ is not an integer, let $[\alpha]$
 Not a real error.
 
 [70]
-./_region_.tex:154: Preview: Snippet 71 started.
+! Preview: Snippet 71 started.
 <-><->
       
 l.154 nearest integer less than or equal to $
                                              \alpha$, the optimal value is
 Not a real error.
 
-./_region_.tex:154: Preview: Snippet 71 ended.(282168+0x421661).
+! Preview: Snippet 71 ended.(282168+0x421661).
 <-><->
       
 l.154 ...st integer less than or equal to $\alpha$
@@ -1222,14 +1139,14 @@ l.154 ...st integer less than or equal to $\alpha$
 Not a real error.
 
 [71]
-./_region_.tex:155: Preview: Snippet 72 started.
+! Preview: Snippet 72 started.
 <-><->
       
 l.155 $
        $
 Not a real error.
 
-./_region_.tex:157: Preview: Snippet 72 ended.(2189546+0x22609920).
+! Preview: Snippet 72 ended.(2189546+0x22609920).
 <-><->
       
 l.157 $$
@@ -1237,14 +1154,14 @@ l.157 $$
 Not a real error.
 
 [72]
-./_region_.tex:158: Preview: Snippet 73 started.
+! Preview: Snippet 73 started.
 <-><->
       
 l.158 by setting $
                   x_i=1$ for $i\leq [\alpha]$,
 Not a real error.
 
-./_region_.tex:158: Preview: Snippet 73 ended.(422343+98303x1794231).
+! Preview: Snippet 73 ended.(422343+98303x1794231).
 <-><->
       
 l.158 by setting $x_i=1$
@@ -1252,14 +1169,14 @@ l.158 by setting $x_i=1$
 Not a real error.
 
 [73]
-./_region_.tex:158: Preview: Snippet 74 started.
+! Preview: Snippet 74 started.
 <-><->
       
 l.158 by setting $x_i=1$ for $
                               i\leq [\alpha]$,
 Not a real error.
 
-./_region_.tex:158: Preview: Snippet 74 ended.(491520+163840x1885337).
+! Preview: Snippet 74 ended.(491520+163840x1885337).
 <-><->
       
 l.158 by setting $x_i=1$ for $i\leq [\alpha]$
@@ -1267,14 +1184,14 @@ l.158 by setting $x_i=1$ for $i\leq [\alpha]$
 Not a real error.
 
 [74]
-./_region_.tex:159: Preview: Snippet 75 started.
+! Preview: Snippet 75 started.
 <-><->
       
 l.159 $
        x_{1+[\alpha]}=\alpha-[\alpha]$ and $x_i=0$ for $i>1+[\alpha]$.
 Not a real error.
 
-./_region_.tex:159: Preview: Snippet 75 ended.(491520+233018x4590527).
+! Preview: Snippet 75 ended.(491520+233018x4590527).
 <-><->
       
 l.159 $x_{1+[\alpha]}=\alpha-[\alpha]$
@@ -1282,14 +1199,14 @@ l.159 $x_{1+[\alpha]}=\alpha-[\alpha]$
 Not a real error.
 
 [75]
-./_region_.tex:159: Preview: Snippet 76 started.
+! Preview: Snippet 76 started.
 <-><->
       
 l.159 $x_{1+[\alpha]}=\alpha-[\alpha]$ and $
                                             x_i=0$ for $i>1+[\alpha]$.
 Not a real error.
 
-./_region_.tex:159: Preview: Snippet 76 ended.(422343+98303x1794231).
+! Preview: Snippet 76 ended.(422343+98303x1794231).
 <-><->
       
 l.159 $x_{1+[\alpha]}=\alpha-[\alpha]$ and $x_i=0$
@@ -1297,14 +1214,14 @@ l.159 $x_{1+[\alpha]}=\alpha-[\alpha]$ and $x_i=0$
 Not a real error.
 
 [76]
-./_region_.tex:159: Preview: Snippet 77 started.
+! Preview: Snippet 77 started.
 <-><->
       
 l.159 ...lpha]}=\alpha-[\alpha]$ and $x_i=0$ for $
                                                   i>1+[\alpha]$.
 Not a real error.
 
-./_region_.tex:159: Preview: Snippet 77 ended.(491520+163840x3014008).
+! Preview: Snippet 77 ended.(491520+163840x3014008).
 <-><->
       
 l.159 ...-[\alpha]$ and $x_i=0$ for $i>1+[\alpha]$
@@ -1312,14 +1229,14 @@ l.159 ...-[\alpha]$ and $x_i=0$ for $i>1+[\alpha]$
 Not a real error.
 
 [77]
-./_region_.tex:162: Preview: Snippet 78 started.
+! Preview: Snippet 78 started.
 <-><->
       
 l.162 $
        1^Tx\leq \alpha$, then the optimal value is
 Not a real error.
 
-./_region_.tex:162: Preview: Snippet 78 ended.(551306+89110x2410558).
+! Preview: Snippet 78 ended.(551306+89110x2410558).
 <-><->
       
 l.162 $1^Tx\leq \alpha$
@@ -1327,14 +1244,14 @@ l.162 $1^Tx\leq \alpha$
 Not a real error.
 
 [78]
-./_region_.tex:163: Preview: Snippet 79 started.
+! Preview: Snippet 79 started.
 <-><->
       
 l.163 \begin{align*}
                     
 Not a real error.
 
-./_region_.tex:170: Preview: Snippet 79 ended.(2844117+0x20542296).
+! Preview: Snippet 79 ended.(2844117+0x20542296).
 <-><->
       
 l.170 \end{align*}
@@ -1342,14 +1259,14 @@ l.170 \end{align*}
 Not a real error.
 
 [79]
-./_region_.tex:172: Preview: Snippet 80 started.
+! Preview: Snippet 80 started.
 <-><->
       
 l.172 \begin{align*}
                     
 Not a real error.
 
-./_region_.tex:179: Preview: Snippet 80 ended.(1966099+0x15256263).
+! Preview: Snippet 80 ended.(1966099+0x15256263).
 <-><->
       
 l.179 \end{align*}
@@ -1357,14 +1274,14 @@ l.179 \end{align*}
 Not a real error.
 
 [80]
-./_region_.tex:180: Preview: Snippet 81 started.
+! Preview: Snippet 81 started.
 <-><->
       
 l.180 \begin{align*}
                     
 Not a real error.
 
-./_region_.tex:186: Preview: Snippet 81 ended.(1966099+0x15949210).
+! Preview: Snippet 81 ended.(1966099+0x15949210).
 <-><->
       
 l.186 \end{align*}
@@ -1372,14 +1289,14 @@ l.186 \end{align*}
 Not a real error.
 
 [81]
-./_region_.tex:187: Preview: Snippet 82 started.
+! Preview: Snippet 82 started.
 <-><->
       
 l.187  and $
             x_i=0$ for $i>[\alpha]+1$.
 Not a real error.
 
-./_region_.tex:187: Preview: Snippet 82 ended.(422343+98303x1794231).
+! Preview: Snippet 82 ended.(422343+98303x1794231).
 <-><->
       
 l.187  and $x_i=0$
@@ -1387,14 +1304,14 @@ l.187  and $x_i=0$
 Not a real error.
 
 [82]
-./_region_.tex:187: Preview: Snippet 83 started.
+! Preview: Snippet 83 started.
 <-><->
       
 l.187  and $x_i=0$ for $
                         i>[\alpha]+1$.
 Not a real error.
 
-./_region_.tex:187: Preview: Snippet 83 ended.(491520+163840x3014008).
+! Preview: Snippet 83 ended.(491520+163840x3014008).
 <-><->
       
 l.187  and $x_i=0$ for $i>[\alpha]+1$
@@ -1402,14 +1319,14 @@ l.187  and $x_i=0$ for $i>[\alpha]+1$
 Not a real error.
 
 [83]
-./_region_.tex:189: Preview: Snippet 84 started.
+! Preview: Snippet 84 started.
 <-><->
       
 l.189 \subsubsection
                     {f}
 Not a real error.
 
-./_region_.tex:189: Preview: Snippet 84 ended.(455111+0x22609920).
+! Preview: Snippet 84 ended.(455111+0x22609920).
 <-><->
       
 l.189 \subsubsection{f}
@@ -1419,14 +1336,14 @@ Not a real error.
 [84
 
 ]
-./_region_.tex:190: Preview: Snippet 85 started.
+! Preview: Snippet 85 started.
 <-><->
       
 l.190 Let $
            y_i=d_ix_i$ for $i=1,\dots,n$ and use $y$ to substitute
 Not a real error.
 
-./_region_.tex:190: Preview: Snippet 85 ended.(455111+127431x2565343).
+! Preview: Snippet 85 ended.(455111+127431x2565343).
 <-><->
       
 l.190 Let $y_i=d_ix_i$
@@ -1434,14 +1351,14 @@ l.190 Let $y_i=d_ix_i$
 Not a real error.
 
 [85]
-./_region_.tex:190: Preview: Snippet 86 started.
+! Preview: Snippet 86 started.
 <-><->
       
 l.190 Let $y_i=d_ix_i$ for $
                             i=1,\dots,n$ and use $y$ to substitute
 Not a real error.
 
-./_region_.tex:190: Preview: Snippet 86 ended.(432226+127431x3276982).
+! Preview: Snippet 86 ended.(432226+127431x3276982).
 <-><->
       
 l.190 Let $y_i=d_ix_i$ for $i=1,\dots,n$
@@ -1449,14 +1366,14 @@ l.190 Let $y_i=d_ix_i$ for $i=1,\dots,n$
 Not a real error.
 
 [86]
-./_region_.tex:190: Preview: Snippet 87 started.
+! Preview: Snippet 87 started.
 <-><->
       
 l.190 Let $y_i=d_ix_i$ for $i=1,\dots,n$ and use $
                                                   y$ to substitute
 Not a real error.
 
-./_region_.tex:190: Preview: Snippet 87 ended.(282168+127431x344824).
+! Preview: Snippet 87 ended.(282168+127431x344824).
 <-><->
       
 l.190 ...y_i=d_ix_i$ for $i=1,\dots,n$ and use $y$
@@ -1464,14 +1381,14 @@ l.190 ...y_i=d_ix_i$ for $i=1,\dots,n$ and use $y$
 Not a real error.
 
 [87]
-./_region_.tex:191: Preview: Snippet 88 started.
+! Preview: Snippet 88 started.
 <-><->
       
 l.191 $
        x$ in the original problem. Then we have:
 Not a real error.
 
-./_region_.tex:191: Preview: Snippet 88 ended.(282168+0x374556).
+! Preview: Snippet 88 ended.(282168+0x374556).
 <-><->
       
 l.191 $x$
@@ -1479,14 +1396,14 @@ l.191 $x$
 Not a real error.
 
 [88]
-./_region_.tex:192: Preview: Snippet 89 started.
+! Preview: Snippet 89 started.
 <-><->
       
 l.192 $
        $
 Not a real error.
 
-./_region_.tex:194: Preview: Snippet 89 ended.(1986565+0x22609920).
+! Preview: Snippet 89 ended.(1986565+0x22609920).
 <-><->
       
 l.194 $$
@@ -1494,14 +1411,14 @@ l.194 $$
 Not a real error.
 
 [89]
-./_region_.tex:195: Preview: Snippet 90 started.
+! Preview: Snippet 90 started.
 <-><->
       
 l.195 $
        $
 Not a real error.
 
-./_region_.tex:197: Preview: Snippet 90 ended.(913863+0x22609920).
+! Preview: Snippet 90 ended.(913863+0x22609920).
 <-><->
       
 l.197 $$
@@ -1509,14 +1426,14 @@ l.197 $$
 Not a real error.
 
 [90]
-./_region_.tex:199: Preview: Snippet 91 started.
+! Preview: Snippet 91 started.
 <-><->
       
 l.199 components of $
                      \frac{c_i}{d_i}$ are sorted in increasing
 Not a real error.
 
-./_region_.tex:199: Preview: Snippet 91 ended.(466214+291531x637712).
+! Preview: Snippet 91 ended.(466214+291531x637712).
 <-><->
       
 l.199 components of $\frac{c_i}{d_i}$
@@ -1524,14 +1441,14 @@ l.199 components of $\frac{c_i}{d_i}$
 Not a real error.
 
 [91]
-./_region_.tex:201: Preview: Snippet 92 started.
+! Preview: Snippet 92 started.
 <-><->
       
 l.201 $
        $
 Not a real error.
 
-./_region_.tex:203: Preview: Snippet 92 ended.(1334280+0x22609920).
+! Preview: Snippet 92 ended.(1334280+0x22609920).
 <-><->
       
 l.203 $$
@@ -1539,7 +1456,7 @@ l.203 $$
 Not a real error.
 
 [92]
-./_region_.tex:204: Preview: Snippet 93 started.
+! Preview: Snippet 93 started.
 <-><->
       
 l.204 Let $
@@ -1547,7 +1464,7 @@ l.204 Let $
 
 Not a real error.
 
-./_region_.tex:204: Preview: Snippet 93 ended.(455111+160198x8951792).
+! Preview: Snippet 93 ended.(455111+160198x8951792).
 <-><->
       
 l.204 ...=\text{argmax}_kd_1+\dots+d_k\leq \alpha$
@@ -1555,7 +1472,7 @@ l.204 ...=\text{argmax}_kd_1+\dots+d_k\leq \alpha$
 Not a real error.
 
 [93]
-./_region_.tex:206: Preview: Snippet 94 started.
+! Preview: Snippet 94 started.
 <-><->
       
 l.206 $
@@ -1563,7 +1480,7 @@ l.206 $
 
 Not a real error.
 
-./_region_.tex:206: Preview: Snippet 94 ended.(679741+371541x12222027).
+! Preview: Snippet 94 ended.(679741+371541x12222027).
 <-><->
       
 l.206 ...}{d_{k^*+1}}(\alpha-(d_1+\dots+d_{k^*}))$
@@ -1571,7 +1488,7 @@ l.206 ...}{d_{k^*+1}}(\alpha-(d_1+\dots+d_{k^*}))$
 Not a real error.
 
 [94]
-./_region_.tex:207: Preview: Snippet 95 started.
+! Preview: Snippet 95 started.
 <-><->
       
 l.207 by setting $
@@ -1579,7 +1496,7 @@ l.207 by setting $
 
 Not a real error.
 
-./_region_.tex:207: Preview: Snippet 95 ended.(455111+127431x1972599).
+! Preview: Snippet 95 ended.(455111+127431x1972599).
 <-><->
       
 l.207 by setting $y_i=d_i$
@@ -1588,7 +1505,7 @@ l.207 by setting $y_i=d_i$
 Not a real error.
 
 [95]
-./_region_.tex:207: Preview: Snippet 96 started.
+! Preview: Snippet 96 started.
 <-><->
       
 l.207 by setting $y_i=d_i$ for $
@@ -1596,7 +1513,7 @@ l.207 by setting $y_i=d_i$ for $
 
 Not a real error.
 
-./_region_.tex:207: Preview: Snippet 96 ended.(455111+89110x1762684).
+! Preview: Snippet 96 ended.(455111+89110x1762684).
 <-><->
       
 l.207 by setting $y_i=d_i$ for $i\leq k^*$
@@ -1605,7 +1522,7 @@ l.207 by setting $y_i=d_i$ for $i\leq k^*$
 Not a real error.
 
 [96]
-./_region_.tex:207: Preview: Snippet 97 started.
+! Preview: Snippet 97 started.
 <-><->
       
 l.207 by setting $y_i=d_i$ for $i\leq k^*$, $
@@ -1613,7 +1530,7 @@ l.207 by setting $y_i=d_i$ for $i\leq k^*$, $
 
 Not a real error.
 
-./_region_.tex:207: Preview: Snippet 97 ended.(491520+163840x8126681).
+! Preview: Snippet 97 ended.(491520+163840x8126681).
 <-><->
       
 l.207 ...$, $y_{k^*+1}=\alpha-(d_1+\dots+d_{k^*})$
@@ -1621,14 +1538,14 @@ l.207 ...$, $y_{k^*+1}=\alpha-(d_1+\dots+d_{k^*})$
 Not a real error.
 
 [97]
-./_region_.tex:208: Preview: Snippet 98 started.
+! Preview: Snippet 98 started.
 <-><->
       
 l.208 $
        y_i=0$ for $i>k^*+1$.
 Not a real error.
 
-./_region_.tex:208: Preview: Snippet 98 ended.(422343+127431x1740986).
+! Preview: Snippet 98 ended.(422343+127431x1740986).
 <-><->
       
 l.208 $y_i=0$
@@ -1636,14 +1553,14 @@ l.208 $y_i=0$
 Not a real error.
 
 [98]
-./_region_.tex:208: Preview: Snippet 99 started.
+! Preview: Snippet 99 started.
 <-><->
       
 l.208 $y_i=0$ for $
                    i>k^*+1$.
 Not a real error.
 
-./_region_.tex:208: Preview: Snippet 99 ended.(455111+54613x2891355).
+! Preview: Snippet 99 ended.(455111+54613x2891355).
 <-><->
       
 l.208 $y_i=0$ for $i>k^*+1$
@@ -1651,7 +1568,7 @@ l.208 $y_i=0$ for $i>k^*+1$
 Not a real error.
 
 [99]
-./_region_.tex:210: Preview: Snippet 100 started.
+! Preview: Snippet 100 started.
 <-><->
       
 l.210 Namely by setting $
@@ -1659,7 +1576,7 @@ l.210 Namely by setting $
 
 Not a real error.
 
-./_region_.tex:210: Preview: Snippet 100 ended.(422343+98303x1794231).
+! Preview: Snippet 100 ended.(422343+98303x1794231).
 <-><->
       
 l.210 Namely by setting $x_i=1$
@@ -1668,7 +1585,7 @@ l.210 Namely by setting $x_i=1$
 Not a real error.
 
 [100]
-./_region_.tex:210: Preview: Snippet 101 started.
+! Preview: Snippet 101 started.
 <-><->
       
 l.210 Namely by setting $x_i=1$ for $
@@ -1676,7 +1593,7 @@ l.210 Namely by setting $x_i=1$ for $
 
 Not a real error.
 
-./_region_.tex:210: Preview: Snippet 101 ended.(455111+89110x1762684).
+! Preview: Snippet 101 ended.(455111+89110x1762684).
 <-><->
       
 l.210 Namely by setting $x_i=1$ for $i\leq k^*$
@@ -1685,7 +1602,7 @@ l.210 Namely by setting $x_i=1$ for $i\leq k^*$
 Not a real error.
 
 [101]
-./_region_.tex:210: Preview: Snippet 102 started.
+! Preview: Snippet 102 started.
 <-><->
       
 l.210 Namely by setting $x_i=1$ for $i\leq k^*$, $
@@ -1693,7 +1610,7 @@ l.210 Namely by setting $x_i=1$ for $i\leq k^*$, $
 
 Not a real error.
 
-./_region_.tex:210: Preview: Snippet 102 ended.(661912+350151x6459009).
+! Preview: Snippet 102 ended.(661912+350151x6459009).
 <-><->
       
 l.210 ...rac{\alpha-(d_1+\dots+d_{k^*})}{d_{k+1}}$
@@ -1701,14 +1618,14 @@ l.210 ...rac{\alpha-(d_1+\dots+d_{k^*})}{d_{k+1}}$
 Not a real error.
 
 [102]
-./_region_.tex:211: Preview: Snippet 103 started.
+! Preview: Snippet 103 started.
 <-><->
       
 l.211 $
        x_i=0$ for $i>k^*+1$.
 Not a real error.
 
-./_region_.tex:211: Preview: Snippet 103 ended.(422343+98303x1794231).
+! Preview: Snippet 103 ended.(422343+98303x1794231).
 <-><->
       
 l.211 $x_i=0$
@@ -1716,14 +1633,14 @@ l.211 $x_i=0$
 Not a real error.
 
 [103]
-./_region_.tex:211: Preview: Snippet 104 started.
+! Preview: Snippet 104 started.
 <-><->
       
 l.211 $x_i=0$ for $
                    i>k^*+1$.
 Not a real error.
 
-./_region_.tex:211: Preview: Snippet 104 ended.(455111+54613x2891355).
+! Preview: Snippet 104 ended.(455111+54613x2891355).
 <-><->
       
 l.211 $x_i=0$ for $i>k^*+1$
@@ -1731,14 +1648,14 @@ l.211 $x_i=0$ for $i>k^*+1$
 Not a real error.
 
 [104]
-./_region_.tex:214: Preview: Snippet 105 started.
+! Preview: Snippet 105 started.
 <-><->
       
 l.214 \subsection
                  {Prob 4.9}
 Not a real error.
 
-./_region_.tex:214: Preview: Snippet 105 ended.(546132+0x22609920).
+! Preview: Snippet 105 ended.(546132+0x22609920).
 <-><->
       
 l.214 \subsection{Prob 4.9}
@@ -1748,14 +1665,14 @@ Not a real error.
 [105
 
 ]
-./_region_.tex:215: Preview: Snippet 106 started.
+! Preview: Snippet 106 started.
 <-><->
       
 l.215 Because $
                A$ is nonsingular and square, we have $A^{-1}$. Substituting
 Not a real error.
 
-./_region_.tex:215: Preview: Snippet 106 ended.(447828+0x491521).
+! Preview: Snippet 106 ended.(447828+0x491521).
 <-><->
       
 l.215 Because $A$
@@ -1763,14 +1680,14 @@ l.215 Because $A$
 Not a real error.
 
 [106]
-./_region_.tex:215: Preview: Snippet 107 started.
+! Preview: Snippet 107 started.
 <-><->
       
 l.215 ... $A$ is nonsingular and square, we have $
                                                   A^{-1}$. Substituting
 Not a real error.
 
-./_region_.tex:215: Preview: Snippet 107 ended.(533465+0x1195125).
+! Preview: Snippet 107 ended.(533465+0x1195125).
 <-><->
       
 l.215 ... nonsingular and square, we have $A^{-1}$
@@ -1778,14 +1695,14 @@ l.215 ... nonsingular and square, we have $A^{-1}$
 Not a real error.
 
 [107]
-./_region_.tex:216: Preview: Snippet 108 started.
+! Preview: Snippet 108 started.
 <-><->
       
 l.216 $
        y=Ax$ into the primal problem we have:
 Not a real error.
 
-./_region_.tex:216: Preview: Snippet 108 ended.(447828+127431x2084707).
+! Preview: Snippet 108 ended.(447828+127431x2084707).
 <-><->
       
 l.216 $y=Ax$
@@ -1793,14 +1710,14 @@ l.216 $y=Ax$
 Not a real error.
 
 [108]
-./_region_.tex:217: Preview: Snippet 109 started.
+! Preview: Snippet 109 started.
 <-><->
       
 l.217 $
        $
 Not a real error.
 
-./_region_.tex:219: Preview: Snippet 109 ended.(913863+0x22609920).
+! Preview: Snippet 109 ended.(913863+0x22609920).
 <-><->
       
 l.219 $$
@@ -1808,14 +1725,14 @@ l.219 $$
 Not a real error.
 
 [109]
-./_region_.tex:220: Preview: Snippet 110 started.
+! Preview: Snippet 110 started.
 <-><->
       
 l.220 $
        $
 Not a real error.
 
-./_region_.tex:222: Preview: Snippet 110 ended.(913863+0x22609920).
+! Preview: Snippet 110 ended.(913863+0x22609920).
 <-><->
       
 l.222 $$
@@ -1823,14 +1740,14 @@ l.222 $$
 Not a real error.
 
 [110]
-./_region_.tex:223: Preview: Snippet 111 started.
+! Preview: Snippet 111 started.
 <-><->
       
 l.223 The primal problem is unbounded below if $
                                                 c^TA^{-1}\succ0$.
 Not a real error.
 
-./_region_.tex:223: Preview: Snippet 111 ended.(551306+25623x3093077).
+! Preview: Snippet 111 ended.(551306+25623x3093077).
 <-><->
       
 l.223 ...m is unbounded below if $c^TA^{-1}\succ0$
@@ -1838,14 +1755,14 @@ l.223 ...m is unbounded below if $c^TA^{-1}\succ0$
 Not a real error.
 
 [111]
-./_region_.tex:224: Preview: Snippet 112 started.
+! Preview: Snippet 112 started.
 <-><->
       
 l.224 When $
             c^TA^{-1}\preceq 0$ we have optimal value
 Not a real error.
 
-./_region_.tex:224: Preview: Snippet 112 ended.(551306+89110x3093077).
+! Preview: Snippet 112 ended.(551306+89110x3093077).
 <-><->
       
 l.224 When $c^TA^{-1}\preceq 0$
@@ -1853,14 +1770,14 @@ l.224 When $c^TA^{-1}\preceq 0$
 Not a real error.
 
 [112]
-./_region_.tex:225: Preview: Snippet 113 started.
+! Preview: Snippet 113 started.
 <-><->
       
 l.225 $
        p^*=c^TA^{-1}b$ when $y=b$ namely $x=A^{-1}b$.
 Not a real error.
 
-./_region_.tex:225: Preview: Snippet 113 ended.(551306+127431x3677666).
+! Preview: Snippet 113 ended.(551306+127431x3677666).
 <-><->
       
 l.225 $p^*=c^TA^{-1}b$
@@ -1868,14 +1785,14 @@ l.225 $p^*=c^TA^{-1}b$
 Not a real error.
 
 [113]
-./_region_.tex:225: Preview: Snippet 114 started.
+! Preview: Snippet 114 started.
 <-><->
       
 l.225 $p^*=c^TA^{-1}b$ when $
                              y=b$ namely $x=A^{-1}b$.
 Not a real error.
 
-./_region_.tex:225: Preview: Snippet 114 ended.(455111+127431x1499888).
+! Preview: Snippet 114 ended.(455111+127431x1499888).
 <-><->
       
 l.225 $p^*=c^TA^{-1}b$ when $y=b$
@@ -1883,14 +1800,14 @@ l.225 $p^*=c^TA^{-1}b$ when $y=b$
 Not a real error.
 
 [114]
-./_region_.tex:225: Preview: Snippet 115 started.
+! Preview: Snippet 115 started.
 <-><->
       
 l.225 $p^*=c^TA^{-1}b$ when $y=b$ namely $
                                           x=A^{-1}b$.
 Not a real error.
 
-./_region_.tex:225: Preview: Snippet 115 ended.(533465+0x2724745).
+! Preview: Snippet 115 ended.(533465+0x2724745).
 <-><->
       
 l.225 ...c^TA^{-1}b$ when $y=b$ namely $x=A^{-1}b$
@@ -1898,14 +1815,14 @@ l.225 ...c^TA^{-1}b$ when $y=b$ namely $x=A^{-1}b$
 Not a real error.
 
 [115]
-./_region_.tex:227: Preview: Snippet 116 started.
+! Preview: Snippet 116 started.
 <-><->
       
 l.227 \subsection
                  {Prob 4.47}
 Not a real error.
 
-./_region_.tex:227: Preview: Snippet 116 ended.(546132+0x22609920).
+! Preview: Snippet 116 ended.(546132+0x22609920).
 <-><->
       
 l.227 \subsection{Prob 4.47}
@@ -1915,14 +1832,14 @@ Not a real error.
 [116
 
 ]
-./_region_.tex:229: Preview: Snippet 117 started.
+! Preview: Snippet 117 started.
 <-><->
       
 l.229 \subsubsection
                     {a}
 Not a real error.
 
-./_region_.tex:229: Preview: Snippet 117 ended.(422343+0x22609920).
+! Preview: Snippet 117 ended.(422343+0x22609920).
 <-><->
       
 l.229 \subsubsection{a}
@@ -1932,14 +1849,14 @@ Not a real error.
 [117
 
 ]
-./_region_.tex:234: Preview: Snippet 118 started.
+! Preview: Snippet 118 started.
 <-><->
       
 l.234 example, if one diagonal entry $
                                       a_{ii}$ in $A$ is
 Not a real error.
 
-./_region_.tex:234: Preview: Snippet 118 ended.(282168+98303x750024).
+! Preview: Snippet 118 ended.(282168+98303x750024).
 <-><->
       
 l.234 example, if one diagonal entry $a_{ii}$
@@ -1947,14 +1864,14 @@ l.234 example, if one diagonal entry $a_{ii}$
 Not a real error.
 
 [118]
-./_region_.tex:234: Preview: Snippet 119 started.
+! Preview: Snippet 119 started.
 <-><->
       
 l.234 example, if one diagonal entry $a_{ii}$ in $
                                                   A$ is
 Not a real error.
 
-./_region_.tex:234: Preview: Snippet 119 ended.(447828+0x491521).
+! Preview: Snippet 119 ended.(447828+0x491521).
 <-><->
       
 l.234 ...le, if one diagonal entry $a_{ii}$ in $A$
@@ -1962,14 +1879,14 @@ l.234 ...le, if one diagonal entry $a_{ii}$ in $A$
 Not a real error.
 
 [119]
-./_region_.tex:236: Preview: Snippet 120 started.
+! Preview: Snippet 120 started.
 <-><->
       
 l.236 the condition $
                      A\succeq0$ we only need to consider the
 Not a real error.
 
-./_region_.tex:236: Preview: Snippet 120 ended.(447828+89110x1693008).
+! Preview: Snippet 120 ended.(447828+89110x1693008).
 <-><->
       
 l.236 the condition $A\succeq0$
@@ -1977,14 +1894,14 @@ l.236 the condition $A\succeq0$
 Not a real error.
 
 [120]
-./_region_.tex:237: Preview: Snippet 121 started.
+! Preview: Snippet 121 started.
 <-><->
       
 l.237 submatrix of $
                     A$ with ith row and ith column removed
 Not a real error.
 
-./_region_.tex:237: Preview: Snippet 121 ended.(447828+0x491521).
+! Preview: Snippet 121 ended.(447828+0x491521).
 <-><->
       
 l.237 submatrix of $A$
@@ -1992,14 +1909,14 @@ l.237 submatrix of $A$
 Not a real error.
 
 [121]
-./_region_.tex:238: Preview: Snippet 122 started.
+! Preview: Snippet 122 started.
 <-><->
       
 l.238 $
        \hat{A}\succeq0$. By doing this we can only consider the
 Not a real error.
 
-./_region_.tex:238: Preview: Snippet 122 ended.(620771+89110x1693008).
+! Preview: Snippet 122 ended.(620771+89110x1693008).
 <-><->
       
 l.238 $\hat{A}\succeq0$
@@ -2007,14 +1924,14 @@ l.238 $\hat{A}\succeq0$
 Not a real error.
 
 [122]
-./_region_.tex:243: Preview: Snippet 123 started.
+! Preview: Snippet 123 started.
 <-><->
       
 l.243 \subsubsection
                     {b}
 Not a real error.
 
-./_region_.tex:243: Preview: Snippet 123 ended.(455111+0x22609920).
+! Preview: Snippet 123 ended.(455111+0x22609920).
 <-><->
       
 l.243 \subsubsection{b}
@@ -2024,14 +1941,14 @@ Not a real error.
 [123
 
 ]
-./_region_.tex:244: Preview: Snippet 124 started.
+! Preview: Snippet 124 started.
 <-><->
       
 l.244 Suppose $
                A_j, b_j$ where $j=1,...m$ are all of those
 Not a real error.
 
-./_region_.tex:244: Preview: Snippet 124 ended.(455111+187504x1616328).
+! Preview: Snippet 124 ended.(455111+187504x1616328).
 <-><->
       
 l.244 Suppose $A_j, b_j$
@@ -2039,14 +1956,14 @@ l.244 Suppose $A_j, b_j$
 Not a real error.
 
 [124]
-./_region_.tex:244: Preview: Snippet 125 started.
+! Preview: Snippet 125 started.
 <-><->
       
 l.244 Suppose $A_j, b_j$ where $
                                 j=1,...m$ are all of those
 Not a real error.
 
-./_region_.tex:244: Preview: Snippet 125 ended.(432226+127431x2921702).
+! Preview: Snippet 125 ended.(432226+127431x2921702).
 <-><->
       
 l.244 Suppose $A_j, b_j$ where $j=1,...m$
@@ -2054,14 +1971,14 @@ l.244 Suppose $A_j, b_j$ where $j=1,...m$
 Not a real error.
 
 [125]
-./_region_.tex:246: Preview: Snippet 126 started.
+! Preview: Snippet 126 started.
 <-><->
       
 l.246 $
        $
 Not a real error.
 
-./_region_.tex:248: Preview: Snippet 126 ended.(786432+0x22609920).
+! Preview: Snippet 126 ended.(786432+0x22609920).
 <-><->
       
 l.248 $$
@@ -2069,14 +1986,14 @@ l.248 $$
 Not a real error.
 
 [126]
-./_region_.tex:249: Preview: Snippet 127 started.
+! Preview: Snippet 127 started.
 <-><->
       
 l.249 $
        $
 Not a real error.
 
-./_region_.tex:251: Preview: Snippet 127 ended.(875542+0x22609920).
+! Preview: Snippet 127 ended.(875542+0x22609920).
 <-><->
       
 l.251 $$
@@ -2084,14 +2001,14 @@ l.251 $$
 Not a real error.
 
 [127]
-./_region_.tex:252: Preview: Snippet 128 started.
+! Preview: Snippet 128 started.
 <-><->
       
 l.252 $
        $
 Not a real error.
 
-./_region_.tex:254: Preview: Snippet 128 ended.(973936+0x22609920).
+! Preview: Snippet 128 ended.(973936+0x22609920).
 <-><->
       
 l.254 $$
@@ -2099,14 +2016,14 @@ l.254 $$
 Not a real error.
 
 [128]
-./_region_.tex:255: Preview: Snippet 129 started.
+! Preview: Snippet 129 started.
 <-><->
       
 l.255 The problem is feasible when $
                                     s\leq0$.
 Not a real error.
 
-./_region_.tex:255: Preview: Snippet 129 ended.(422343+89110x1508687).
+! Preview: Snippet 129 ended.(422343+89110x1508687).
 <-><->
       
 l.255 The problem is feasible when $s\leq0$
@@ -2114,14 +2031,14 @@ l.255 The problem is feasible when $s\leq0$
 Not a real error.
 
 [129]
-./_region_.tex:257: Preview: Snippet 130 started.
+! Preview: Snippet 130 started.
 <-><->
       
 l.257 \subsubsection
                     {c}
 Not a real error.
 
-./_region_.tex:257: Preview: Snippet 130 ended.(422343+0x22609920).
+! Preview: Snippet 130 ended.(422343+0x22609920).
 <-><->
       
 l.257 \subsubsection{c}
@@ -2131,14 +2048,14 @@ Not a real error.
 [130
 
 ]
-./_region_.tex:259: Preview: Snippet 131 started.
+! Preview: Snippet 131 started.
 <-><->
       
 l.259 $
        $
 Not a real error.
 
-./_region_.tex:261: Preview: Snippet 131 ended.(950272+0x22609920).
+! Preview: Snippet 131 ended.(950272+0x22609920).
 <-><->
       
 l.261 $$
@@ -2146,14 +2063,14 @@ l.261 $$
 Not a real error.
 
 [131]
-./_region_.tex:262: Preview: Snippet 132 started.
+! Preview: Snippet 132 started.
 <-><->
       
 l.262 $
        $
 Not a real error.
 
-./_region_.tex:264: Preview: Snippet 132 ended.(875542+0x22609920).
+! Preview: Snippet 132 ended.(875542+0x22609920).
 <-><->
       
 l.264 $$
@@ -2161,14 +2078,14 @@ l.264 $$
 Not a real error.
 
 [132]
-./_region_.tex:265: Preview: Snippet 133 started.
+! Preview: Snippet 133 started.
 <-><->
       
 l.265 $
        $
 Not a real error.
 
-./_region_.tex:267: Preview: Snippet 133 ended.(973936+0x22609920).
+! Preview: Snippet 133 ended.(973936+0x22609920).
 <-><->
       
 l.267 $$
@@ -2176,14 +2093,14 @@ l.267 $$
 Not a real error.
 
 [133]
-./_region_.tex:268: Preview: Snippet 134 started.
+! Preview: Snippet 134 started.
 <-><->
       
 l.268 Because $
                A\succeq0$, $-\text{log}det(A)$ is a strictly
 Not a real error.
 
-./_region_.tex:268: Preview: Snippet 134 ended.(447828+89110x1693008).
+! Preview: Snippet 134 ended.(447828+89110x1693008).
 <-><->
       
 l.268 Because $A\succeq0$
@@ -2191,14 +2108,14 @@ l.268 Because $A\succeq0$
 Not a real error.
 
 [134]
-./_region_.tex:268: Preview: Snippet 135 started.
+! Preview: Snippet 135 started.
 <-><->
       
 l.268 Because $A\succeq0$, $
                             -\text{log}det(A)$ is a strictly
 Not a real error.
 
-./_region_.tex:268: Preview: Snippet 135 ended.(491520+163840x3231297).
+! Preview: Snippet 135 ended.(491520+163840x3231297).
 <-><->
       
 l.268 Because $A\succeq0$, $-\text{log}det(A)$
@@ -2206,14 +2123,14 @@ l.268 Because $A\succeq0$, $-\text{log}det(A)$
 Not a real error.
 
 [135]
-./_region_.tex:269: Preview: Snippet 136 started.
+! Preview: Snippet 136 started.
 <-><->
       
 l.269 ... function over positive definite matrix $
                                                   A$. The
 Not a real error.
 
-./_region_.tex:269: Preview: Snippet 136 ended.(447828+0x491521).
+! Preview: Snippet 136 ended.(447828+0x491521).
 <-><->
       
 l.269 ...unction over positive definite matrix $A$
@@ -2221,14 +2138,14 @@ l.269 ...unction over positive definite matrix $A$
 Not a real error.
 
 [136]
-./_region_.tex:271: Preview: Snippet 137 started.
+! Preview: Snippet 137 started.
 <-><->
       
 l.271 $
        $
 Not a real error.
 
-./_region_.tex:273: Preview: Snippet 137 ended.(950272+0x22609920).
+! Preview: Snippet 137 ended.(950272+0x22609920).
 <-><->
       
 l.273 $$
@@ -2236,14 +2153,14 @@ l.273 $$
 Not a real error.
 
 [137]
-./_region_.tex:274: Preview: Snippet 138 started.
+! Preview: Snippet 138 started.
 <-><->
       
 l.274 $
        $
 Not a real error.
 
-./_region_.tex:276: Preview: Snippet 138 ended.(875542+0x22609920).
+! Preview: Snippet 138 ended.(875542+0x22609920).
 <-><->
       
 l.276 $$
@@ -2251,14 +2168,14 @@ l.276 $$
 Not a real error.
 
 [138]
-./_region_.tex:277: Preview: Snippet 139 started.
+! Preview: Snippet 139 started.
 <-><->
       
 l.277 $
        $
 Not a real error.
 
-./_region_.tex:279: Preview: Snippet 139 ended.(973936+0x22609920).
+! Preview: Snippet 139 ended.(973936+0x22609920).
 <-><->
       
 l.279 $$
@@ -2266,14 +2183,14 @@ l.279 $$
 Not a real error.
 
 [139]
-./_region_.tex:280: Preview: Snippet 140 started.
+! Preview: Snippet 140 started.
 <-><->
       
 l.280 Suppose $
                S$ is the set of all positive semidefinite
 Not a real error.
 
-./_region_.tex:280: Preview: Snippet 140 ended.(447828+0x439636).
+! Preview: Snippet 140 ended.(447828+0x439636).
 <-><->
       
 l.280 Suppose $S$
@@ -2281,14 +2198,14 @@ l.280 Suppose $S$
 Not a real error.
 
 [140]
-./_region_.tex:281: Preview: Snippet 141 started.
+! Preview: Snippet 141 started.
 <-><->
       
 l.281 completions of $
                       A$, $S$ is closed, convex and bounded. This
 Not a real error.
 
-./_region_.tex:281: Preview: Snippet 141 ended.(447828+0x491521).
+! Preview: Snippet 141 ended.(447828+0x491521).
 <-><->
       
 l.281 completions of $A$
@@ -2296,14 +2213,14 @@ l.281 completions of $A$
 Not a real error.
 
 [141]
-./_region_.tex:281: Preview: Snippet 142 started.
+! Preview: Snippet 142 started.
 <-><->
       
 l.281 completions of $A$, $
                            S$ is closed, convex and bounded. This
 Not a real error.
 
-./_region_.tex:281: Preview: Snippet 142 ended.(447828+0x439636).
+! Preview: Snippet 142 ended.(447828+0x439636).
 <-><->
       
 l.281 completions of $A$, $S$
@@ -2311,14 +2228,14 @@ l.281 completions of $A$, $S$
 Not a real error.
 
 [142]
-./_region_.tex:289: Preview: Snippet 143 started.
+! Preview: Snippet 143 started.
 <-><->
       
 l.289 When $
             A^*$ is the optimal solution, suppose the element
 Not a real error.
 
-./_region_.tex:289: Preview: Snippet 143 ended.(451272+0x792805).
+! Preview: Snippet 143 ended.(451272+0x792805).
 <-><->
       
 l.289 When $A^*$
@@ -2326,14 +2243,14 @@ l.289 When $A^*$
 Not a real error.
 
 [143]
-./_region_.tex:290: Preview: Snippet 144 started.
+! Preview: Snippet 144 started.
 <-><->
       
 l.290 $
        a_{ij}$ is unspecified, then the gradient at $a_{ij}$
 Not a real error.
 
-./_region_.tex:290: Preview: Snippet 144 ended.(282168+187504x807976).
+! Preview: Snippet 144 ended.(282168+187504x807976).
 <-><->
       
 l.290 $a_{ij}$
@@ -2341,14 +2258,14 @@ l.290 $a_{ij}$
 Not a real error.
 
 [144]
-./_region_.tex:290: Preview: Snippet 145 started.
+! Preview: Snippet 145 started.
 <-><->
       
 l.290 ...}$ is unspecified, then the gradient at $
                                                   a_{ij}$
 Not a real error.
 
-./_region_.tex:290: Preview: Snippet 145 ended.(282168+187504x807976).
+! Preview: Snippet 145 ended.(282168+187504x807976).
 <-><->
       
 l.290 ...nspecified, then the gradient at $a_{ij}$
@@ -2356,14 +2273,14 @@ l.290 ...nspecified, then the gradient at $a_{ij}$
 Not a real error.
 
 [145]
-./_region_.tex:291: Preview: Snippet 146 started.
+! Preview: Snippet 146 started.
 <-><->
       
 l.291 should be $
                  0$. Therefore we have:
 Not a real error.
 
-./_region_.tex:291: Preview: Snippet 146 ended.(422343+0x327681).
+! Preview: Snippet 146 ended.(422343+0x327681).
 <-><->
       
 l.291 should be $0$
@@ -2371,14 +2288,14 @@ l.291 should be $0$
 Not a real error.
 
 [146]
-./_region_.tex:292: Preview: Snippet 147 started.
+! Preview: Snippet 147 started.
 <-><->
       
 l.292 $
        $
 Not a real error.
 
-./_region_.tex:294: Preview: Snippet 147 ended.(1637461+0x22609920).
+! Preview: Snippet 147 ended.(1637461+0x22609920).
 <-><->
       
 l.294 $$
@@ -2386,14 +2303,14 @@ l.294 $$
 Not a real error.
 
 [147]
-./_region_.tex:296: Preview: Snippet 148 started.
+! Preview: Snippet 148 started.
 <-><->
       
 l.296 jith element are all 0s. Therefore, $
                                            A^*$ has zeros in
 Not a real error.
 
-./_region_.tex:296: Preview: Snippet 148 ended.(451272+0x792805).
+! Preview: Snippet 148 ended.(451272+0x792805).
 <-><->
       
 l.296 jith element are all 0s. Therefore, $A^*$
@@ -2401,14 +2318,14 @@ l.296 jith element are all 0s. Therefore, $A^*$
 Not a real error.
 
 [148]
-./_region_.tex:300: Preview: Snippet 149 started.
+! Preview: Snippet 149 started.
 <-><->
       
 l.300 \subsubsection
                     {d}
 Not a real error.
 
-./_region_.tex:300: Preview: Snippet 149 ended.(455111+0x22609920).
+! Preview: Snippet 149 ended.(455111+0x22609920).
 <-><->
       
 l.300 \subsubsection{d}
@@ -2418,14 +2335,14 @@ Not a real error.
 [149
 
 ]
-./_region_.tex:301: Preview: Snippet 150 started.
+! Preview: Snippet 150 started.
 <-><->
       
 l.301 ...xists a positive definite completion of $
                                                   A$, then
 Not a real error.
 
-./_region_.tex:301: Preview: Snippet 150 ended.(447828+0x491521).
+! Preview: Snippet 150 ended.(447828+0x491521).
 <-><->
       
 l.301 ...sts a positive definite completion of $A$
@@ -2433,14 +2350,14 @@ l.301 ...sts a positive definite completion of $A$
 Not a real error.
 
 [150]
-./_region_.tex:303: Preview: Snippet 151 started.
+! Preview: Snippet 151 started.
 <-><->
       
 l.303 definite completion $
                            A^*$ for $A$ which maximizes the
 Not a real error.
 
-./_region_.tex:303: Preview: Snippet 151 ended.(451272+0x792805).
+! Preview: Snippet 151 ended.(451272+0x792805).
 <-><->
       
 l.303 definite completion $A^*$
@@ -2448,14 +2365,14 @@ l.303 definite completion $A^*$
 Not a real error.
 
 [151]
-./_region_.tex:303: Preview: Snippet 152 started.
+! Preview: Snippet 152 started.
 <-><->
       
 l.303 definite completion $A^*$ for $
                                      A$ which maximizes the
 Not a real error.
 
-./_region_.tex:303: Preview: Snippet 152 ended.(447828+0x491521).
+! Preview: Snippet 152 ended.(447828+0x491521).
 <-><->
       
 l.303 definite completion $A^*$ for $A$
@@ -2463,14 +2380,14 @@ l.303 definite completion $A^*$ for $A$
 Not a real error.
 
 [152]
-./_region_.tex:304: Preview: Snippet 153 started.
+! Preview: Snippet 153 started.
 <-><->
       
 l.304 determinant. Because as section c proved $
                                                 A^*$ has zeros in
 Not a real error.
 
-./_region_.tex:304: Preview: Snippet 153 ended.(451272+0x792805).
+! Preview: Snippet 153 ended.(451272+0x792805).
 <-><->
       
 l.304 ...minant. Because as section c proved $A^*$
@@ -2478,14 +2395,14 @@ l.304 ...minant. Because as section c proved $A^*$
 Not a real error.
 
 [153]
-./_region_.tex:306: Preview: Snippet 154 started.
+! Preview: Snippet 154 started.
 <-><->
       
 l.306 $
        (A^*)^{-1}$ is tridiagonal.
 Not a real error.
 
-./_region_.tex:306: Preview: Snippet 154 ended.(533465+163840x2006135).
+! Preview: Snippet 154 ended.(533465+163840x2006135).
 <-><->
       
 l.306 $(A^*)^{-1}$
@@ -2493,14 +2410,14 @@ l.306 $(A^*)^{-1}$
 Not a real error.
 
 [154]
-./_region_.tex:310: Preview: Snippet 155 started.
+! Preview: Snippet 155 started.
 <-><->
       
 l.310 \subsection
                  {Prob 5.12}
 Not a real error.
 
-./_region_.tex:310: Preview: Snippet 155 ended.(546132+0x22609920).
+! Preview: Snippet 155 ended.(546132+0x22609920).
 <-><->
       
 l.310 \subsection{Prob 5.12}
@@ -2510,14 +2427,14 @@ Not a real error.
 [155
 
 ]
-./_region_.tex:311: Preview: Snippet 156 started.
+! Preview: Snippet 156 started.
 <-><->
       
 l.311 Let $
            A$ be a matrix whose ith row is $a_i^T$, by introduce
 Not a real error.
 
-./_region_.tex:311: Preview: Snippet 156 ended.(447828+0x491521).
+! Preview: Snippet 156 ended.(447828+0x491521).
 <-><->
       
 l.311 Let $A$
@@ -2525,14 +2442,14 @@ l.311 Let $A$
 Not a real error.
 
 [156]
-./_region_.tex:311: Preview: Snippet 157 started.
+! Preview: Snippet 157 started.
 <-><->
       
 l.311 Let $A$ be a matrix whose ith row is $
                                             a_i^T$, by introduce
 Not a real error.
 
-./_region_.tex:311: Preview: Snippet 157 ended.(551306+170585x759270).
+! Preview: Snippet 157 ended.(551306+170585x759270).
 <-><->
       
 l.311 Let $A$ be a matrix whose ith row is $a_i^T$
@@ -2540,14 +2457,14 @@ l.311 Let $A$ be a matrix whose ith row is $a_i^T$
 Not a real error.
 
 [157]
-./_region_.tex:312: Preview: Snippet 158 started.
+! Preview: Snippet 158 started.
 <-><->
       
 l.312 equality constraints $
                             y_i=b_i-a_i^Tx$ we have:
 Not a real error.
 
-./_region_.tex:312: Preview: Snippet 158 ended.(551306+170585x3847567).
+! Preview: Snippet 158 ended.(551306+170585x3847567).
 <-><->
       
 l.312 equality constraints $y_i=b_i-a_i^Tx$
@@ -2555,14 +2472,14 @@ l.312 equality constraints $y_i=b_i-a_i^Tx$
 Not a real error.
 
 [158]
-./_region_.tex:313: Preview: Snippet 159 started.
+! Preview: Snippet 159 started.
 <-><->
       
 l.313 $
        $
 Not a real error.
 
-./_region_.tex:315: Preview: Snippet 159 ended.(1986565+0x22609920).
+! Preview: Snippet 159 ended.(1986565+0x22609920).
 <-><->
       
 l.315 $$
@@ -2570,14 +2487,14 @@ l.315 $$
 Not a real error.
 
 [159]
-./_region_.tex:316: Preview: Snippet 160 started.
+! Preview: Snippet 160 started.
 <-><->
       
 l.316 $
        $
 Not a real error.
 
-./_region_.tex:318: Preview: Snippet 160 ended.(913863+0x22609920).
+! Preview: Snippet 160 ended.(913863+0x22609920).
 <-><->
       
 l.318 $$
@@ -2585,14 +2502,14 @@ l.318 $$
 Not a real error.
 
 [160]
-./_region_.tex:320: Preview: Snippet 161 started.
+! Preview: Snippet 161 started.
 <-><->
       
 l.320 \begin{align*}
                     
 Not a real error.
 
-./_region_.tex:323: Preview: Snippet 161 ended.(4104202+0x17427274).
+! Preview: Snippet 161 ended.(4104202+0x17427274).
 <-><->
       
 l.323 \end{align*}
@@ -2600,14 +2517,14 @@ l.323 \end{align*}
 Not a real error.
 
 [161]
-./_region_.tex:325: Preview: Snippet 162 started.
+! Preview: Snippet 162 started.
 <-><->
       
 l.325 $
        $
 Not a real error.
 
-./_region_.tex:327: Preview: Snippet 162 ended.(1986565+0x22609920).
+! Preview: Snippet 162 ended.(1986565+0x22609920).
 <-><->
       
 l.327 $$
@@ -2615,14 +2532,14 @@ l.327 $$
 Not a real error.
 
 [162]
-./_region_.tex:328: Preview: Snippet 163 started.
+! Preview: Snippet 163 started.
 <-><->
       
 l.328 When we consider in terms of $
                                     y$, this function is unbounded
 Not a real error.
 
-./_region_.tex:328: Preview: Snippet 163 ended.(282168+127431x344824).
+! Preview: Snippet 163 ended.(282168+127431x344824).
 <-><->
       
 l.328 When we consider in terms of $y$
@@ -2630,14 +2547,14 @@ l.328 When we consider in terms of $y$
 Not a real error.
 
 [163]
-./_region_.tex:329: Preview: Snippet 164 started.
+! Preview: Snippet 164 started.
 <-><->
       
 l.329 below if $
                 v\preceq0$. Therefore, the function is bounded
 Not a real error.
 
-./_region_.tex:329: Preview: Snippet 164 ended.(422343+89110x1542668).
+! Preview: Snippet 164 ended.(422343+89110x1542668).
 <-><->
       
 l.329 below if $v\preceq0$
@@ -2645,14 +2562,14 @@ l.329 below if $v\preceq0$
 Not a real error.
 
 [164]
-./_region_.tex:330: Preview: Snippet 165 started.
+! Preview: Snippet 165 started.
 <-><->
       
 l.330 only if $
                v\succ0$. Because $y_i\geq0$, if we take derivative
 Not a real error.
 
-./_region_.tex:330: Preview: Snippet 165 ended.(422343+25623x1542668).
+! Preview: Snippet 165 ended.(422343+25623x1542668).
 <-><->
       
 l.330 only if $v\succ0$
@@ -2660,14 +2577,14 @@ l.330 only if $v\succ0$
 Not a real error.
 
 [165]
-./_region_.tex:330: Preview: Snippet 166 started.
+! Preview: Snippet 166 started.
 <-><->
       
 l.330 only if $v\succ0$. Because $
                                   y_i\geq0$, if we take derivative
 Not a real error.
 
-./_region_.tex:330: Preview: Snippet 166 ended.(422343+127431x1740986).
+! Preview: Snippet 166 ended.(422343+127431x1740986).
 <-><->
       
 l.330 only if $v\succ0$. Because $y_i\geq0$
@@ -2675,14 +2592,14 @@ l.330 only if $v\succ0$. Because $y_i\geq0$
 Not a real error.
 
 [166]
-./_region_.tex:331: Preview: Snippet 167 started.
+! Preview: Snippet 167 started.
 <-><->
       
 l.331 in terms of $
                    y$ and set it equals $0$ we have the function
 Not a real error.
 
-./_region_.tex:331: Preview: Snippet 167 ended.(282168+127431x344824).
+! Preview: Snippet 167 ended.(282168+127431x344824).
 <-><->
       
 l.331 in terms of $y$
@@ -2690,14 +2607,14 @@ l.331 in terms of $y$
 Not a real error.
 
 [167]
-./_region_.tex:331: Preview: Snippet 168 started.
+! Preview: Snippet 168 started.
 <-><->
       
 l.331 in terms of $y$ and set it equals $
                                          0$ we have the function
 Not a real error.
 
-./_region_.tex:331: Preview: Snippet 168 ended.(422343+0x327681).
+! Preview: Snippet 168 ended.(422343+0x327681).
 <-><->
       
 l.331 in terms of $y$ and set it equals $0$
@@ -2705,14 +2622,14 @@ l.331 in terms of $y$ and set it equals $0$
 Not a real error.
 
 [168]
-./_region_.tex:333: Preview: Snippet 169 started.
+! Preview: Snippet 169 started.
 <-><->
       
 l.333 $
        $
 Not a real error.
 
-./_region_.tex:335: Preview: Snippet 169 ended.(1479083+0x22609920).
+! Preview: Snippet 169 ended.(1479083+0x22609920).
 <-><->
       
 l.335 $$
@@ -2720,14 +2637,14 @@ l.335 $$
 Not a real error.
 
 [169]
-./_region_.tex:336: Preview: Snippet 170 started.
+! Preview: Snippet 170 started.
 <-><->
       
 l.336 In terms of $
                    x$ the function is unbounded below if
 Not a real error.
 
-./_region_.tex:336: Preview: Snippet 170 ended.(282168+0x374556).
+! Preview: Snippet 170 ended.(282168+0x374556).
 <-><->
       
 l.336 In terms of $x$
@@ -2735,14 +2652,14 @@ l.336 In terms of $x$
 Not a real error.
 
 [170]
-./_region_.tex:337: Preview: Snippet 171 started.
+! Preview: Snippet 171 started.
 <-><->
       
 l.337 $
        v^TA\neq0$. Therefore we have the dual function:
 Not a real error.
 
-./_region_.tex:337: Preview: Snippet 171 ended.(551306+127430x2447043).
+! Preview: Snippet 171 ended.(551306+127430x2447043).
 <-><->
       
 l.337 $v^TA\neq0$
@@ -2750,14 +2667,14 @@ l.337 $v^TA\neq0$
 Not a real error.
 
 [171]
-./_region_.tex:338: Preview: Snippet 172 started.
+! Preview: Snippet 172 started.
 <-><->
       
 l.338 \begin{align*}
                     
 Not a real error.
 
-./_region_.tex:344: Preview: Snippet 172 ended.(1966099+0x18140201).
+! Preview: Snippet 172 ended.(1966099+0x18140201).
 <-><->
       
 l.344 \end{align*}
@@ -2765,14 +2682,14 @@ l.344 \end{align*}
 Not a real error.
 
 [172]
-./_region_.tex:346: Preview: Snippet 173 started.
+! Preview: Snippet 173 started.
 <-><->
       
 l.346 $
        $
 Not a real error.
 
-./_region_.tex:348: Preview: Snippet 173 ended.(1986565+0x22609920).
+! Preview: Snippet 173 ended.(1986565+0x22609920).
 <-><->
       
 l.348 $$
@@ -2780,14 +2697,14 @@ l.348 $$
 Not a real error.
 
 [173]
-./_region_.tex:349: Preview: Snippet 174 started.
+! Preview: Snippet 174 started.
 <-><->
       
 l.349 $
        $
 Not a real error.
 
-./_region_.tex:351: Preview: Snippet 174 ended.(913863+0x22609920).
+! Preview: Snippet 174 ended.(913863+0x22609920).
 <-><->
       
 l.351 $$
@@ -2795,14 +2712,14 @@ l.351 $$
 Not a real error.
 
 [174]
-./_region_.tex:354: Preview: Snippet 175 started.
+! Preview: Snippet 175 started.
 <-><->
       
 l.354 \subsection
                  {Prob 5.31}
 Not a real error.
 
-./_region_.tex:354: Preview: Snippet 175 ended.(546132+0x22609920).
+! Preview: Snippet 175 ended.(546132+0x22609920).
 <-><->
       
 l.354 \subsection{Prob 5.31}
@@ -2812,7 +2729,7 @@ Not a real error.
 [175
 
 ]
-./_region_.tex:356: Preview: Snippet 176 started.
+! Preview: Snippet 176 started.
 <-><->
       
 l.356 are hence convex. $
@@ -2820,7 +2737,7 @@ l.356 are hence convex. $
 
 Not a real error.
 
-./_region_.tex:356: Preview: Snippet 176 ended.(451272+25623x2336233).
+! Preview: Snippet 176 ended.(451272+25623x2336233).
 <-><->
       
 l.356 are hence convex. $x^*\in R^n$
@@ -2829,7 +2746,7 @@ l.356 are hence convex. $x^*\in R^n$
 Not a real error.
 
 [176]
-./_region_.tex:356: Preview: Snippet 177 started.
+! Preview: Snippet 177 started.
 <-><->
       
 l.356 are hence convex. $x^*\in R^n$ and $
@@ -2837,7 +2754,7 @@ l.356 are hence convex. $x^*\in R^n$ and $
 
 Not a real error.
 
-./_region_.tex:356: Preview: Snippet 177 ended.(455111+25623x2485057).
+! Preview: Snippet 177 ended.(455111+25623x2485057).
 <-><->
       
 l.356 ...nvex. $x^*\in R^n$ and $\lambda^*\in R^m$
@@ -2846,14 +2763,14 @@ l.356 ...nvex. $x^*\in R^n$ and $\lambda^*\in R^m$
 Not a real error.
 
 [177]
-./_region_.tex:356: Preview: Snippet 178 started.
+! Preview: Snippet 178 started.
 <-><->
       
 l.356 ...in R^n$ and $\lambda^*\in R^m$. For any $
                                                   x$ that is feasible we have:
 Not a real error.
 
-./_region_.tex:356: Preview: Snippet 178 ended.(282168+0x374556).
+! Preview: Snippet 178 ended.(282168+0x374556).
 <-><->
       
 l.356 ... R^n$ and $\lambda^*\in R^m$. For any $x$
@@ -2861,14 +2778,14 @@ l.356 ... R^n$ and $\lambda^*\in R^m$. For any $x$
 Not a real error.
 
 [178]
-./_region_.tex:357: Preview: Snippet 179 started.
+! Preview: Snippet 179 started.
 <-><->
       
 l.357 $
        $
 Not a real error.
 
-./_region_.tex:360: Preview: Snippet 179 ended.(950272+0x22609920).
+! Preview: Snippet 179 ended.(950272+0x22609920).
 <-><->
       
 l.360 $$
@@ -2876,14 +2793,14 @@ l.360 $$
 Not a real error.
 
 [179]
-./_region_.tex:362: Preview: Snippet 180 started.
+! Preview: Snippet 180 started.
 <-><->
       
 l.362 \begin{align}
                    
 Not a real error.
 
-./_region_.tex:366: Preview: Snippet 180 ended.(4104202+0x22609920).
+! Preview: Snippet 180 ended.(4104202+0x22609920).
 <-><->
       
 l.366 \end{align}
@@ -2893,14 +2810,14 @@ Not a real error.
 [180
 
 ]
-./_region_.tex:368: Preview: Snippet 181 started.
+! Preview: Snippet 181 started.
 <-><->
       
 l.368 $
        \sum_{i=1}^m\lambda_i^*f_i(x^*)=0$ and
 Not a real error.
 
-./_region_.tex:368: Preview: Snippet 181 ended.(527024+196611x5292413).
+! Preview: Snippet 181 ended.(527024+196611x5292413).
 <-><->
       
 l.368 $\sum_{i=1}^m\lambda_i^*f_i(x^*)=0$
@@ -2908,14 +2825,14 @@ l.368 $\sum_{i=1}^m\lambda_i^*f_i(x^*)=0$
 Not a real error.
 
 [181]
-./_region_.tex:369: Preview: Snippet 182 started.
+! Preview: Snippet 182 started.
 <-><->
       
 l.369 $
        \sum_{i=1}^m\lambda_i^*\nabla f_i(x^*)^T=-\nabla f_0(x^*)$.
 Not a real error.
 
-./_region_.tex:369: Preview: Snippet 182 ended.(551306+196611x8780006).
+! Preview: Snippet 182 ended.(551306+196611x8780006).
 <-><->
       
 l.369 ...da_i^*\nabla f_i(x^*)^T=-\nabla f_0(x^*)$
@@ -2926,14 +2843,14 @@ Not a real error.
 
 LaTeX Warning: Reference `eq:1' on page 4 undefined on input line 370.
 
-./_region_.tex:371: Preview: Snippet 183 started.
+! Preview: Snippet 183 started.
 <-><->
       
 l.371 $
        $
 Not a real error.
 
-./_region_.tex:373: Preview: Snippet 183 ended.(950272+0x22609920).
+! Preview: Snippet 183 ended.(950272+0x22609920).
 <-><->
       
 l.373 $$
@@ -2947,13 +2864,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1294 strings out of 493033
- 14947 string characters out of 6134139
- 71153 words of memory out of 5000000
- 4854 multiletter control sequences out of 15000+600000
- 11503 words of font info for 45 fonts, out of 8000000 for 9000
+ 206 strings out of 491912
+ 2889 string characters out of 6121276
+ 71358 words of memory out of 5000000
+ 4867 multiletter control sequences out of 15000+600000
+ 12681 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,18n,26p,425b,240s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 22i,18n,24p,169b,240s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -2966,7 +2883,7 @@ cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texli
 ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on _region_.pdf (183 pages, 164349 bytes).
+Output written on _region_.pdf (183 pages, 164348 bytes).
 PDF statistics:
  643 PDF objects out of 1000 (max. 8388607)
  441 compressed objects within 5 object streams

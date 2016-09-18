@@ -209,7 +209,7 @@ $x_i=0$ for $i>k^*+1$.
 
 
 \subsection{Prob 4.9}
-Because $A$ is nonsingular, we have $A^{-1}$. Substituting
+Because $A$ is nonsingular and square, we have $A^{-1}$. Substituting
 $y=Ax$ into the primal problem we have:
 $$
 \text{minimize\;} c^TA^{-1}y
@@ -224,24 +224,89 @@ $p^*=c^TA^{-1}b$ when $y=b$ namely $x=A^{-1}b$.
 \subsection{Prob 4.47}
 
 \subsubsection{a}
-
+This is because for any unspecified diagonal entry, we can
+choose an arbitrary large values. By doing this we only need
+to consider submatrix composed by all specified diagonla
+entries and their corresponding rows and columns. For
+example, if one diagonal entry $a_{ii}$ in $A$ is
+unspecified, we can assign it to inifinity. Then to satisfy
+the condition $A\succeq0$ we only need to consider the
+submatrix of $A$ with ith row and ith column removed
+$\hat{A}\succeq0$. By doing this we can only consider the
+submatrix made by only specified diagonal entries and their
+corresponding rows and columns. 
 
 
 \subsubsection{b}
-
-
+Suppose $A_j, b_j$ where $j=1,...m$ are all of those
+specified entries, we can formulate the problem as:
+$$
+\text{minimize } s
+$$
+$$
+-A\preceq sI
+$$
+$$
+A_jA=b_j \text{  , where } j=1,\dots m
+$$
+The problem is feasible when $s\leq0$.
 
 \subsubsection{c}
+The optimization problem can be formulated as:
+$$
+\text{maximize } |A|
+$$
+$$
+-A\preceq 0
+$$
+$$
+A_jA=b_j \text{  , where } j=1,\dots m
+$$
+Because $A\succeq0$, $-\text{log}det(A)$ is a strictly
+convex function over positive definite matrix $A$. The
+problem can be reformulated as:
+$$
+\text{minimize } -logdet(A)
+$$
+$$
+-A\preceq 0
+$$
+$$
+A_jA=b_j \text{  , where } j=1,\dots m
+$$
+Suppose $S$ is the set of all positive semidefinite
+completions of $A$, $S$ is closed, convex and bounded. This
+is because all diagonal entries are specified. Therefore,
+entries which are not on the diagonal cannot exceed the
+maximum diagonal entry otherwise the matrix will not be
+positive definite. Therefore, the problem is a convex
+optimization problem defined on a convex set and hence has a
+unique optimum point.
 
+When $A^*$ is the optimal solution, suppose the element
+$a_{ij}$ is unspecified, then the gradient at $a_{ij}$
+should be $0$. Therefore we have:
+$$
+\frac{\partial f_0(A^*)}{\partial a_{ij}} = 2\text{tr}(A^*)^{-1}E_{ij}=0
+$$
+Because A is symmetric therefore the ijth element as well as
+jith element are all 0s. Therefore, $A^*$ has zeros in
+all unspecified entries of the origin matrix.
 
 
 \subsubsection{d}
-
+If there exists a positive definite completion of $A$, then
+as section c proved, there exists an unique positive
+definite completion $A^*$ for $A$ which maximizes the
+determinant. Because as section c proved $A^*$ has zeros in
+all unspecified entries of the origin matrix, so
+$(A^*)^{-1}$ is tridiagonal.
 
 
 
 \subsection{Prob 5.12}
-Let $A$ be a matrix whose ith row is $a_i^T$, by introduce equality constraints $y_i=b_i-a_i^Tx$ we have:
+Let $A$ be a matrix whose ith row is $a_i^T$, by introduce
+equality constraints $y_i=b_i-a_i^Tx$ we have:
 $$
 \text{minimize\;} -\sum_i^m\text{log\;}y_i
 $$
@@ -287,8 +352,8 @@ $$
 Because the problem is convex, every inequality consitraints
 are hence convex. $x^*\in R^n$ and $\lambda^*\in R^m$. For any $x$ that is feasible we have:
 $$
-0\geq f_i(x) \geq f_i(x^*) +\nabla f_i(x^*)^T(x-x^*)\text{ for
-  all } i=1,\dots,m
+0\geq f_i(x) \geq f_i(x^*) +\nabla f_i(x^*)^T(x-x^*)\text{
+  for all } i=1,\dots,m
 $$
 Therefore, for all inequality constraints we have:
 \begin{align}

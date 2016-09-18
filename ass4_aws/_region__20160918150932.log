@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.29)  28 AUG 2016 23:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.29)  18 SEP 2016 13:01
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**ass3_ChangLi.tex
-(./ass3_ChangLi.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+**\nonstopmode\nofiles\PassOptionsToPackage{active,tightpage,auctex}{preview}\A
+tBeginDocument{\ifx\ifPreview\undefined\RequirePackage[displaymath,floats,graph
+ics,textmath,sections,footnotes]{preview}[2004/11/05]\fi} \input _region_.tex
+(./_region_.tex  !name(ass4_ChangLi.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
@@ -92,9 +93,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(./ass3_ChangLi.aux)
-\openout1 = `ass3_ChangLi.aux'.
-
+No file _region_.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
@@ -107,55 +106,73 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/preview.sty
+Package: preview 2010/02/14 11.89 (AUCTeX/preview-latex)
+
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prtightpage.def
+\PreviewBorder=\dimen112
+)
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count99
+\hfuzz=\dimen113
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.cfg))
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prfootnotes.def)
+\pr@snippet=\count100
+\pr@box=\box28
+\pr@output=\toks20
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+)  !name(ass4_ChangLi.tex) !offset(149) 
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+./_region_.tex:8: Preview: Snippet 1 started.
+<-><->
+      
+l.8 \begin{align*}
+                  
+Not a real error.
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4] [5]
-Overfull \hbox (32.28284pt too wide) in paragraph at lines 363--368
-\OT1/cmr/m/n/10 According to KKT con-di-tions, we have that $[][] \OML/cmm/m/it
-/10 ^^U[]f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) = 0$ and $[]
-[] \OML/cmm/m/it/10 ^^U[]\OMS/cmsy/m/n/10 r\OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 
-(\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 )[] =
- []
+Preview: Tightpage -32891 -32891 32891 32891
+./_region_.tex:15: Preview: Snippet 1 ended.(2831145+0x16794001).
+<-><->
+      
+l.15 \end{align*}
+                 
+Not a real error.
 
-(./ass3_ChangLi.bbl) [6] (./ass3_ChangLi.aux) ) 
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+No file _region_.bbl.
+ ) 
 Here is how much of TeX's memory you used:
- 1135 strings out of 493033
- 12688 string characters out of 6134139
- 72005 words of memory out of 5000000
- 4704 multiletter control sequences out of 15000+600000
- 11849 words of font info for 46 fonts, out of 8000000 for 9000
+ 1257 strings out of 493033
+ 14547 string characters out of 6134139
+ 67153 words of memory out of 5000000
+ 4829 multiletter control sequences out of 15000+600000
+ 5339 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,16n,26p,208b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2015/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmti10.pfb>
-Output written on ass3_ChangLi.pdf (6 pages, 169686 bytes).
+ 27i,16n,26p,425b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on _region_.pdf (1 page, 48192 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 32 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

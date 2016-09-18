@@ -1,0 +1,172 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage{amssymb,amsmath}
+
+\begin{document}
+\title{Ass4 Solutions}
+\author{Chang Li}
+\maketitle
+
+\section{Solutions}
+
+\subsection{Prob 6.2}
+
+\subsubsection{l1 norm}
+
+The equivalent LP problem is:
+$$
+\text{minimize} \sum_{i=1}^n 1^Ty
+$$
+$$
+\text{s.t.\;}  -y \preceq x1-b \preceq y
+$$
+This is equivalent to let $y_i = |x - b_i|$. Therefore the problem
+reaches minimum when $x$ equals the median of the vector $b$.
+
+\subsubsection{l2 norm}
+We want the closest point $x1$ in the subspace to b, namely
+we want the error $e = x1 - b$ to be orthogonal to $C(1)$,
+which equivalent to being in $N(1^T)$. The problem reaches
+it's minimum when solution satisfies:
+$$
+1^T1x=1^Tb
+$$
+Suppose $b\in R^n$ then $x=\frac{1^Tb}{n}$.
+
+
+\subsubsection{l$\infty$ norm}
+
+The equivalent LP problem is:
+$$
+\text{minimize \;\;}\sum_{i=1}^n 1^Ty
+$$
+$$
+\text{s.t.\;}  -y1 \preceq x1-b \preceq y1
+$$
+This is equivalent to let $y \geq \text{max\;}|x - b_i|$.
+Therefore the problem reaches its minimum when $y$ equals
+the midpoint of vector $b$. Suppose $b_1 \dots b_n$ is
+written in nondecreasing order, then $y=\frac{b_n-b_1}{2}$.
+
+
+\subsection{Prob 6.6}
+Because the variables are $x$ and $r$, the Lagrangian of the
+original problem is:
+$$
+L(x,r,v) = \sum_{i=1}^{m}\phi(r_i)+v^T(Ax-b-r)
+$$
+Therefore, $L$ reaches minimum when $v^TA=0$. Plug $L$ into
+$g(v)$ we have: 
+\begin{align*}
+  g(v)=
+  \begin{cases}
+    -b^tv+\sum_{i=1}^{m}\text{inf}_{r_i}(\phi(r_i)-v_ir_i) & A^Tv=0 \\
+    -\infty & \text{otherwise}
+  \end{cases}
+\end{align*}
+Because 
+$$\text{inf}(\phi(r_i) - v_ir_i) = - \text{sup}(v_ir_i - \phi(r_i)) = -\phi^*(v_i)$$
+Where $\phi^*(v_i)$ is the conjugate function of
+$\phi(r_i)$. Therefore the dual problem can be written as:
+$$\text{maximize\;\;} -b^Tv-\sum_{i=1}^{m}\phi^*(v_i)$$
+$$\text{s.t.\;\;} A^Tv=0$$
+To find the dual problem of penalty functions we only need
+to find their conjugate functions.
+
+\subsubsection{a}
+The conjugate function of deadzone-linear penalty is:
+\begin{align*}
+  \phi^*(z) = 
+  \begin{cases}
+    |z| & |z|\leq 1\\
+    \infty & \text{otherwise}
+  \end{cases}
+\end{align*}
+To plug $\phi^*(z)$ into the object function, we need to
+ensure the function is bounded. Therefore the vector $v$
+has to satisfy the constraint $||z||_{\infty}\leq 1$. Then
+we have:
+$$\text{maximize\;\;} -b^Tv-\sum_{i=1}^{m}|v_i|$$
+$$\text{s.t.\;\;} A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 1$$
+\subsubsection{b}
+The conjugate function of deadzone-linear penalty is:
+\begin{align*}
+  \phi^*(z) = 
+  \begin{cases}
+    \frac{z^2}{4} & |z|\leq 2\\
+    \infty & \text{otherwise}
+  \end{cases}
+\end{align*}
+To plug $\phi^*(z)$ into the object function, we need to
+ensure the function is bounded. Therefore the vector $v$
+has to satisfy the constraint $||z||_{\infty}\leq 2$. Then
+we have:
+
+$$\text{maximize\;\;} -b^Tv-\frac{1}{4}\sum_{i=1}^{m}z_i^2$$
+$$\text{s.t.\;\;} A^Tv=0\text{,\;\;} ||v||_{\infty}\leq 2$$
+
+\subsection{Prob 7.6}
+
+Because $h(y)=x=ay-b$, so the density of $y$ is
+$p(y)=p(h(y))h'(y)$:
+$$p(y)= ap(ay-b)$$ 
+Then the log-likelihood becomes:
+$$ \text{log}p(y) = \text{log}a + \text{log}p(ay-b)$$
+Given samples $y_1\dots y_n$ of $y$, the ML estimate of $a$
+and $b$ is equivalent to maximize the sum of log-likelihood:
+$$\sum_{i=1}^{n}\text{log}p(y_i)=n\text{log}a+\sum_{i=1}^{n}\text{log}p(ay_i-b)$$
+Since $p$ is log concave, then the function is also a
+concave function. Therefore, the ML estimates of a and b is
+a concave(its negative is convex) problem.
+
+When $p(x)=e^{-2|x|}$, the ML estimation becomes solving
+$$ \text{minimize\;\;\;\;}-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$$
+Let $c=b/a$, the problem reaches minimum when $c$ equals the
+median of $y$ (proved by section 1.1.1). 
+$$ \text{minimize\;\;\;\;}-n\text{log}a+2a\sum_{i=1}^{n}|y_i-c|$$
+Suppose the median of $y$ is $y_k$. Then $a^*$ can be found
+by setting the partial derivative of function
+$-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$ $\frac{\partial
+  f}{\partial a}=0$. Namely: 
+$$a^* = \frac{n}{2\sum_{i=1}^{n}|y_i-c|}$$
+
+Therefore, $b^*=y_ka^*$.
+
+
+\subsection{Prob 8.24}
+Because $\rho$ is the upper bound of $||u||_2$ and any
+vector has a greater norm will leads to failing of
+separating. So that $u^Tx_i$ gets its minimum value when $u$
+is on the same line as $x_i$ but with the opposite
+direction.
+
+Therefore, for all $||u||_2\leq \rho$, we have $-\rho ||x_i||_2 \leq
+u^Tx_i\leq \rho ||x_i||_2$. Therefore, we can rewrite the
+conditions for weight error margin as for $i=1\dots N$ and
+$j=1\dots M$:
+$$
+a^Tx_i-\rho||x_i||_2\geq b_i \text{,\;\;\;}
+a^Ty_j+\rho||y_j||_2\leq b_j
+$$
+Therefore we have:
+$$\rho = \min(\min_{i=1\dots
+  N}{\frac{a^Tx_i-b_i}{||x_i||_2}},\min_{j=1\dots M}{\frac{b_j-a^Ty_j}{||y_j||_2}})$$
+
+To maximize $\rho$, we can rewrite the optimizing problem of $a$, $b$ and $t$ into the maximizing
+problem:
+$$\text{maximize\;\;}t$$
+\begin{align*}
+  s.t.
+  \begin{cases}
+    a^Tx_i-b_i\geq t||x_i||_2 & i=1\dots N\\
+    b_j-a^Ty_j\geq t||y_j||_2 & j=1\dots M\\
+    ||a||_2\leq 1
+\end{cases}
+\end{align*}
+
+
+
+
+	\renewcommand\refname{Bibliography}
+	\bibliographystyle{ieeetr}
+	\bibliography{ass4_ChangLi}
+\end{document}

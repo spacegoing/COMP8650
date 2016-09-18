@@ -1,0 +1,102 @@
+\message{ !name(ass4_ChangLi.tex)}\documentclass[10pt,a4paper]{article}
+\usepackage{amssymb,amsmath}
+
+\begin{document}
+
+\message{ !name(ass4_ChangLi.tex) !offset(-3) }
+
+\title{Ass4 Solutions}
+\author{Chang Li}
+\maketitle
+
+\section{Solutions}
+
+\subsection{Prob 6.2}
+
+\subsubsection{l1 norm}
+
+The equivalent LP problem is:
+$$
+\text{minimize} \sum_{i=1}^n 1^Ty
+$$
+$$
+\text{s.t.\;}  -y \preceq x1-b \preceq y
+$$
+This is equivalent to let $y_i = |x - b_i|$. Therefore the problem
+reaches minimum when $x$ equals the median of the vector $b$.
+
+\subsubsection{l2 norm}
+We want the closest point $x1$ in the subspace to b, namely
+we want the error $e = x1 - b$ to be orthogonal to $C(1)$,
+which equivalent to being in $N(1^T)$. The problem reaches
+it's minimum when solution satisfies:
+$$
+1^T1x=1^Tb
+$$
+Suppose $b\in R^n$ then $x=\frac{1^Tb}{n}$.
+
+
+\subsubsection{l$\infty$ norm}
+
+The equivalent LP problem is:
+$$
+\text{minimize \;\;\sum_{i=1}^n 1^Ty} y
+$$
+$$
+\text{s.t.\;}  -y1 \preceq x1-b \preceq y1
+$$
+This is equivalent to let $y \geq \text{max\;}|x - b_i|$.
+Therefore the problem reaches its minimum when $y$ equals
+the midpoint of vector $b$. Suppose $b_1 \dots b_n$ is
+written in nondecreasing order, then $y=\frac{b_n-b_1}{2}$.
+
+
+
+\subsection{Prob 6.6}
+
+\subsection{Prob 6.6}
+\subsubsection{a}
+
+
+\subsubsection{b}
+
+
+\subsection{Prob 7.6}
+
+Because $h(y)=x=ay-b$, so the density of $y$ is
+$p(y)=p(h(y))h'(y)$:
+$$p(y)= ap(ay-b)$$ 
+Then the log-likelihood becomes:
+$$ \text{log}p(y) = \text{log}a + \text{log}p(ay-b)$$
+Given samples $y_1\dots y_n$ of $y$, the ML estimate of $a$
+and $b$ is equivalent to maximize the sum of log-likelihood:
+$$\sum_{i=1}^{n}\text{log}p(y_i)=n\text{log}a+\sum_{i=1}^{n}\text{log}p(ay_i-b)$$
+Since $p$ is log concave, then the function is also a
+concave function. Therefore, the ML estimates of a and b is
+a concave(its negative is convex) problem.
+
+When $p(x)=e^{-2|x|}$, the ML estimation becomes solving
+$$ \text{minimize\;\;\;\;}-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$$
+Let $c=b/a$, the problem reaches minimum when $c$ equals the
+median of $y$ (proved by section 1.1.1). 
+$$ \text{minimize\;\;\;\;}-n\text{log}a+2a\sum_{i=1}^{n}|y_i-c|$$
+Suppose the median of $y$ is $y_k$. Then $a^*$ can be found
+by setting the partial derivative of function
+$-n\text{log}a+2\sum_{i=1}^{n}|ay_i-b|$ $\frac{\partial
+  f}{\partial a}=0$. Namely: 
+$$a^* = \frac{n}{2\sum_{i=1}^{n}|y_i-c|}$$
+
+Therefore, $b^*=y_ka^*$.
+
+
+\subsection{Prob 8.24}
+
+For this question we are looking for a convex optimization problem. You do not need to give a closed-form solution.
+
+
+	\renewcommand\refname{Bibliography}
+	\bibliographystyle{ieeetr}
+	\bibliography{ass4_ChangLi}
+\end{document}
+
+\message{ !name(ass4_ChangLi.tex) !offset(-102) }

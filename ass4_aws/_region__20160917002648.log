@@ -1,0 +1,91 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=prv_ass4_ChangLi 2016.9.16)  17 SEP 2016 00:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**&prv_ass4_ChangLi _region_.tex
+(./_region_.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+CUSTOMISED FORMAT. Preloaded files:
+        .
+ article.cls    2014/09/29 v1.4h Standard LaTeX document class
+  size10.clo    2014/09/29 v1.4h Standard LaTeX file (size option)
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+ amsmath.sty    2013/01/14 v2.14 AMS math features
+ amstext.sty    2000/06/29 v2.01
+  amsgen.sty    1999/11/30 v2.0
+  amsbsy.sty    1999/11/29 v1.2d
+  amsopn.sty    1999/12/14 v2.01 operator names
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+        .
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/preview.sty
+Package: preview 2010/02/14 11.89 (AUCTeX/preview-latex)
+
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prtightpage.def
+\PreviewBorder=\dimen112
+)
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count99
+\hfuzz=\dimen113
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.cfg))
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prfootnotes.def)
+\pr@snippet=\count100
+\pr@box=\box28
+\pr@output=\toks20
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+)  !name(ass4_ChangLi.tex) !offset(32) 
+! Preview: Snippet 1 started.
+<-><->
+      
+l.7 $
+     $
+Not a real error.
+
+Preview: Tightpage -32891 -32891 32891 32891
+! Preview: Snippet 1 ended.(913863+0x22609920).
+<-><->
+      
+l.9 $$
+      
+Not a real error.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+ !name(ass4_ChangLi.tex) !offset(57)  ) 
+Here is how much of TeX's memory you used:
+ 174 strings out of 491912
+ 2542 string characters out of 6121276
+ 66358 words of memory out of 5000000
+ 4845 multiletter control sequences out of 15000+600000
+ 7422 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,4n,24p,169b,76s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on _region_.pdf (1 page, 18438 bytes).
+PDF statistics:
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
