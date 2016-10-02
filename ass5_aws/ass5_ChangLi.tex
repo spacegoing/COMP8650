@@ -18,14 +18,14 @@
 \subsection{Linear Programming}
 The problem reaches its optimal value when
 \begin{align*}
-  x=\begin{bmatrix}
+  x^*=\begin{bmatrix}
     0.5\\
     0.5\\
     0\\
     0
   \end{bmatrix}
 \end{align*}
-The optimal value is $1.5$.
+The optimal value $p^*$ is $1.5$.
 
 The following is the source code:
 \begin{lstlisting}
@@ -59,7 +59,7 @@ with mean $\mu$ and covariance $\Sigma$. Suppose $x\in R^n$,
 so the density is:
 $$p(x) = (2\pi)^{-n/2}det(\Sigma)^{-1/2}exp(-(x-\mu)^T\Sigma^{-1}(x-\mu)/2)$$
 
-The average log-likelihood function has the form:
+The average log-likelihood function has the form (constant parameters are left out):
 \begin{align*}
   l(D) & = E(\text{log}\;p(x_1,x_2,\dots,x_m))\\
        & = E(-\text{log}\;(2\pi) - \text{log}\;det\Sigma
@@ -70,13 +70,13 @@ $\mathrm{trace}(AB)=\mathrm{trace}(BA)$ therefore,
 $$(x-\mu)^T\Sigma^{-1}(x-\mu)= \mathrm{tr}((x-\mu)^T\Sigma^{-1}(x-\mu))=\mathrm{tr}(\Sigma^{-1}(x-\mu)^T(x-\mu))$$ 
 Plugging into expectation we get:
 \begin{align*}
-E[(x-\mu)^T\Sigma^{-1}(x-\mu)] &= E[\mathrm{tr}((x-\mu)^T(x-\mu)\Sigma^{-1}] )] \\
-&= \mathrm{tr}(E[(x-\mu)^T(x-\mu)\Sigma^{-1}])\\
+E[(x-\mu)^T\Sigma^{-1}(x-\mu)] &= E[\mathrm{tr}((x-\mu)^T(x-\mu)\Sigma^{-1})] \\
+&= \mathrm{tr}(E[(x-\mu)^T(x-\mu)]\Sigma^{-1})\\
 &= \mathrm{tr}(\hat{\Sigma}\Sigma^{-1})
 \end{align*}
 Plugging into the third term of $l(D)$ we can reformulate it as:
 \begin{align*}
-     l(D) &=- \text{log}\;det\Sigma - tr(\hat{\Sigma}\Sigma^{-1} )+ const \\
+     l(D) &=- \text{log}\;det\Sigma - tr(\hat{\Sigma}\Sigma^{-1} )-\text{log}(2\pi)\\
        & = \text{log}\;det\Sigma^{-1} - tr(\hat{\Sigma}\Sigma^{-1} ) + const 
 \end{align*}
 
@@ -96,7 +96,7 @@ The following figure~\ref{fig:q2vs} uses $\lambda\in [1e-5,10]$ as $x$
 axis. The blue line is number of non-zero elements in the
 matrix. The red line is the optimal value of the problem.
 The yellow line is the corresponding value of log-likelihood
-without regularization term.
+without regularization term (and constant).
 \begin{figure*}
   \centering
 	\includegraphics[width=0.7\linewidth]{Q2_vslambda.png}
@@ -132,7 +132,7 @@ The following is the source code:
       minimize ( -log_det(S) + trace(x_corr*S)...
       + lambda * sum_idx * abs(idx.*S)*sum_idx' );
       subject to
-      S==semidefinite(n,n);
+        S==semidefinite(n,n);
     cvx_end
 
     % record history
