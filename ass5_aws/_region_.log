@@ -1,0 +1,420 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=prv_ass5_ChangLi 2016.10.2)  2 OCT 2016 13:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**&prv_ass5_ChangLi _region_.tex
+(./_region_.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+CUSTOMISED FORMAT. Preloaded files:
+        .
+ article.cls    2014/09/29 v1.4h Standard LaTeX document class
+  size10.clo    2014/09/29 v1.4h Standard LaTeX file (size option)
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+ amsmath.sty    2013/01/14 v2.14 AMS math features
+ amstext.sty    2000/06/29 v2.01
+  amsgen.sty    1999/11/30 v2.0
+  amsbsy.sty    1999/11/29 v1.2d
+  amsopn.sty    1999/12/14 v2.01 operator names
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+        .
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/preview.sty
+Package: preview 2010/02/14 11.89 (AUCTeX/preview-latex)
+
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prtightpage.def
+\PreviewBorder=\dimen112
+)
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count99
+\hfuzz=\dimen113
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prauctex.cfg))
+(/Users/spacegoing/.emacs.d/elpa/auctex-11.89.1/latex/prfootnotes.def)
+\pr@snippet=\count100
+\pr@box=\box28
+\pr@output=\toks20
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+)  !name(ass5_ChangLi.tex) !offset(-3) 
+! Preview: Snippet 1 started.
+<-><->
+      
+l.12 \section
+             {Solutions}
+Not a real error.
+
+Preview: Tightpage -32891 -32891 32891 32891
+! Preview: Snippet 1 ended.(655359+0x22609920).
+<-><->
+      
+l.12 \section{Solutions}
+                        
+Not a real error.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+! Preview: Snippet 2 started.
+<-><->
+      
+l.14 \subsection
+                {Linear Programming}
+Not a real error.
+
+! Preview: Snippet 2 ended.(546132+152916x22609920).
+<-><->
+      
+l.14 \subsection{Linear Programming}
+                                    
+Not a real error.
+
+[2
+
+]
+! Preview: Snippet 3 started.
+<-><->
+      
+l.18 \subsection
+                {Regularized Maximum Likelihood Estimation}
+Not a real error.
+
+! Preview: Snippet 3 ended.(546132+152916x22609920).
+<-><->
+      
+l.18 ...Regularized Maximum Likelihood Estimation}
+                                                  
+Not a real error.
+
+[3
+
+]
+! Preview: Snippet 4 started.
+<-><->
+      
+l.20 \subsubsection
+                   {a}
+Not a real error.
+
+! Preview: Snippet 4 ended.(422343+0x22609920).
+<-><->
+      
+l.20 \subsubsection{a}
+                      
+Not a real error.
+
+[4
+
+]
+! Preview: Snippet 5 started.
+<-><->
+      
+l.21 Because dataset $
+                      D$ is drawn from a Gaussian distribution
+Not a real error.
+
+! Preview: Snippet 5 ended.(447828+0x560788).
+<-><->
+      
+l.21 Because dataset $D$
+                         is drawn from a Gaussian distribution
+Not a real error.
+
+[5]
+! Preview: Snippet 6 started.
+<-><->
+      
+l.22 with mean $
+                \mu$ and covariance $\Sigma$. Suppose $x\in R^n$,
+Not a real error.
+
+! Preview: Snippet 6 ended.(282168+127431x394886).
+<-><->
+      
+l.22 with mean $\mu$
+                     and covariance $\Sigma$. Suppose $x\in R^n$,
+Not a real error.
+
+[6]
+! Preview: Snippet 7 started.
+<-><->
+      
+l.22 with mean $\mu$ and covariance $
+                                     \Sigma$. Suppose $x\in R^n$,
+Not a real error.
+
+! Preview: Snippet 7 ended.(447828+0x473316).
+<-><->
+      
+l.22 with mean $\mu$ and covariance $\Sigma$
+                                            . Suppose $x\in R^n$,
+Not a real error.
+
+[7]
+! Preview: Snippet 8 started.
+<-><->
+      
+l.22 ...n $\mu$ and covariance $\Sigma$. Suppose $
+                                                  x\in R^n$,
+Not a real error.
+
+! Preview: Snippet 8 ended.(447828+25623x2034949).
+<-><->
+      
+l.22 ...nd covariance $\Sigma$. Suppose $x\in R^n$
+                                                  ,
+Not a real error.
+
+[8]
+! Preview: Snippet 9 started.
+<-><->
+      
+l.24 $
+      $p(x) = (2\pi)^{-n/2}det(\Sigma)^{-1/2}exp(-(x-\mu)^T\Sigma^{-1}(x-\mu...
+
+Not a real error.
+
+! Preview: Snippet 9 ended.(950272+0x22609920).
+<-><->
+      
+l.24 ...-1/2}exp(-(x-\mu)^T\Sigma^{-1}(x-\mu)/2)$$
+                                                  
+Not a real error.
+
+[9]
+! Preview: Snippet 10 started.
+<-><->
+      
+l.26 \begin{align*}
+                   
+Not a real error.
+
+! Preview: Snippet 10 ended.(3085568+0x20343920).
+<-><->
+      
+l.30 \end{align*}
+                 
+Not a real error.
+
+[10]
+! Preview: Snippet 11 started.
+<-><->
+      
+l.31 Since $
+            (x-\mu)^T\Sigma^{-1}(x-\mu)$ is a number and
+Not a real error.
+
+! Preview: Snippet 11 ended.(551306+163840x5750090).
+<-><->
+      
+l.31 Since $(x-\mu)^T\Sigma^{-1}(x-\mu)$
+                                         is a number and
+Not a real error.
+
+[11]
+! Preview: Snippet 12 started.
+<-><->
+      
+l.32 $
+      \mathrm{trace}(AB)=\mathrm{trace}(BA)$ therefore,
+Not a real error.
+
+! Preview: Snippet 12 ended.(491520+163840x6779792).
+<-><->
+      
+l.32 $\mathrm{trace}(AB)=\mathrm{trace}(BA)$
+                                             therefore,
+Not a real error.
+
+[12]
+! Preview: Snippet 13 started.
+<-><->
+      
+l.33 $
+      $(x-\mu)^T\Sigma^{-1}(x-\mu)= \mathrm{tr}((x-\mu)^T\Sigma^{-1}(x-\mu))...
+
+Not a real error.
+
+! Preview: Snippet 13 ended.(1605632+0x22609920).
+<-><->
+      
+l.33 ...\mathrm{tr}(\Sigma^{-1}(x-\mu)^T(x-\mu))$$
+                                                  
+Not a real error.
+
+[13]
+! Preview: Snippet 14 started.
+<-><->
+      
+l.35 \begin{align*}
+                   
+Not a real error.
+
+! Preview: Snippet 14 ended.(3021003+0x18979257).
+<-><->
+      
+l.39 \end{align*}
+                 
+Not a real error.
+
+[14]
+! Preview: Snippet 15 started.
+<-><->
+      
+l.40 Plugging into the third term of $
+                                      l(D)$ we can reformulate it as:
+Not a real error.
+
+! Preview: Snippet 15 ended.(491520+163840x1278956).
+<-><->
+      
+l.40 Plugging into the third term of $l(D)$
+                                            we can reformulate it as:
+Not a real error.
+
+[15]
+! Preview: Snippet 16 started.
+<-><->
+      
+l.41 \begin{align*}
+                   
+Not a real error.
+
+! Preview: Snippet 16 ended.(1975550+0x16846474).
+<-><->
+      
+l.44 \end{align*}
+                 
+Not a real error.
+
+[16]
+! Preview: Snippet 17 started.
+<-><->
+      
+l.46 \subsubsection
+                   {b}
+Not a real error.
+
+! Preview: Snippet 17 ended.(455111+0x22609920).
+<-><->
+      
+l.46 \subsubsection{b}
+                      
+Not a real error.
+
+[17
+
+]
+! Preview: Snippet 18 started.
+<-><->
+      
+l.47 Because $
+              K\succ 0$, we use the fact in section
+Not a real error.
+
+! Preview: Snippet 18 ended.(447828+25623x1804964).
+<-><->
+      
+l.47 Because $K\succ 0$
+                       , we use the fact in section
+Not a real error.
+
+[18]
+
+LaTeX Warning: Citation `boyd2004convex' on page 2 undefined on input line 48.
+
+! Preview: Snippet 19 started.
+<-><->
+      
+l.50 $
+      \mathrm{tr}(\hat{\Sigma}K)$ is also convex. And the
+Not a real error.
+
+! Preview: Snippet 19 ended.(620771+163840x2098065).
+<-><->
+      
+l.50 $\mathrm{tr}(\hat{\Sigma}K)$
+                                  is also convex. And the
+Not a real error.
+
+[19]
+! Preview: Snippet 20 started.
+<-><->
+      
+l.55 \subsubsection
+                   {c}
+Not a real error.
+
+! Preview: Snippet 20 ended.(422343+0x22609920).
+<-><->
+      
+l.55 \subsubsection{c}
+                      
+Not a real error.
+
+[20
+
+]
+! Preview: Snippet 21 started.
+<-><->
+      
+l.57 \subsection
+                {Total Variation Denoising}
+Not a real error.
+
+! Preview: Snippet 21 ended.(546132+152916x22609920).
+<-><->
+      
+l.57 \subsection{Total Variation Denoising}
+                                           
+Not a real error.
+
+[21
+
+]
+No file _region_.bbl.
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 205 strings out of 491912
+ 2883 string characters out of 6121276
+ 68358 words of memory out of 5000000
+ 4866 multiletter control sequences out of 15000+600000
+ 12681 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,12n,24p,169b,190s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on _region_.pdf (21 pages, 89839 bytes).
+PDF statistics:
+ 108 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
